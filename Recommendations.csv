@@ -1,0 +1,2001 @@
+user_id,recommendation_type,recommended_product,product_type,target_issue,confidence_score,accepted_by_user,compliance_rate,followup_result_score,days_until_followup
+HSP20211409,Haircare,Suscipit Supplement,Oil,Hair Thinning,0.88,False,0.92,0,82
+HSP20235012,Haircare,Quam Serum,Cleanser,Wrinkles,0.84,False,0.88,5,46
+HSP20223286,Lifestyle,Repellat Tool,Oil,Hair Thinning,0.82,False,0.37,4,68
+HSP20219935,Lifestyle,Excepturi Cleanser,Serum,Hair Thinning,0.72,False,0.34,1,14
+HSP20217912,Diet,Dicta Cleanser,Oil,Acne,0.81,False,0.54,5,33
+HSP20211488,Lifestyle,Illum Tool,Cleanser,Dryness,0.91,False,0.82,4,17
+HSP20214582,Lifestyle,Nobis Supplement,Cleanser,Dryness,0.71,True,0.45,0,24
+HSP20229279,Lifestyle,A Supplement,Oil,Hair Thinning,0.78,True,0.68,0,69
+HSP20251434,Lifestyle,Sint Cleanser,Serum,Hair Thinning,0.74,True,0.39,4,71
+HSP20254257,Lifestyle,Libero Cleanser,Oil,Acne,0.97,False,0.86,5,51
+HSP20257873,Haircare,Excepturi Oil,Serum,Wrinkles,0.75,True,0.58,1,31
+HSP20228359,Skincare,Rem Oil,Cleanser,Pigmentation,0.8,False,0.85,3,33
+HSP20255557,Diet,Nesciunt Oil,Oil,Pigmentation,0.85,False,0.39,4,44
+HSP20213615,Haircare,Ea Tool,Tool,Pigmentation,0.91,True,0.58,0,45
+HSP20246574,Skincare,Vel Serum,Cleanser,Dryness,0.78,False,0.56,1,9
+HSP20233547,Haircare,Velit Cleanser,Supplement,Hair Thinning,0.84,True,0.54,5,63
+HSP20226514,Diet,Blanditiis Oil,Cleanser,Pigmentation,0.77,True,0.58,5,36
+HSP20212519,Diet,Qui Oil,Serum,Acne,0.71,True,0.84,0,38
+HSP20242584,Skincare,Magni Oil,Tool,Pigmentation,0.75,False,0.33,1,15
+HSP20236635,Diet,Atque Cleanser,Serum,Acne,0.89,True,0.84,5,27
+HSP20255333,Skincare,Qui Oil,Oil,Hair Thinning,0.94,True,0.65,1,88
+HSP20218527,Lifestyle,Quisquam Oil,Oil,Wrinkles,0.76,True,0.82,3,90
+HSP20253045,Diet,Quae Oil,Cleanser,Hair Thinning,0.9,True,0.47,5,38
+HSP20242291,Haircare,Quae Oil,Supplement,Hair Thinning,0.96,False,0.37,2,8
+HSP20255803,Haircare,Quod Cleanser,Oil,Hair Thinning,0.98,True,0.9,5,29
+HSP20256925,Diet,Adipisci Serum,Cleanser,Wrinkles,0.9,False,0.96,1,51
+HSP20254150,Haircare,Molestias Serum,Cleanser,Dryness,0.91,False,0.43,5,50
+HSP20211750,Haircare,Optio Oil,Supplement,Wrinkles,0.83,False,0.35,0,81
+HSP20225741,Diet,Aperiam Serum,Cleanser,Acne,0.81,False,0.82,3,71
+HSP20214814,Lifestyle,Tempora Tool,Serum,Wrinkles,0.81,True,0.53,1,57
+HSP20217227,Diet,Molestias Cleanser,Supplement,Hair Thinning,0.87,False,0.91,4,84
+HSP20238428,Skincare,Minima Tool,Supplement,Dryness,0.71,True,0.57,4,71
+HSP20233664,Haircare,Explicabo Serum,Serum,Pigmentation,0.75,True,0.79,2,82
+HSP20236820,Lifestyle,Ad Oil,Oil,Wrinkles,0.73,False,0.77,4,18
+HSP20225374,Haircare,Magnam Oil,Serum,Wrinkles,0.78,False,0.44,3,59
+HSP20213803,Diet,Atque Cleanser,Tool,Dryness,0.97,True,0.31,5,56
+HSP20255010,Skincare,Laborum Tool,Supplement,Pigmentation,0.83,True,0.32,1,79
+HSP20228573,Diet,Excepturi Tool,Supplement,Hair Thinning,0.84,False,0.65,1,39
+HSP20245422,Diet,Unde Oil,Oil,Wrinkles,0.79,False,0.39,0,37
+HSP20254598,Lifestyle,Sunt Supplement,Supplement,Acne,0.81,True,0.77,5,81
+HSP20231916,Skincare,Corporis Supplement,Tool,Pigmentation,0.93,False,0.67,5,63
+HSP20221525,Haircare,Repellendus Cleanser,Cleanser,Hair Thinning,0.87,False,0.44,4,31
+HSP20237572,Lifestyle,Iusto Serum,Serum,Hair Thinning,0.78,False,0.41,0,26
+HSP20232084,Lifestyle,Deleniti Serum,Oil,Wrinkles,0.77,True,0.46,4,48
+HSP20226155,Haircare,Aperiam Oil,Serum,Hair Thinning,0.85,False,0.69,4,12
+HSP20229179,Lifestyle,Libero Cleanser,Serum,Dryness,0.97,True,0.44,1,88
+HSP20248517,Haircare,Quisquam Tool,Tool,Acne,0.89,True,0.87,1,8
+HSP20225339,Lifestyle,Labore Oil,Oil,Wrinkles,0.86,True,0.48,3,27
+HSP20225040,Skincare,Temporibus Cleanser,Oil,Dryness,0.78,False,0.33,2,71
+HSP20259830,Haircare,Doloribus Oil,Supplement,Wrinkles,0.79,False,0.82,0,65
+HSP20238019,Skincare,Vitae Tool,Serum,Pigmentation,0.71,False,0.45,5,48
+HSP20257543,Lifestyle,Officiis Supplement,Cleanser,Hair Thinning,0.9,False,0.85,3,68
+HSP20234593,Skincare,Voluptatem Supplement,Supplement,Wrinkles,0.83,False,0.79,1,83
+HSP20229348,Haircare,Perferendis Serum,Oil,Pigmentation,0.81,True,0.41,4,50
+HSP20242489,Diet,Suscipit Oil,Tool,Hair Thinning,0.82,False,0.71,5,37
+HSP20212796,Skincare,Ducimus Supplement,Tool,Hair Thinning,0.97,False,0.35,4,22
+HSP20223621,Skincare,Deleniti Cleanser,Supplement,Dryness,0.85,True,0.53,1,82
+HSP20242040,Haircare,At Oil,Oil,Dryness,0.85,False,0.32,2,70
+HSP20247252,Skincare,Officia Serum,Tool,Pigmentation,0.79,True,0.87,2,8
+HSP20258668,Skincare,Amet Supplement,Oil,Acne,0.86,False,0.62,4,66
+HSP20255119,Skincare,Impedit Serum,Serum,Acne,0.78,True,0.51,0,64
+HSP20251188,Haircare,Eligendi Tool,Tool,Pigmentation,0.81,False,0.88,3,63
+HSP20219797,Haircare,Aperiam Supplement,Oil,Pigmentation,0.98,True,0.61,3,80
+HSP20236573,Haircare,Eligendi Tool,Serum,Hair Thinning,0.81,False,0.89,0,33
+HSP20215808,Skincare,Animi Tool,Tool,Pigmentation,0.82,False,0.69,3,15
+HSP20243591,Haircare,Ipsam Cleanser,Serum,Dryness,0.77,True,0.82,2,44
+HSP20241053,Haircare,Ipsa Tool,Supplement,Dryness,0.85,False,0.87,5,15
+HSP20239201,Skincare,Quam Serum,Tool,Acne,0.93,True,0.45,2,83
+HSP20229317,Diet,Nam Serum,Tool,Pigmentation,0.91,True,0.86,5,80
+HSP20215889,Diet,Quisquam Serum,Cleanser,Pigmentation,0.8,False,0.42,4,86
+HSP20254258,Skincare,Pariatur Cleanser,Cleanser,Dryness,0.7,False,0.62,5,60
+HSP20227126,Lifestyle,Explicabo Oil,Oil,Acne,0.8,False,0.69,1,74
+HSP20229837,Diet,Amet Serum,Cleanser,Pigmentation,0.75,True,0.9,5,34
+HSP20251009,Lifestyle,Tenetur Tool,Cleanser,Hair Thinning,0.77,False,0.46,2,44
+HSP20256310,Haircare,Eaque Serum,Tool,Acne,0.84,True,0.65,3,37
+HSP20241319,Haircare,Illo Tool,Cleanser,Hair Thinning,0.76,False,0.49,5,8
+HSP20216947,Haircare,Magnam Oil,Oil,Dryness,0.75,True,0.8,0,67
+HSP20234923,Skincare,Architecto Supplement,Supplement,Hair Thinning,0.92,True,0.62,4,48
+HSP20214946,Skincare,Ullam Cleanser,Cleanser,Acne,0.91,True,0.82,3,72
+HSP20252290,Lifestyle,Iure Serum,Supplement,Wrinkles,0.74,False,0.98,3,64
+HSP20218962,Lifestyle,Fugit Serum,Tool,Dryness,0.94,True,0.44,0,36
+HSP20219727,Skincare,Cupiditate Cleanser,Tool,Wrinkles,0.75,False,0.39,3,41
+HSP20223103,Skincare,Maxime Supplement,Tool,Hair Thinning,0.74,True,0.82,1,8
+HSP20243705,Haircare,Nostrum Oil,Serum,Wrinkles,0.84,False,0.85,3,74
+HSP20239645,Lifestyle,Natus Serum,Tool,Dryness,0.92,False,0.72,4,67
+HSP20257932,Haircare,Nulla Oil,Supplement,Pigmentation,0.9,False,0.31,0,31
+HSP20229835,Lifestyle,Molestiae Supplement,Tool,Wrinkles,0.79,False,0.75,2,53
+HSP20226107,Skincare,Labore Supplement,Supplement,Dryness,0.7,False,0.32,2,29
+HSP20247118,Diet,Ea Oil,Supplement,Pigmentation,0.95,True,0.78,2,24
+HSP20249479,Lifestyle,Praesentium Tool,Tool,Acne,0.78,True,0.78,4,53
+HSP20242982,Skincare,Voluptate Serum,Serum,Pigmentation,0.93,False,0.51,3,38
+HSP20224681,Haircare,Praesentium Tool,Supplement,Acne,0.71,False,0.95,3,61
+HSP20216539,Diet,Maxime Oil,Oil,Acne,0.8,False,0.37,0,59
+HSP20214770,Skincare,Quas Tool,Tool,Dryness,0.84,True,0.84,0,81
+HSP20254608,Haircare,Fugiat Supplement,Oil,Pigmentation,0.76,True,0.49,1,69
+HSP20212163,Diet,Blanditiis Tool,Oil,Acne,0.77,True,0.99,5,45
+HSP20214750,Diet,Nisi Oil,Cleanser,Dryness,0.76,True,0.7,4,80
+HSP20211514,Haircare,Beatae Cleanser,Supplement,Hair Thinning,0.97,False,0.4,1,42
+HSP20232160,Diet,Non Oil,Serum,Pigmentation,0.98,True,0.96,2,50
+HSP20254899,Lifestyle,Sed Tool,Cleanser,Wrinkles,0.96,True,0.45,4,76
+HSP20238953,Skincare,Ducimus Cleanser,Cleanser,Pigmentation,0.88,True,0.83,3,18
+HSP20229834,Lifestyle,Quisquam Serum,Tool,Wrinkles,0.99,True,0.43,5,72
+HSP20228744,Lifestyle,Impedit Tool,Oil,Pigmentation,0.92,False,0.54,3,30
+HSP20228749,Haircare,Iste Oil,Serum,Dryness,0.75,False,0.59,5,42
+HSP20244119,Lifestyle,Corporis Tool,Oil,Dryness,0.93,False,0.63,4,19
+HSP20212588,Haircare,Beatae Serum,Tool,Dryness,0.86,True,1.0,5,80
+HSP20246804,Diet,Itaque Serum,Cleanser,Dryness,0.82,True,0.73,4,7
+HSP20247735,Lifestyle,Ut Cleanser,Supplement,Dryness,0.81,False,0.57,5,19
+HSP20241887,Diet,Impedit Supplement,Supplement,Pigmentation,0.9,False,0.96,0,76
+HSP20211993,Haircare,Inventore Supplement,Tool,Hair Thinning,0.86,True,0.84,0,40
+HSP20246559,Skincare,Occaecati Serum,Cleanser,Pigmentation,0.73,False,0.45,1,10
+HSP20215073,Haircare,Sed Cleanser,Tool,Dryness,0.85,False,0.31,3,31
+HSP20224116,Diet,Nobis Supplement,Tool,Acne,0.77,False,0.66,3,81
+HSP20258350,Lifestyle,Doloremque Supplement,Oil,Acne,0.7,False,0.49,4,81
+HSP20227912,Lifestyle,Voluptas Cleanser,Serum,Dryness,0.85,True,0.7,5,53
+HSP20225563,Skincare,Numquam Tool,Oil,Dryness,0.97,False,0.75,4,47
+HSP20245092,Lifestyle,Laudantium Supplement,Cleanser,Pigmentation,0.82,False,0.95,3,13
+HSP20218260,Haircare,Occaecati Cleanser,Serum,Hair Thinning,0.93,True,0.44,2,76
+HSP20252604,Lifestyle,Animi Cleanser,Tool,Hair Thinning,0.74,False,0.77,3,66
+HSP20219856,Haircare,Libero Oil,Cleanser,Acne,0.86,False,0.85,1,38
+HSP20212528,Skincare,Sint Tool,Supplement,Wrinkles,0.91,True,0.74,0,67
+HSP20223724,Haircare,Nostrum Oil,Cleanser,Hair Thinning,0.99,True,0.67,1,33
+HSP20248956,Lifestyle,Harum Supplement,Tool,Acne,0.73,False,0.88,5,70
+HSP20244502,Diet,Tempore Tool,Serum,Acne,0.77,False,0.84,1,39
+HSP20241960,Haircare,Aspernatur Serum,Cleanser,Acne,0.98,True,0.79,5,19
+HSP20227209,Lifestyle,Autem Oil,Cleanser,Wrinkles,0.87,False,0.62,1,25
+HSP20217396,Diet,Velit Supplement,Supplement,Pigmentation,0.81,True,0.55,2,7
+HSP20238454,Diet,Tempore Oil,Tool,Wrinkles,0.88,True,0.83,1,80
+HSP20237930,Diet,Necessitatibus Serum,Serum,Acne,0.9,False,0.44,4,61
+HSP20258973,Skincare,Maiores Serum,Oil,Wrinkles,0.84,True,0.85,5,14
+HSP20224111,Haircare,Quam Oil,Serum,Pigmentation,0.84,False,0.68,4,9
+HSP20234566,Skincare,Veritatis Oil,Supplement,Hair Thinning,0.92,False,0.76,1,72
+HSP20219883,Skincare,Dolore Oil,Cleanser,Pigmentation,0.82,False,0.93,0,10
+HSP20216138,Lifestyle,Aliquam Oil,Oil,Hair Thinning,0.75,False,1.0,2,67
+HSP20211821,Haircare,Dicta Cleanser,Serum,Wrinkles,0.73,False,0.31,0,29
+HSP20258811,Diet,Sequi Cleanser,Cleanser,Hair Thinning,0.96,True,0.47,2,41
+HSP20259701,Diet,Veritatis Serum,Oil,Acne,0.91,True,0.87,5,8
+HSP20221931,Lifestyle,Nulla Cleanser,Tool,Hair Thinning,0.95,False,0.99,0,28
+HSP20252312,Haircare,Aliquid Serum,Supplement,Acne,0.79,False,0.8,3,63
+HSP20222122,Skincare,Debitis Supplement,Tool,Pigmentation,0.73,True,0.58,1,32
+HSP20252113,Skincare,Atque Oil,Serum,Pigmentation,0.95,False,0.56,4,47
+HSP20227615,Diet,Ex Supplement,Serum,Dryness,0.87,True,0.65,2,81
+HSP20215033,Haircare,Tenetur Cleanser,Serum,Dryness,0.89,True,0.98,2,90
+HSP20251651,Haircare,Maiores Serum,Tool,Hair Thinning,0.72,False,0.7,1,21
+HSP20252343,Lifestyle,Magni Oil,Tool,Acne,0.95,True,0.64,1,60
+HSP20249565,Lifestyle,Molestiae Cleanser,Supplement,Acne,0.72,False,0.69,0,68
+HSP20235272,Haircare,Reiciendis Cleanser,Supplement,Hair Thinning,0.8,True,0.41,1,83
+HSP20226147,Diet,Aliquid Cleanser,Serum,Dryness,0.95,True,0.67,2,12
+HSP20225351,Haircare,Sed Oil,Supplement,Hair Thinning,0.97,False,0.86,1,37
+HSP20243144,Haircare,Dolor Tool,Supplement,Pigmentation,0.9,True,0.3,5,36
+HSP20238491,Lifestyle,Veritatis Oil,Supplement,Pigmentation,0.82,True,0.44,4,81
+HSP20232188,Diet,Odio Cleanser,Tool,Pigmentation,0.96,True,0.42,1,35
+HSP20218508,Skincare,Maxime Tool,Oil,Pigmentation,0.78,True,0.66,2,78
+HSP20252638,Lifestyle,Minima Cleanser,Cleanser,Hair Thinning,0.78,True,0.45,4,47
+HSP20219808,Skincare,Numquam Supplement,Serum,Pigmentation,0.87,False,0.36,5,20
+HSP20229288,Diet,Autem Tool,Serum,Pigmentation,0.72,True,0.56,4,23
+HSP20233170,Haircare,Rem Oil,Oil,Dryness,0.91,True,0.69,0,85
+HSP20232127,Skincare,Deserunt Oil,Supplement,Pigmentation,0.82,False,0.7,3,80
+HSP20227054,Haircare,Quia Tool,Serum,Acne,0.81,False,0.96,0,69
+HSP20233584,Diet,Maiores Serum,Serum,Dryness,0.72,False,0.77,2,57
+HSP20249900,Diet,Nam Tool,Oil,Pigmentation,0.96,False,0.86,1,68
+HSP20239666,Diet,Ipsam Supplement,Tool,Wrinkles,0.75,False,0.51,3,7
+HSP20215905,Lifestyle,Totam Cleanser,Cleanser,Wrinkles,0.91,False,0.36,5,14
+HSP20213200,Diet,Hic Oil,Supplement,Acne,0.94,True,0.8,0,78
+HSP20232891,Skincare,Expedita Tool,Serum,Dryness,0.91,False,0.37,4,83
+HSP20213546,Haircare,Cum Tool,Cleanser,Pigmentation,0.91,True,0.78,4,81
+HSP20235616,Diet,Alias Serum,Supplement,Dryness,0.94,True,0.33,2,21
+HSP20254450,Lifestyle,Ea Serum,Cleanser,Wrinkles,0.71,False,0.56,3,63
+HSP20234335,Diet,Praesentium Cleanser,Oil,Wrinkles,0.74,False,0.69,4,13
+HSP20239280,Haircare,Quas Serum,Oil,Dryness,0.97,False,0.57,3,73
+HSP20245114,Skincare,Molestias Oil,Supplement,Dryness,0.95,False,0.3,5,77
+HSP20212512,Skincare,Ratione Cleanser,Supplement,Dryness,0.75,False,0.32,3,41
+HSP20245533,Haircare,Cumque Tool,Tool,Dryness,0.8,True,0.94,0,33
+HSP20211058,Diet,Fuga Cleanser,Tool,Pigmentation,0.73,True,0.72,5,57
+HSP20233143,Skincare,Facilis Tool,Tool,Pigmentation,0.83,True,0.96,1,83
+HSP20233647,Lifestyle,Voluptatibus Cleanser,Supplement,Acne,0.74,True,0.45,0,39
+HSP20248007,Lifestyle,Occaecati Supplement,Oil,Pigmentation,0.71,False,0.6,5,69
+HSP20251158,Haircare,Error Oil,Oil,Acne,0.78,False,0.91,4,85
+HSP20212232,Skincare,Similique Tool,Oil,Wrinkles,0.88,True,0.73,4,46
+HSP20229938,Diet,Illo Oil,Supplement,Hair Thinning,0.85,False,0.36,3,36
+HSP20217049,Lifestyle,Voluptate Serum,Serum,Dryness,0.83,False,1.0,0,50
+HSP20253426,Lifestyle,Porro Cleanser,Oil,Hair Thinning,0.94,True,0.93,0,73
+HSP20243088,Skincare,Eligendi Supplement,Serum,Wrinkles,0.94,False,0.37,3,86
+HSP20216050,Diet,Cupiditate Cleanser,Serum,Wrinkles,0.77,True,0.3,0,71
+HSP20231653,Lifestyle,Deleniti Oil,Serum,Wrinkles,0.79,True,0.38,3,47
+HSP20234441,Lifestyle,Aut Cleanser,Cleanser,Wrinkles,0.84,True,0.77,2,15
+HSP20222684,Skincare,Odio Serum,Supplement,Hair Thinning,0.95,False,0.82,3,78
+HSP20237658,Lifestyle,Doloribus Oil,Serum,Dryness,0.97,False,0.34,2,68
+HSP20253532,Haircare,Numquam Tool,Serum,Hair Thinning,0.7,True,0.76,4,22
+HSP20223662,Haircare,Commodi Oil,Tool,Hair Thinning,0.78,False,0.48,5,28
+HSP20227755,Diet,Vero Tool,Tool,Acne,0.8,False,0.49,0,88
+HSP20213938,Diet,Ipsum Serum,Supplement,Hair Thinning,0.85,False,0.61,2,31
+HSP20237745,Lifestyle,Vel Cleanser,Serum,Pigmentation,0.85,True,0.77,3,60
+HSP20225371,Haircare,Laborum Serum,Tool,Pigmentation,0.81,False,0.48,4,58
+HSP20222771,Lifestyle,Voluptatum Serum,Oil,Acne,0.75,False,0.54,4,39
+HSP20241634,Diet,At Tool,Serum,Pigmentation,0.92,False,0.83,0,7
+HSP20244644,Skincare,Quo Supplement,Serum,Wrinkles,0.89,False,0.46,3,12
+HSP20228541,Haircare,Quis Cleanser,Serum,Acne,0.87,False,0.7,2,12
+HSP20236000,Lifestyle,Illum Tool,Oil,Dryness,0.84,False,0.68,4,27
+HSP20224652,Haircare,In Tool,Tool,Pigmentation,0.84,False,0.7,1,65
+HSP20214164,Haircare,Dolore Supplement,Supplement,Hair Thinning,0.91,False,0.38,4,83
+HSP20246378,Haircare,Voluptatum Supplement,Serum,Hair Thinning,0.92,False,0.4,5,31
+HSP20232137,Lifestyle,Voluptates Oil,Supplement,Pigmentation,0.72,False,0.98,5,53
+HSP20236753,Lifestyle,Tempore Tool,Cleanser,Wrinkles,0.98,True,0.34,0,48
+HSP20257548,Haircare,Doloribus Tool,Cleanser,Pigmentation,0.83,True,0.43,3,70
+HSP20256425,Lifestyle,Magni Serum,Tool,Pigmentation,0.84,True,0.88,5,58
+HSP20212889,Skincare,Quaerat Serum,Oil,Pigmentation,0.98,True,0.74,5,9
+HSP20233925,Diet,Et Serum,Cleanser,Pigmentation,0.8,False,0.72,0,12
+HSP20255349,Diet,Cupiditate Serum,Cleanser,Acne,0.79,False,0.94,5,57
+HSP20212776,Lifestyle,Eligendi Oil,Supplement,Dryness,0.95,False,0.69,0,63
+HSP20258119,Skincare,Deserunt Cleanser,Oil,Hair Thinning,0.79,False,0.51,0,63
+HSP20236139,Lifestyle,Ex Cleanser,Supplement,Acne,0.71,False,0.87,2,29
+HSP20249379,Lifestyle,Possimus Cleanser,Tool,Hair Thinning,0.83,True,0.53,5,44
+HSP20217311,Haircare,Alias Tool,Tool,Acne,0.84,False,0.87,5,59
+HSP20254114,Lifestyle,Magni Oil,Cleanser,Dryness,0.74,False,0.9,0,25
+HSP20231727,Diet,Quod Supplement,Cleanser,Acne,0.96,False,0.96,5,36
+HSP20241027,Skincare,Rem Supplement,Tool,Pigmentation,0.82,False,0.45,2,68
+HSP20259821,Haircare,Maxime Supplement,Oil,Acne,0.81,False,0.53,3,66
+HSP20226967,Haircare,Omnis Serum,Cleanser,Wrinkles,0.75,True,0.73,3,20
+HSP20242146,Diet,Quod Supplement,Serum,Dryness,0.84,False,0.91,0,37
+HSP20236143,Diet,Delectus Serum,Tool,Wrinkles,0.71,True,0.75,0,24
+HSP20215920,Haircare,Similique Serum,Oil,Wrinkles,0.92,False,0.83,3,58
+HSP20256067,Diet,Commodi Supplement,Serum,Pigmentation,0.96,True,0.81,5,88
+HSP20246344,Haircare,At Supplement,Cleanser,Acne,0.97,False,0.53,4,42
+HSP20245844,Haircare,Ipsa Supplement,Cleanser,Dryness,0.85,False,0.31,0,66
+HSP20253085,Skincare,Nam Supplement,Tool,Acne,0.7,True,0.47,4,11
+HSP20227888,Diet,Perferendis Oil,Cleanser,Dryness,0.73,True,0.48,1,55
+HSP20243851,Lifestyle,Qui Tool,Tool,Wrinkles,0.75,False,0.32,2,49
+HSP20255930,Diet,Neque Cleanser,Oil,Acne,0.96,False,0.31,0,10
+HSP20249977,Lifestyle,Nemo Serum,Supplement,Pigmentation,0.91,False,0.41,0,53
+HSP20215978,Haircare,Repellat Tool,Supplement,Acne,0.96,False,0.92,4,70
+HSP20234443,Diet,Aut Supplement,Serum,Dryness,0.89,True,0.77,2,82
+HSP20246279,Lifestyle,Debitis Cleanser,Supplement,Hair Thinning,0.7,False,0.99,4,26
+HSP20248238,Lifestyle,Ipsum Cleanser,Supplement,Wrinkles,0.95,True,0.93,0,56
+HSP20244501,Haircare,Temporibus Supplement,Supplement,Acne,0.89,False,0.54,0,68
+HSP20258752,Lifestyle,Aut Supplement,Serum,Hair Thinning,0.96,True,0.5,3,73
+HSP20222389,Diet,Odio Tool,Supplement,Dryness,0.86,True,0.37,1,65
+HSP20239445,Haircare,Omnis Supplement,Supplement,Pigmentation,0.97,True,0.4,5,15
+HSP20256491,Lifestyle,Vero Oil,Cleanser,Acne,0.77,True,0.69,2,60
+HSP20214848,Skincare,Quas Oil,Supplement,Wrinkles,0.92,True,0.73,2,26
+HSP20234680,Lifestyle,Laborum Supplement,Cleanser,Dryness,0.77,True,0.3,1,40
+HSP20223414,Lifestyle,Debitis Serum,Tool,Acne,0.92,True,0.99,0,41
+HSP20211757,Skincare,Quod Cleanser,Tool,Wrinkles,0.93,True,0.62,4,78
+HSP20228784,Diet,Tempore Serum,Tool,Hair Thinning,0.96,False,0.59,1,64
+HSP20252193,Diet,Repudiandae Tool,Serum,Dryness,0.85,False,0.63,4,21
+HSP20247790,Lifestyle,Ducimus Tool,Cleanser,Acne,0.83,True,0.84,4,9
+HSP20254185,Diet,Delectus Tool,Tool,Hair Thinning,0.85,True,0.52,2,90
+HSP20249099,Skincare,Non Tool,Serum,Pigmentation,0.77,True,0.33,1,34
+HSP20244997,Diet,Provident Serum,Supplement,Acne,0.87,True,0.46,5,13
+HSP20221090,Diet,Aspernatur Oil,Cleanser,Pigmentation,0.74,False,0.76,4,82
+HSP20217965,Skincare,Cupiditate Cleanser,Serum,Dryness,0.9,True,0.83,0,59
+HSP20223881,Lifestyle,Quas Tool,Supplement,Wrinkles,0.85,True,0.93,1,88
+HSP20258611,Skincare,Dolor Cleanser,Supplement,Wrinkles,0.97,False,0.87,3,40
+HSP20215082,Haircare,Incidunt Tool,Serum,Dryness,0.88,False,0.51,4,74
+HSP20218478,Haircare,Doloremque Oil,Cleanser,Acne,0.99,False,0.49,2,86
+HSP20228612,Diet,Dolorem Tool,Supplement,Hair Thinning,0.76,True,0.61,1,56
+HSP20256198,Skincare,Iste Tool,Cleanser,Acne,0.72,True,0.98,1,17
+HSP20249270,Diet,Voluptatum Oil,Supplement,Wrinkles,0.87,False,0.69,3,22
+HSP20249976,Lifestyle,Et Oil,Supplement,Wrinkles,0.89,True,0.65,1,9
+HSP20243607,Diet,Laborum Tool,Tool,Pigmentation,0.71,True,0.73,2,37
+HSP20248373,Lifestyle,Quas Supplement,Serum,Wrinkles,0.91,False,0.59,2,12
+HSP20235050,Lifestyle,Id Cleanser,Tool,Pigmentation,0.92,True,0.46,1,23
+HSP20239540,Haircare,Beatae Serum,Oil,Dryness,0.76,False,0.41,5,77
+HSP20244919,Lifestyle,Explicabo Oil,Supplement,Acne,0.81,True,0.89,3,19
+HSP20238206,Haircare,Eius Tool,Supplement,Pigmentation,0.94,False,0.57,2,48
+HSP20215681,Lifestyle,Tempora Serum,Tool,Acne,0.87,False,0.8,4,32
+HSP20225451,Haircare,Quod Supplement,Serum,Hair Thinning,0.77,True,0.42,2,41
+HSP20236238,Diet,Harum Cleanser,Oil,Hair Thinning,0.98,False,0.73,4,76
+HSP20252320,Skincare,Debitis Tool,Cleanser,Acne,0.98,False,0.54,4,56
+HSP20223471,Diet,Sunt Oil,Tool,Dryness,0.9,True,0.46,2,83
+HSP20227275,Lifestyle,Incidunt Cleanser,Oil,Wrinkles,0.78,True,0.66,1,37
+HSP20224505,Lifestyle,Sint Tool,Cleanser,Acne,0.79,True,0.42,3,50
+HSP20217797,Haircare,Quibusdam Supplement,Serum,Hair Thinning,0.78,True,0.33,4,84
+HSP20246421,Diet,Consectetur Supplement,Oil,Hair Thinning,0.9,True,0.64,1,24
+HSP20258633,Skincare,Provident Serum,Oil,Wrinkles,0.73,True,0.42,5,10
+HSP20242020,Lifestyle,Temporibus Cleanser,Tool,Pigmentation,0.73,False,0.73,0,24
+HSP20227883,Lifestyle,Dolores Tool,Supplement,Pigmentation,0.73,False,0.83,1,53
+HSP20241320,Haircare,Rerum Supplement,Serum,Pigmentation,0.71,True,0.47,4,16
+HSP20257232,Skincare,Repellendus Cleanser,Cleanser,Dryness,0.96,True,0.8,4,62
+HSP20241096,Lifestyle,Dolor Oil,Tool,Acne,0.72,False,0.87,3,88
+HSP20235892,Lifestyle,Dolores Supplement,Oil,Wrinkles,0.84,True,0.89,0,19
+HSP20247865,Skincare,Unde Serum,Supplement,Acne,0.87,True,0.78,4,39
+HSP20259947,Haircare,Soluta Oil,Tool,Dryness,0.99,False,0.46,0,17
+HSP20254613,Lifestyle,Sed Oil,Oil,Hair Thinning,0.88,False,0.62,5,35
+HSP20244595,Haircare,Labore Supplement,Cleanser,Dryness,0.71,False,0.31,1,82
+HSP20238140,Haircare,Recusandae Tool,Cleanser,Dryness,0.73,False,0.75,1,53
+HSP20241475,Lifestyle,Animi Oil,Oil,Dryness,0.86,False,0.69,3,39
+HSP20246507,Diet,Aliquam Oil,Supplement,Acne,0.71,True,0.63,0,73
+HSP20243704,Diet,Beatae Cleanser,Serum,Acne,0.97,False,0.58,4,46
+HSP20243091,Lifestyle,Aperiam Serum,Cleanser,Wrinkles,0.88,True,0.85,4,36
+HSP20259751,Lifestyle,Temporibus Tool,Oil,Hair Thinning,0.93,False,0.66,1,9
+HSP20217455,Diet,Repellat Oil,Supplement,Hair Thinning,0.95,True,0.57,2,71
+HSP20251444,Diet,Fuga Oil,Oil,Acne,0.96,False,0.47,4,38
+HSP20218022,Haircare,Totam Tool,Supplement,Dryness,0.78,True,0.34,5,88
+HSP20228564,Skincare,Eos Cleanser,Supplement,Pigmentation,0.93,False,0.59,0,60
+HSP20221823,Lifestyle,Rem Tool,Supplement,Wrinkles,0.77,False,0.46,5,64
+HSP20237211,Skincare,Nesciunt Tool,Tool,Hair Thinning,0.96,False,0.88,1,60
+HSP20234467,Skincare,Sit Cleanser,Tool,Pigmentation,0.86,False,0.73,5,48
+HSP20246355,Haircare,Tempore Serum,Serum,Hair Thinning,0.84,False,0.57,5,63
+HSP20237211,Haircare,Aliquam Cleanser,Supplement,Acne,0.97,True,0.39,4,42
+HSP20237906,Lifestyle,Praesentium Cleanser,Oil,Wrinkles,0.82,False,0.54,1,58
+HSP20232341,Haircare,Sunt Tool,Tool,Wrinkles,0.84,False,0.62,2,79
+HSP20241317,Lifestyle,Quisquam Oil,Tool,Acne,0.85,False,0.4,4,87
+HSP20251853,Haircare,Illum Cleanser,Serum,Acne,0.85,True,0.47,0,10
+HSP20234673,Skincare,Temporibus Supplement,Cleanser,Hair Thinning,0.75,False,0.35,5,60
+HSP20211659,Skincare,Incidunt Oil,Cleanser,Pigmentation,0.92,True,0.6,2,69
+HSP20215051,Diet,Perspiciatis Tool,Supplement,Acne,0.88,False,0.81,4,12
+HSP20221333,Lifestyle,Exercitationem Oil,Serum,Acne,0.9,True,0.63,0,40
+HSP20253496,Diet,Vitae Tool,Oil,Dryness,0.81,False,0.56,1,29
+HSP20223068,Lifestyle,Necessitatibus Supplement,Tool,Wrinkles,0.89,False,0.65,2,23
+HSP20242874,Diet,In Tool,Cleanser,Acne,0.95,False,0.91,0,65
+HSP20254571,Skincare,Odit Tool,Oil,Dryness,0.75,False,0.4,0,30
+HSP20245198,Haircare,Aut Supplement,Cleanser,Dryness,0.88,False,0.51,1,62
+HSP20233749,Lifestyle,Voluptas Supplement,Oil,Wrinkles,0.71,False,0.92,3,34
+HSP20252876,Diet,Assumenda Cleanser,Oil,Pigmentation,0.77,False,0.95,2,13
+HSP20226096,Haircare,Dolore Serum,Serum,Pigmentation,0.91,False,0.83,4,18
+HSP20211420,Diet,Nulla Serum,Oil,Wrinkles,0.76,True,0.46,5,87
+HSP20237149,Haircare,Nesciunt Tool,Serum,Wrinkles,0.85,True,0.42,5,80
+HSP20244249,Skincare,Perspiciatis Oil,Supplement,Wrinkles,0.79,False,0.53,5,59
+HSP20214978,Lifestyle,Officiis Supplement,Oil,Dryness,0.75,True,0.44,3,22
+HSP20215941,Haircare,Enim Supplement,Cleanser,Pigmentation,0.93,False,0.42,3,71
+HSP20252983,Haircare,Laboriosam Serum,Cleanser,Dryness,0.71,False,0.74,1,56
+HSP20251672,Diet,Sequi Cleanser,Supplement,Pigmentation,0.98,False,0.53,5,55
+HSP20239728,Lifestyle,Dicta Cleanser,Supplement,Acne,0.73,False,0.7,4,18
+HSP20247071,Skincare,Ipsam Oil,Cleanser,Hair Thinning,0.96,True,0.85,5,83
+HSP20219289,Diet,Ipsum Oil,Oil,Pigmentation,0.88,False,0.52,5,16
+HSP20231207,Haircare,Laborum Oil,Serum,Pigmentation,0.86,True,0.36,5,58
+HSP20249031,Haircare,Natus Serum,Tool,Wrinkles,0.9,True,0.81,3,49
+HSP20218102,Lifestyle,Delectus Supplement,Supplement,Dryness,0.98,True,0.48,4,47
+HSP20238532,Skincare,Maxime Tool,Supplement,Wrinkles,0.71,False,0.68,1,9
+HSP20228135,Skincare,Quam Oil,Cleanser,Wrinkles,0.9,True,0.85,5,22
+HSP20229548,Skincare,Ratione Supplement,Serum,Wrinkles,0.76,False,0.48,0,64
+HSP20239817,Lifestyle,Corrupti Serum,Supplement,Hair Thinning,0.85,True,0.53,0,33
+HSP20248616,Diet,Ipsum Cleanser,Oil,Dryness,0.95,False,0.63,2,27
+HSP20245397,Lifestyle,Excepturi Cleanser,Tool,Pigmentation,0.93,False,0.71,3,65
+HSP20235022,Lifestyle,Omnis Serum,Supplement,Pigmentation,0.92,False,0.53,4,82
+HSP20215569,Skincare,Cupiditate Oil,Serum,Dryness,0.94,False,0.49,4,83
+HSP20244995,Skincare,Fugiat Supplement,Supplement,Hair Thinning,0.86,True,0.45,3,8
+HSP20247209,Skincare,Odio Cleanser,Tool,Dryness,0.84,True,0.52,5,20
+HSP20231470,Haircare,Expedita Cleanser,Oil,Hair Thinning,0.78,True,0.98,3,40
+HSP20246325,Lifestyle,Dicta Serum,Cleanser,Acne,0.75,True,0.85,3,76
+HSP20228988,Diet,Consequatur Serum,Supplement,Wrinkles,0.99,False,0.31,0,24
+HSP20226813,Skincare,Architecto Tool,Supplement,Dryness,0.9,False,0.48,0,82
+HSP20236576,Diet,Illum Oil,Serum,Wrinkles,0.71,False,0.58,5,53
+HSP20235526,Diet,Molestiae Tool,Tool,Dryness,0.97,True,0.31,1,54
+HSP20251166,Diet,Sint Cleanser,Tool,Pigmentation,0.87,False,0.65,5,10
+HSP20254130,Lifestyle,Nihil Cleanser,Serum,Dryness,0.95,True,0.36,4,29
+HSP20214954,Haircare,Expedita Cleanser,Supplement,Dryness,0.9,False,0.78,4,85
+HSP20249004,Lifestyle,Dolore Serum,Supplement,Dryness,0.89,False,0.96,4,90
+HSP20254937,Lifestyle,Itaque Supplement,Oil,Dryness,0.94,False,0.33,4,46
+HSP20249041,Lifestyle,Repellat Supplement,Oil,Pigmentation,0.84,False,0.58,2,11
+HSP20241282,Lifestyle,Ipsam Cleanser,Tool,Dryness,0.79,True,0.62,0,22
+HSP20215820,Diet,Eaque Serum,Tool,Hair Thinning,0.81,True,0.6,4,68
+HSP20227625,Diet,Dolore Oil,Supplement,Pigmentation,0.98,True,0.36,5,50
+HSP20226016,Skincare,Praesentium Serum,Supplement,Hair Thinning,0.97,True,0.64,0,7
+HSP20257046,Lifestyle,Quam Oil,Tool,Wrinkles,0.88,False,0.88,2,70
+HSP20249698,Lifestyle,Omnis Serum,Tool,Dryness,0.8,False,0.6,4,77
+HSP20237971,Lifestyle,Praesentium Oil,Cleanser,Wrinkles,0.82,False,0.56,3,49
+HSP20256419,Haircare,Inventore Cleanser,Cleanser,Pigmentation,0.97,False,0.88,3,42
+HSP20238434,Lifestyle,Praesentium Cleanser,Cleanser,Wrinkles,0.73,True,0.38,1,62
+HSP20236023,Haircare,Adipisci Tool,Serum,Hair Thinning,0.82,True,0.37,2,7
+HSP20234777,Haircare,Consectetur Cleanser,Oil,Pigmentation,0.88,True,0.4,4,88
+HSP20214155,Lifestyle,Mollitia Cleanser,Supplement,Pigmentation,0.85,True,0.31,2,28
+HSP20232958,Skincare,Quae Tool,Supplement,Acne,0.79,False,0.77,5,7
+HSP20254033,Diet,Officia Oil,Cleanser,Wrinkles,0.84,True,0.98,4,68
+HSP20224545,Lifestyle,Excepturi Cleanser,Tool,Acne,0.95,False,0.55,2,82
+HSP20245530,Lifestyle,Esse Oil,Cleanser,Wrinkles,0.71,False,0.89,0,80
+HSP20259595,Diet,Reprehenderit Tool,Serum,Hair Thinning,0.96,True,0.87,3,45
+HSP20255636,Lifestyle,Libero Cleanser,Oil,Wrinkles,0.74,False,1.0,1,85
+HSP20214180,Lifestyle,Architecto Tool,Tool,Pigmentation,0.77,False,0.81,2,71
+HSP20234727,Diet,Architecto Supplement,Oil,Acne,0.96,True,0.46,0,87
+HSP20233939,Diet,Id Supplement,Supplement,Hair Thinning,0.96,False,0.52,0,62
+HSP20231231,Haircare,Possimus Tool,Supplement,Dryness,0.98,False,0.5,3,39
+HSP20253073,Lifestyle,Saepe Oil,Oil,Pigmentation,0.98,True,0.34,3,88
+HSP20231745,Haircare,Ullam Serum,Cleanser,Dryness,0.91,False,0.67,4,65
+HSP20215786,Lifestyle,Veniam Supplement,Oil,Acne,0.84,True,0.46,4,79
+HSP20229042,Lifestyle,Optio Supplement,Supplement,Wrinkles,0.9,True,0.43,1,30
+HSP20211200,Skincare,Illo Serum,Serum,Pigmentation,0.86,True,0.48,2,43
+HSP20255658,Diet,Quidem Serum,Oil,Dryness,0.98,False,0.32,2,77
+HSP20248843,Diet,Accusamus Supplement,Serum,Pigmentation,0.76,True,0.47,4,35
+HSP20246582,Diet,Corrupti Supplement,Cleanser,Pigmentation,0.82,False,0.46,1,67
+HSP20221841,Skincare,Non Cleanser,Cleanser,Hair Thinning,0.84,True,0.91,1,14
+HSP20238827,Lifestyle,Deleniti Supplement,Cleanser,Dryness,0.91,False,0.71,1,54
+HSP20212070,Lifestyle,Fuga Supplement,Tool,Hair Thinning,0.73,True,0.79,4,57
+HSP20249056,Haircare,Maiores Tool,Cleanser,Acne,0.75,False,0.85,0,74
+HSP20211878,Lifestyle,Necessitatibus Tool,Oil,Pigmentation,0.77,False,0.59,4,90
+HSP20223444,Haircare,Maiores Oil,Cleanser,Wrinkles,0.8,False,0.9,1,13
+HSP20255978,Lifestyle,Aperiam Oil,Cleanser,Hair Thinning,0.74,True,0.7,3,56
+HSP20215066,Lifestyle,Natus Serum,Tool,Wrinkles,0.74,False,0.79,4,48
+HSP20217818,Diet,Asperiores Serum,Serum,Pigmentation,0.96,False,0.6,2,12
+HSP20254697,Lifestyle,Reiciendis Cleanser,Tool,Wrinkles,0.84,True,0.95,4,10
+HSP20257232,Skincare,Ratione Serum,Oil,Hair Thinning,0.85,True,0.64,5,30
+HSP20248253,Haircare,Earum Oil,Supplement,Dryness,0.87,False,0.78,4,27
+HSP20238025,Diet,Magni Supplement,Oil,Dryness,0.73,True,0.87,2,86
+HSP20231986,Diet,Quod Serum,Supplement,Wrinkles,0.83,False,0.35,0,15
+HSP20252625,Lifestyle,Illo Oil,Supplement,Dryness,0.93,False,0.56,1,42
+HSP20224457,Diet,Aut Tool,Serum,Hair Thinning,0.73,False,0.74,5,11
+HSP20232330,Diet,Molestiae Serum,Oil,Pigmentation,0.96,False,0.92,1,77
+HSP20224929,Skincare,Quae Supplement,Cleanser,Wrinkles,0.98,False,0.91,4,87
+HSP20222229,Lifestyle,Odio Cleanser,Oil,Hair Thinning,0.7,True,0.57,4,54
+HSP20221043,Skincare,Quo Oil,Serum,Pigmentation,0.94,True,0.56,1,12
+HSP20248381,Lifestyle,Hic Tool,Oil,Wrinkles,0.87,True,0.72,0,23
+HSP20258699,Skincare,Soluta Supplement,Oil,Hair Thinning,0.81,True,0.93,4,64
+HSP20231534,Skincare,Vero Cleanser,Oil,Hair Thinning,0.85,False,0.63,1,64
+HSP20225720,Haircare,Similique Serum,Supplement,Hair Thinning,0.99,True,0.65,2,17
+HSP20238438,Haircare,Cumque Oil,Serum,Wrinkles,0.75,True,0.66,0,61
+HSP20214824,Haircare,Debitis Tool,Serum,Hair Thinning,0.94,False,0.84,4,34
+HSP20234241,Skincare,Consequatur Oil,Tool,Pigmentation,0.93,True,0.8,3,73
+HSP20242880,Skincare,Mollitia Oil,Oil,Dryness,0.77,True,0.9,4,57
+HSP20254683,Lifestyle,Minima Supplement,Oil,Acne,0.96,False,0.44,3,68
+HSP20225352,Diet,Labore Supplement,Tool,Pigmentation,0.74,False,0.98,1,48
+HSP20222169,Diet,Quos Serum,Serum,Pigmentation,0.95,False,0.93,3,23
+HSP20213718,Diet,Maiores Serum,Supplement,Acne,0.96,True,0.68,2,75
+HSP20235728,Skincare,Dicta Serum,Tool,Pigmentation,0.89,False,0.68,4,64
+HSP20243037,Haircare,Eius Cleanser,Supplement,Wrinkles,0.71,False,0.82,2,67
+HSP20245982,Haircare,Sed Serum,Tool,Acne,0.85,True,0.75,2,21
+HSP20245460,Skincare,Quaerat Supplement,Serum,Pigmentation,0.85,True,0.64,3,45
+HSP20259847,Haircare,Natus Serum,Oil,Wrinkles,0.75,True,0.5,4,22
+HSP20248172,Lifestyle,Provident Serum,Serum,Pigmentation,0.75,False,0.44,5,55
+HSP20211653,Lifestyle,Animi Serum,Cleanser,Pigmentation,0.98,True,0.41,5,42
+HSP20246280,Lifestyle,Aperiam Supplement,Serum,Acne,0.78,True,0.71,2,49
+HSP20255102,Diet,Amet Serum,Tool,Hair Thinning,0.88,True,0.41,1,87
+HSP20212496,Lifestyle,Deserunt Serum,Oil,Hair Thinning,0.93,True,0.85,5,56
+HSP20221339,Diet,Iusto Tool,Supplement,Hair Thinning,0.77,True,0.5,2,62
+HSP20231659,Diet,Pariatur Tool,Serum,Dryness,0.97,False,0.88,1,78
+HSP20228708,Haircare,Quas Oil,Supplement,Wrinkles,0.9,True,0.36,1,45
+HSP20258245,Diet,Odit Supplement,Tool,Acne,0.82,False,0.69,0,74
+HSP20233973,Haircare,Distinctio Cleanser,Supplement,Acne,0.75,False,0.61,5,30
+HSP20258141,Diet,Sequi Supplement,Tool,Wrinkles,0.87,False,0.53,5,38
+HSP20242494,Skincare,Quam Serum,Serum,Pigmentation,0.93,False,0.89,1,82
+HSP20246700,Skincare,Deserunt Supplement,Tool,Hair Thinning,0.79,False,0.89,3,87
+HSP20246460,Haircare,Itaque Supplement,Serum,Pigmentation,0.73,True,0.89,5,80
+HSP20232713,Lifestyle,Similique Serum,Oil,Acne,0.74,False,0.36,1,16
+HSP20226403,Lifestyle,Ipsum Serum,Tool,Hair Thinning,0.89,True,0.63,3,59
+HSP20249117,Skincare,Dolorem Cleanser,Serum,Dryness,0.96,False,0.55,3,84
+HSP20237561,Skincare,Mollitia Cleanser,Tool,Acne,0.78,False,0.65,0,19
+HSP20251601,Lifestyle,Sint Supplement,Supplement,Pigmentation,0.83,False,0.54,3,26
+HSP20242442,Diet,In Oil,Cleanser,Acne,0.9,True,0.83,2,35
+HSP20235135,Lifestyle,Rerum Serum,Cleanser,Wrinkles,0.95,False,0.98,4,71
+HSP20232899,Lifestyle,Labore Oil,Cleanser,Dryness,0.78,False,0.8,3,88
+HSP20249431,Diet,Quae Oil,Supplement,Pigmentation,0.81,True,0.77,4,14
+HSP20219889,Lifestyle,Quaerat Serum,Oil,Dryness,0.84,True,1.0,0,50
+HSP20247770,Lifestyle,Quibusdam Serum,Oil,Acne,0.91,False,0.97,1,55
+HSP20214073,Skincare,Porro Supplement,Supplement,Wrinkles,0.94,True,0.93,3,49
+HSP20256927,Skincare,Voluptatum Supplement,Supplement,Acne,0.94,False,0.62,1,62
+HSP20259167,Diet,Recusandae Supplement,Supplement,Hair Thinning,0.77,True,0.56,4,60
+HSP20241845,Diet,In Supplement,Supplement,Acne,0.71,True,0.67,1,66
+HSP20225375,Skincare,Pariatur Supplement,Tool,Hair Thinning,0.85,False,0.67,3,24
+HSP20253146,Skincare,Ad Tool,Cleanser,Hair Thinning,0.98,True,0.94,3,38
+HSP20238178,Lifestyle,Maxime Supplement,Cleanser,Pigmentation,0.75,True,0.56,3,60
+HSP20242989,Skincare,Iure Oil,Supplement,Acne,0.82,False,0.55,3,40
+HSP20214920,Diet,Veniam Serum,Cleanser,Wrinkles,0.93,True,0.67,1,52
+HSP20226091,Haircare,Culpa Supplement,Cleanser,Pigmentation,0.87,False,0.9,2,56
+HSP20251224,Skincare,Nesciunt Tool,Cleanser,Dryness,0.93,False,0.39,5,26
+HSP20257684,Skincare,Reprehenderit Cleanser,Tool,Pigmentation,0.91,True,0.6,5,53
+HSP20214681,Diet,Inventore Serum,Serum,Hair Thinning,0.79,False,0.34,2,23
+HSP20218560,Diet,Voluptas Cleanser,Oil,Pigmentation,0.84,True,0.55,2,58
+HSP20213522,Skincare,Suscipit Tool,Supplement,Hair Thinning,0.77,True,0.79,5,8
+HSP20245781,Lifestyle,Alias Cleanser,Oil,Acne,0.92,True,0.47,3,31
+HSP20255479,Haircare,Saepe Supplement,Serum,Dryness,0.71,True,0.89,3,74
+HSP20248905,Skincare,Pariatur Cleanser,Cleanser,Wrinkles,0.7,False,0.96,1,64
+HSP20244993,Haircare,Fuga Cleanser,Cleanser,Wrinkles,0.88,True,0.53,3,64
+HSP20243369,Lifestyle,Ullam Oil,Supplement,Wrinkles,0.77,False,0.31,4,72
+HSP20244122,Skincare,Repellendus Tool,Supplement,Wrinkles,0.77,False,0.4,5,65
+HSP20259327,Diet,Repellat Tool,Cleanser,Hair Thinning,0.88,False,0.42,2,84
+HSP20222143,Haircare,Eum Serum,Cleanser,Wrinkles,0.85,False,0.71,2,88
+HSP20237798,Lifestyle,Asperiores Cleanser,Oil,Wrinkles,0.79,False,0.32,5,84
+HSP20239318,Skincare,Reprehenderit Supplement,Cleanser,Wrinkles,0.71,False,0.32,3,89
+HSP20231042,Haircare,Perferendis Cleanser,Serum,Dryness,0.91,True,0.52,3,22
+HSP20235891,Haircare,Dolores Serum,Oil,Wrinkles,0.93,True,0.6,2,38
+HSP20259022,Diet,Qui Serum,Cleanser,Hair Thinning,0.83,True,0.66,1,32
+HSP20228316,Skincare,Suscipit Supplement,Serum,Hair Thinning,0.91,True,0.49,0,57
+HSP20258935,Lifestyle,Sit Supplement,Tool,Acne,0.74,True,0.69,1,61
+HSP20236446,Haircare,Modi Tool,Serum,Acne,0.79,True,0.61,4,74
+HSP20259903,Diet,Dignissimos Cleanser,Serum,Acne,0.89,False,0.65,2,37
+HSP20248460,Lifestyle,Vero Tool,Serum,Pigmentation,0.88,False,0.68,1,40
+HSP20234090,Skincare,Exercitationem Supplement,Tool,Acne,0.91,True,0.79,5,55
+HSP20227274,Lifestyle,Aliquid Serum,Tool,Wrinkles,0.85,True,0.78,1,55
+HSP20227730,Diet,Rem Serum,Supplement,Wrinkles,0.95,True,0.6,1,59
+HSP20216213,Haircare,Voluptates Cleanser,Supplement,Wrinkles,0.82,True,0.83,1,50
+HSP20247246,Skincare,Culpa Tool,Cleanser,Wrinkles,0.87,True,0.35,1,50
+HSP20243492,Skincare,Eaque Oil,Cleanser,Acne,0.96,True,0.32,4,44
+HSP20241606,Skincare,Ad Serum,Supplement,Wrinkles,0.92,False,0.83,5,9
+HSP20229229,Lifestyle,Nulla Cleanser,Tool,Hair Thinning,0.98,True,0.34,0,79
+HSP20256439,Lifestyle,Ipsam Supplement,Cleanser,Wrinkles,0.87,False,0.6,3,54
+HSP20218213,Skincare,Nihil Tool,Cleanser,Wrinkles,0.8,True,0.36,3,78
+HSP20219617,Haircare,Distinctio Serum,Supplement,Acne,0.86,False,0.64,1,67
+HSP20241251,Haircare,Neque Serum,Tool,Wrinkles,0.73,True,0.73,2,32
+HSP20227717,Skincare,Voluptas Cleanser,Tool,Acne,0.91,True,0.84,0,13
+HSP20222225,Diet,Enim Oil,Cleanser,Wrinkles,0.96,True,0.59,3,7
+HSP20245342,Haircare,Neque Supplement,Oil,Pigmentation,0.98,False,0.91,5,64
+HSP20237512,Haircare,Provident Serum,Cleanser,Dryness,0.79,False,0.41,1,75
+HSP20216383,Skincare,Similique Supplement,Cleanser,Dryness,0.83,True,0.58,1,24
+HSP20257226,Lifestyle,Optio Cleanser,Supplement,Pigmentation,0.87,True,0.71,0,44
+HSP20238994,Haircare,Assumenda Tool,Supplement,Wrinkles,0.92,False,0.66,2,37
+HSP20251588,Skincare,Voluptatibus Tool,Tool,Wrinkles,0.73,False,0.9,2,83
+HSP20252121,Diet,Deserunt Oil,Tool,Acne,0.79,True,0.98,3,87
+HSP20225708,Haircare,Quas Supplement,Oil,Dryness,0.73,False,0.97,3,83
+HSP20222480,Haircare,Eos Oil,Supplement,Pigmentation,0.73,False,0.46,5,9
+HSP20242612,Diet,Ratione Supplement,Tool,Dryness,0.71,False,0.79,2,11
+HSP20218269,Skincare,Itaque Oil,Oil,Acne,0.95,True,0.6,5,31
+HSP20225906,Skincare,Ut Oil,Cleanser,Acne,0.97,True,0.71,1,53
+HSP20211753,Skincare,Perferendis Supplement,Cleanser,Dryness,0.88,True,0.89,0,54
+HSP20231919,Lifestyle,Qui Tool,Oil,Pigmentation,0.79,True,0.55,0,13
+HSP20236873,Skincare,Minus Supplement,Oil,Acne,0.96,True,0.93,4,32
+HSP20238056,Haircare,Ipsam Supplement,Cleanser,Acne,0.98,False,0.93,1,29
+HSP20225000,Lifestyle,Doloribus Serum,Tool,Dryness,0.74,True,0.88,3,42
+HSP20257751,Haircare,Officia Oil,Oil,Dryness,0.82,True,0.99,0,55
+HSP20253950,Skincare,Quibusdam Supplement,Serum,Hair Thinning,0.84,True,0.69,1,20
+HSP20223868,Skincare,Laboriosam Serum,Oil,Acne,0.85,False,0.53,0,84
+HSP20217267,Diet,Quisquam Supplement,Oil,Pigmentation,0.72,True,0.93,2,21
+HSP20254945,Diet,Libero Serum,Tool,Acne,0.93,True,0.4,0,49
+HSP20243344,Lifestyle,Veritatis Oil,Cleanser,Pigmentation,0.93,True,0.74,3,35
+HSP20228555,Diet,Vero Tool,Supplement,Acne,0.82,False,0.48,3,37
+HSP20238529,Diet,Temporibus Cleanser,Supplement,Acne,0.95,True,0.79,5,10
+HSP20231153,Haircare,Voluptate Cleanser,Tool,Wrinkles,0.86,False,0.73,0,13
+HSP20245712,Lifestyle,Fuga Oil,Supplement,Wrinkles,0.73,True,0.63,1,44
+HSP20253588,Haircare,Similique Cleanser,Supplement,Wrinkles,0.76,False,0.45,3,43
+HSP20218237,Skincare,Perspiciatis Supplement,Tool,Acne,0.89,False,0.94,3,17
+HSP20235901,Lifestyle,Earum Supplement,Cleanser,Dryness,0.82,True,0.45,5,70
+HSP20245097,Lifestyle,Expedita Supplement,Cleanser,Wrinkles,0.89,True,0.91,2,74
+HSP20245949,Lifestyle,Hic Tool,Tool,Hair Thinning,0.92,True,0.91,3,77
+HSP20227302,Haircare,Quos Serum,Oil,Acne,0.86,False,0.83,0,18
+HSP20242747,Skincare,In Supplement,Cleanser,Pigmentation,0.74,True,0.54,1,44
+HSP20227248,Diet,Et Supplement,Supplement,Wrinkles,0.81,False,0.66,1,16
+HSP20256881,Haircare,In Oil,Serum,Wrinkles,0.97,False,0.91,0,80
+HSP20255847,Skincare,Illo Oil,Oil,Hair Thinning,0.74,False,0.42,2,47
+HSP20231359,Skincare,Voluptatibus Tool,Supplement,Wrinkles,0.8,True,0.5,1,39
+HSP20245497,Skincare,Eos Serum,Serum,Wrinkles,0.88,False,0.93,0,66
+HSP20211803,Skincare,Voluptas Oil,Serum,Dryness,0.98,True,0.76,0,20
+HSP20259138,Haircare,Voluptatibus Oil,Cleanser,Hair Thinning,0.94,True,0.67,0,73
+HSP20234770,Skincare,Porro Oil,Cleanser,Acne,0.76,True,0.67,2,67
+HSP20256772,Lifestyle,Ipsum Supplement,Oil,Pigmentation,0.86,True,0.82,0,15
+HSP20224115,Skincare,Perferendis Supplement,Supplement,Dryness,0.76,False,0.56,5,14
+HSP20255106,Lifestyle,Laudantium Tool,Cleanser,Pigmentation,0.81,True,0.97,0,60
+HSP20222591,Diet,Ratione Cleanser,Supplement,Dryness,0.83,False,0.83,5,15
+HSP20216061,Skincare,Harum Supplement,Oil,Pigmentation,0.92,False,0.49,5,57
+HSP20241546,Lifestyle,Illo Cleanser,Supplement,Hair Thinning,0.87,True,0.93,1,36
+HSP20256977,Skincare,Cupiditate Oil,Supplement,Dryness,0.84,True,0.96,0,61
+HSP20222476,Diet,Rem Oil,Serum,Dryness,0.76,False,0.35,0,87
+HSP20236352,Diet,Veritatis Tool,Cleanser,Dryness,0.96,False,0.89,5,61
+HSP20243877,Lifestyle,Quisquam Supplement,Cleanser,Acne,0.99,False,0.78,2,61
+HSP20223165,Diet,Modi Supplement,Cleanser,Dryness,0.97,True,0.88,3,41
+HSP20256994,Diet,Nam Serum,Oil,Acne,0.94,False,0.7,5,43
+HSP20259221,Skincare,Laborum Serum,Cleanser,Wrinkles,0.81,True,0.95,1,89
+HSP20233695,Diet,Dignissimos Oil,Cleanser,Acne,0.83,True,0.68,3,76
+HSP20238894,Skincare,Illum Oil,Tool,Wrinkles,0.83,False,0.7,3,55
+HSP20236549,Skincare,Animi Serum,Tool,Hair Thinning,0.84,True,0.33,0,42
+HSP20218673,Skincare,Illo Supplement,Supplement,Pigmentation,0.96,False,0.61,2,70
+HSP20213306,Haircare,Beatae Cleanser,Supplement,Dryness,0.87,False,0.4,5,90
+HSP20227511,Lifestyle,Laborum Cleanser,Oil,Hair Thinning,0.7,False,0.47,0,19
+HSP20256992,Lifestyle,Numquam Tool,Supplement,Dryness,0.9,False,0.37,1,16
+HSP20217464,Lifestyle,Ullam Supplement,Serum,Pigmentation,0.96,True,0.45,4,34
+HSP20215332,Lifestyle,Facere Serum,Serum,Acne,0.76,False,0.43,4,57
+HSP20253024,Lifestyle,Perferendis Supplement,Serum,Hair Thinning,0.7,False,0.84,1,79
+HSP20247038,Skincare,Error Supplement,Supplement,Acne,0.95,False,0.73,3,80
+HSP20237242,Haircare,Eligendi Tool,Serum,Hair Thinning,0.75,False,0.5,3,26
+HSP20232775,Lifestyle,Quidem Oil,Tool,Acne,0.84,False,0.97,1,84
+HSP20228724,Haircare,Fugit Supplement,Serum,Wrinkles,0.77,True,0.81,0,83
+HSP20216374,Diet,Ratione Supplement,Serum,Wrinkles,0.83,True,0.51,5,69
+HSP20254626,Skincare,Voluptatem Tool,Tool,Acne,0.83,False,0.35,4,32
+HSP20218606,Skincare,Fugit Serum,Cleanser,Acne,0.93,False,0.47,4,49
+HSP20237689,Haircare,Deserunt Tool,Cleanser,Dryness,0.91,True,0.35,1,17
+HSP20213290,Haircare,Corrupti Supplement,Oil,Wrinkles,0.98,False,0.44,1,51
+HSP20211609,Skincare,Sint Cleanser,Tool,Pigmentation,0.96,False,0.87,0,61
+HSP20239071,Haircare,Repudiandae Oil,Serum,Pigmentation,0.98,True,0.63,1,42
+HSP20212592,Haircare,Excepturi Oil,Oil,Dryness,0.91,True,0.56,1,47
+HSP20229807,Lifestyle,Exercitationem Cleanser,Oil,Pigmentation,0.75,True,0.61,0,46
+HSP20227367,Haircare,Architecto Serum,Tool,Pigmentation,0.75,True,0.99,0,63
+HSP20247078,Haircare,Velit Oil,Supplement,Acne,0.73,False,0.71,5,72
+HSP20257866,Lifestyle,Quia Serum,Tool,Hair Thinning,0.88,False,0.68,1,50
+HSP20253531,Skincare,Et Supplement,Tool,Dryness,0.89,False,0.38,1,89
+HSP20242622,Skincare,Tempore Tool,Supplement,Pigmentation,0.86,False,0.5,3,84
+HSP20247686,Haircare,Eveniet Oil,Supplement,Dryness,0.97,False,0.83,1,65
+HSP20231536,Diet,Asperiores Oil,Cleanser,Dryness,0.98,True,0.33,3,16
+HSP20234559,Haircare,Consequuntur Tool,Cleanser,Acne,0.78,True,0.44,2,20
+HSP20248285,Skincare,Neque Serum,Cleanser,Dryness,0.7,True,0.47,0,10
+HSP20226942,Lifestyle,Iure Supplement,Cleanser,Pigmentation,0.9,True,0.46,1,40
+HSP20217018,Lifestyle,Optio Tool,Supplement,Hair Thinning,0.85,False,0.92,5,20
+HSP20256876,Haircare,Consequuntur Cleanser,Cleanser,Dryness,0.9,True,0.58,1,28
+HSP20217523,Skincare,Vero Tool,Oil,Dryness,0.81,False,0.62,5,67
+HSP20234109,Skincare,Deserunt Tool,Supplement,Dryness,0.75,True,0.74,1,68
+HSP20218450,Skincare,Ab Tool,Supplement,Hair Thinning,0.81,False,0.9,4,33
+HSP20214475,Lifestyle,Quo Tool,Cleanser,Acne,0.92,True,0.73,0,61
+HSP20251349,Haircare,Dolore Cleanser,Oil,Acne,0.81,True,0.45,4,83
+HSP20216464,Haircare,Nemo Oil,Serum,Pigmentation,0.93,True,0.64,4,36
+HSP20223063,Skincare,Ullam Oil,Tool,Pigmentation,0.77,False,0.44,5,83
+HSP20254362,Haircare,Pariatur Tool,Serum,Dryness,0.75,False,0.84,5,42
+HSP20214394,Lifestyle,Perferendis Cleanser,Tool,Acne,0.77,True,0.67,1,33
+HSP20254538,Lifestyle,Totam Serum,Supplement,Hair Thinning,0.83,False,0.71,3,28
+HSP20226383,Diet,Eligendi Supplement,Supplement,Pigmentation,0.95,True,0.91,3,69
+HSP20221046,Skincare,Illo Serum,Supplement,Dryness,0.83,False,0.31,2,90
+HSP20233370,Haircare,Iste Cleanser,Supplement,Hair Thinning,0.82,True,0.72,5,22
+HSP20229850,Skincare,Illo Tool,Cleanser,Hair Thinning,0.86,True,0.76,4,48
+HSP20233858,Skincare,Tenetur Cleanser,Tool,Pigmentation,0.74,False,0.75,3,82
+HSP20211422,Haircare,Assumenda Supplement,Tool,Wrinkles,0.75,False,0.83,1,66
+HSP20221243,Skincare,Commodi Supplement,Oil,Pigmentation,0.8,True,0.8,2,37
+HSP20234898,Haircare,Totam Serum,Oil,Acne,0.71,False,0.59,3,60
+HSP20256304,Lifestyle,Rem Serum,Oil,Dryness,0.9,True,0.46,0,19
+HSP20213854,Skincare,Eveniet Oil,Serum,Acne,0.93,False,0.74,2,35
+HSP20231858,Skincare,Quibusdam Tool,Cleanser,Wrinkles,0.87,True,0.55,5,21
+HSP20227897,Haircare,Amet Supplement,Serum,Dryness,0.84,False,0.72,3,86
+HSP20252862,Skincare,Doloribus Oil,Serum,Dryness,0.84,False,0.79,4,87
+HSP20218802,Haircare,Nesciunt Serum,Oil,Acne,0.83,True,0.44,0,8
+HSP20246931,Diet,Dolorum Supplement,Tool,Dryness,0.76,True,0.3,3,25
+HSP20252786,Skincare,Amet Oil,Cleanser,Pigmentation,0.79,False,0.82,5,45
+HSP20249254,Haircare,Nam Supplement,Oil,Hair Thinning,0.93,False,0.44,3,38
+HSP20221710,Haircare,Possimus Supplement,Supplement,Acne,0.98,False,0.65,2,24
+HSP20255941,Skincare,Ea Supplement,Cleanser,Wrinkles,0.97,False,0.79,4,88
+HSP20241510,Skincare,Illum Cleanser,Serum,Wrinkles,0.91,True,0.36,5,11
+HSP20218847,Diet,Amet Oil,Tool,Hair Thinning,0.76,True,0.31,1,47
+HSP20247984,Diet,Accusamus Serum,Tool,Acne,0.91,False,0.54,4,40
+HSP20219032,Diet,In Supplement,Oil,Pigmentation,0.93,False,0.54,5,75
+HSP20242204,Skincare,Reiciendis Oil,Supplement,Pigmentation,0.94,True,0.39,0,47
+HSP20216277,Diet,Sed Serum,Supplement,Acne,0.75,False,0.54,5,48
+HSP20253430,Lifestyle,Corrupti Oil,Supplement,Acne,0.82,True,0.54,0,21
+HSP20213067,Lifestyle,Iusto Oil,Supplement,Hair Thinning,0.92,True,0.37,0,10
+HSP20239984,Skincare,Id Cleanser,Supplement,Acne,0.8,False,0.89,0,51
+HSP20237240,Skincare,Odit Oil,Oil,Acne,0.72,True,0.96,2,41
+HSP20259692,Lifestyle,Temporibus Supplement,Supplement,Hair Thinning,0.99,False,0.36,0,13
+HSP20238433,Skincare,Quisquam Serum,Supplement,Acne,0.78,True,0.56,2,59
+HSP20258048,Diet,Qui Supplement,Supplement,Hair Thinning,0.93,False,0.72,3,74
+HSP20212874,Haircare,Possimus Supplement,Tool,Wrinkles,0.89,False,0.83,1,53
+HSP20254522,Lifestyle,Deleniti Serum,Supplement,Hair Thinning,0.73,True,0.88,2,57
+HSP20248398,Lifestyle,Quae Cleanser,Supplement,Wrinkles,0.9,False,0.7,0,17
+HSP20227779,Haircare,Omnis Tool,Serum,Wrinkles,0.96,False,0.79,5,17
+HSP20238430,Skincare,Fugit Tool,Serum,Dryness,0.76,True,0.6,3,52
+HSP20247815,Haircare,Earum Supplement,Serum,Hair Thinning,0.84,True,0.34,2,79
+HSP20216120,Diet,Culpa Tool,Serum,Pigmentation,0.98,True,0.39,0,50
+HSP20246120,Skincare,Iure Oil,Serum,Wrinkles,0.9,False,0.65,0,87
+HSP20237132,Lifestyle,Dolorem Supplement,Oil,Wrinkles,0.71,False,0.95,1,19
+HSP20228770,Skincare,Officia Cleanser,Cleanser,Dryness,0.95,True,0.67,4,65
+HSP20212494,Lifestyle,Tenetur Oil,Serum,Dryness,0.77,False,0.39,2,55
+HSP20212527,Skincare,Facere Oil,Tool,Pigmentation,0.81,False,0.48,2,55
+HSP20242582,Lifestyle,Ea Supplement,Supplement,Hair Thinning,0.85,True,0.98,2,46
+HSP20233131,Skincare,Accusantium Tool,Cleanser,Dryness,0.87,True,0.92,0,37
+HSP20251982,Lifestyle,Labore Cleanser,Supplement,Pigmentation,0.89,False,0.63,5,83
+HSP20256400,Haircare,Impedit Tool,Oil,Pigmentation,0.95,True,0.63,5,41
+HSP20217730,Diet,Reiciendis Tool,Tool,Pigmentation,0.95,True,0.5,0,80
+HSP20237929,Diet,Veniam Oil,Supplement,Hair Thinning,0.74,False,0.9,3,37
+HSP20215712,Haircare,Earum Supplement,Tool,Hair Thinning,0.87,False,0.92,4,9
+HSP20256119,Lifestyle,Doloribus Cleanser,Oil,Wrinkles,0.97,False,0.34,3,39
+HSP20232697,Lifestyle,Similique Cleanser,Oil,Hair Thinning,0.85,True,0.56,2,38
+HSP20259313,Diet,Tempore Cleanser,Supplement,Acne,0.88,True,0.86,4,65
+HSP20223535,Skincare,Necessitatibus Oil,Cleanser,Hair Thinning,0.78,False,0.69,2,63
+HSP20244674,Lifestyle,Nobis Oil,Oil,Wrinkles,0.91,False,0.39,0,85
+HSP20216736,Skincare,Quam Tool,Serum,Hair Thinning,0.94,True,0.72,2,27
+HSP20257022,Lifestyle,Itaque Supplement,Cleanser,Pigmentation,0.98,True,0.54,0,64
+HSP20215564,Lifestyle,Commodi Tool,Oil,Acne,0.73,False,0.65,3,64
+HSP20254705,Diet,Natus Tool,Serum,Acne,0.72,False,0.98,5,62
+HSP20241430,Haircare,Velit Tool,Oil,Wrinkles,0.71,True,0.83,5,45
+HSP20255381,Diet,Consequatur Oil,Oil,Wrinkles,0.85,True,0.56,2,11
+HSP20213955,Diet,Ea Oil,Oil,Acne,0.72,True,0.74,2,9
+HSP20236062,Skincare,Deserunt Supplement,Supplement,Pigmentation,0.87,False,0.5,4,43
+HSP20236751,Skincare,Perferendis Tool,Tool,Hair Thinning,0.96,False,0.51,3,48
+HSP20213972,Haircare,Iste Supplement,Oil,Dryness,0.83,False,0.68,2,41
+HSP20227566,Diet,Expedita Supplement,Supplement,Pigmentation,0.73,False,0.95,3,59
+HSP20213324,Haircare,Ab Cleanser,Supplement,Pigmentation,0.81,True,0.36,0,49
+HSP20212503,Skincare,Facilis Tool,Supplement,Dryness,0.81,True,0.72,5,64
+HSP20254524,Haircare,Molestiae Oil,Oil,Dryness,0.85,True,0.79,3,56
+HSP20247878,Diet,Ex Tool,Tool,Wrinkles,0.72,True,0.5,5,78
+HSP20246585,Diet,Occaecati Cleanser,Oil,Wrinkles,0.94,True,0.36,1,59
+HSP20227062,Lifestyle,Fugiat Tool,Tool,Acne,0.95,True,0.36,3,62
+HSP20236314,Diet,Iure Supplement,Tool,Dryness,0.94,False,0.55,1,53
+HSP20252391,Skincare,Incidunt Serum,Oil,Hair Thinning,0.88,False,0.41,0,62
+HSP20213549,Diet,Reprehenderit Cleanser,Oil,Wrinkles,0.72,False,0.45,5,74
+HSP20221815,Diet,Rem Cleanser,Supplement,Wrinkles,0.74,True,0.52,3,43
+HSP20215458,Skincare,Accusamus Tool,Serum,Wrinkles,0.85,True,0.71,5,61
+HSP20247947,Diet,Facilis Serum,Oil,Dryness,0.93,False,0.76,4,29
+HSP20248242,Diet,Ullam Serum,Serum,Wrinkles,0.88,True,0.59,2,61
+HSP20245475,Lifestyle,Magni Tool,Serum,Wrinkles,0.84,True,0.59,1,13
+HSP20229394,Lifestyle,Voluptate Serum,Serum,Hair Thinning,0.94,True,0.46,1,34
+HSP20216655,Diet,Ex Tool,Serum,Dryness,0.7,True,0.76,3,45
+HSP20242816,Haircare,Assumenda Cleanser,Oil,Hair Thinning,0.76,True,0.92,2,86
+HSP20238972,Diet,Vel Serum,Tool,Acne,0.95,True,0.35,5,55
+HSP20256053,Diet,Cumque Tool,Tool,Acne,0.73,True,0.65,5,29
+HSP20214612,Diet,Omnis Oil,Supplement,Acne,0.88,True,0.49,0,20
+HSP20241897,Haircare,Inventore Tool,Oil,Hair Thinning,0.91,True,0.72,2,62
+HSP20214349,Diet,Dolore Tool,Supplement,Acne,0.79,True,0.32,5,25
+HSP20234460,Skincare,Necessitatibus Cleanser,Cleanser,Hair Thinning,0.92,True,0.45,2,84
+HSP20225186,Lifestyle,Vitae Oil,Oil,Hair Thinning,0.94,False,0.59,1,34
+HSP20236375,Diet,Provident Cleanser,Tool,Dryness,0.87,False,0.91,2,43
+HSP20211126,Haircare,Voluptatibus Tool,Tool,Pigmentation,0.95,False,0.56,1,67
+HSP20248055,Lifestyle,Ipsa Cleanser,Supplement,Hair Thinning,0.76,False,0.84,0,38
+HSP20223116,Skincare,Voluptas Cleanser,Oil,Wrinkles,0.83,True,0.43,5,17
+HSP20249725,Lifestyle,Cumque Tool,Cleanser,Acne,0.96,False,0.44,1,52
+HSP20229196,Skincare,Tempore Supplement,Supplement,Dryness,0.71,True,0.31,3,63
+HSP20256802,Haircare,Impedit Supplement,Supplement,Hair Thinning,0.88,True,0.76,5,66
+HSP20217505,Haircare,Maxime Oil,Tool,Wrinkles,0.79,False,0.52,4,37
+HSP20218147,Diet,Sint Tool,Serum,Dryness,0.8,False,0.78,3,28
+HSP20218532,Lifestyle,Est Oil,Supplement,Wrinkles,0.72,False,0.95,4,17
+HSP20216129,Skincare,Est Supplement,Serum,Wrinkles,0.76,False,1.0,5,28
+HSP20258033,Lifestyle,Deleniti Tool,Oil,Pigmentation,0.75,True,0.84,5,43
+HSP20257626,Skincare,Perferendis Supplement,Oil,Dryness,0.76,True,0.36,5,72
+HSP20245743,Skincare,Dolor Cleanser,Serum,Pigmentation,0.95,True,0.9,2,16
+HSP20217636,Skincare,Odit Oil,Serum,Hair Thinning,0.82,True,0.79,1,83
+HSP20216321,Diet,Sequi Cleanser,Cleanser,Wrinkles,0.86,True,0.9,1,61
+HSP20228538,Diet,Minima Oil,Tool,Acne,0.79,False,0.67,4,57
+HSP20232443,Haircare,Nesciunt Supplement,Supplement,Acne,0.84,True,0.55,4,33
+HSP20242734,Diet,Voluptates Cleanser,Serum,Acne,0.96,True,0.42,0,48
+HSP20228138,Diet,Quo Supplement,Oil,Wrinkles,0.74,True,0.7,0,35
+HSP20257560,Lifestyle,Optio Serum,Serum,Acne,0.89,False,0.44,2,79
+HSP20252288,Haircare,Quidem Serum,Oil,Pigmentation,0.81,False,0.96,0,70
+HSP20246083,Haircare,Vel Serum,Cleanser,Acne,0.77,False,0.77,1,65
+HSP20234630,Haircare,Esse Cleanser,Tool,Wrinkles,0.91,True,0.61,0,7
+HSP20233754,Skincare,Expedita Supplement,Tool,Dryness,0.97,False,0.82,1,16
+HSP20219363,Haircare,Vero Cleanser,Supplement,Acne,0.83,True,0.7,3,16
+HSP20219693,Haircare,Saepe Tool,Oil,Pigmentation,0.9,False,0.71,5,82
+HSP20254176,Lifestyle,Beatae Oil,Serum,Dryness,0.95,False,0.55,0,41
+HSP20236752,Haircare,Qui Supplement,Tool,Acne,0.79,False,0.45,3,17
+HSP20224871,Skincare,Occaecati Tool,Serum,Acne,0.71,False,0.33,2,13
+HSP20213399,Skincare,Quia Supplement,Cleanser,Acne,0.95,True,0.77,4,48
+HSP20234232,Lifestyle,Voluptatibus Serum,Cleanser,Wrinkles,0.89,False,0.73,4,31
+HSP20223504,Diet,Magni Oil,Oil,Hair Thinning,0.95,False,0.64,3,13
+HSP20213902,Diet,Autem Supplement,Tool,Pigmentation,0.95,False,0.55,1,47
+HSP20248601,Lifestyle,Recusandae Supplement,Serum,Pigmentation,0.97,True,0.79,1,46
+HSP20258354,Lifestyle,Culpa Supplement,Serum,Wrinkles,0.77,False,0.69,5,71
+HSP20256295,Lifestyle,Assumenda Serum,Oil,Pigmentation,0.85,False,0.4,0,73
+HSP20233473,Haircare,Quo Oil,Oil,Acne,0.87,True,0.52,2,78
+HSP20242118,Skincare,Quae Oil,Serum,Pigmentation,0.72,True,0.96,0,79
+HSP20248245,Lifestyle,Eligendi Supplement,Supplement,Wrinkles,0.89,True,0.91,4,28
+HSP20235500,Lifestyle,Rem Oil,Tool,Wrinkles,0.9,False,0.55,0,40
+HSP20251920,Diet,Quidem Supplement,Serum,Pigmentation,0.85,False,0.77,5,24
+HSP20239312,Diet,Distinctio Cleanser,Oil,Wrinkles,0.98,True,0.48,4,75
+HSP20216085,Skincare,Doloremque Supplement,Serum,Acne,0.95,False,0.95,0,36
+HSP20248404,Lifestyle,Itaque Tool,Oil,Dryness,0.89,False,0.95,4,39
+HSP20211932,Lifestyle,Quasi Serum,Supplement,Dryness,0.82,False,0.97,0,59
+HSP20235703,Skincare,Numquam Supplement,Cleanser,Acne,0.9,False,0.33,3,75
+HSP20212479,Skincare,Cum Oil,Serum,Acne,0.96,False,0.64,4,16
+HSP20259307,Diet,Vero Cleanser,Oil,Pigmentation,0.83,False,0.7,1,35
+HSP20248581,Lifestyle,Enim Oil,Oil,Acne,0.74,True,0.63,2,39
+HSP20251672,Skincare,Reprehenderit Oil,Serum,Pigmentation,0.94,True,0.31,0,70
+HSP20244084,Lifestyle,Porro Serum,Serum,Wrinkles,0.78,False,0.3,0,75
+HSP20238792,Skincare,Consectetur Serum,Oil,Wrinkles,0.82,False,0.81,1,71
+HSP20253471,Diet,Quaerat Supplement,Supplement,Wrinkles,0.93,False,0.96,0,74
+HSP20218381,Lifestyle,Occaecati Oil,Oil,Acne,0.88,False,0.48,3,69
+HSP20216626,Haircare,Aspernatur Serum,Tool,Dryness,0.97,True,0.84,4,36
+HSP20219266,Diet,Odit Tool,Serum,Pigmentation,0.87,True,0.79,0,88
+HSP20221641,Haircare,Delectus Serum,Supplement,Dryness,0.97,False,0.8,1,53
+HSP20228172,Lifestyle,Quam Tool,Cleanser,Dryness,0.81,False,0.8,3,42
+HSP20249586,Skincare,Nesciunt Tool,Tool,Acne,0.71,True,0.57,5,12
+HSP20253600,Diet,Odit Tool,Tool,Pigmentation,0.82,False,0.42,5,66
+HSP20237108,Lifestyle,Recusandae Tool,Tool,Hair Thinning,0.71,True,0.39,0,29
+HSP20237347,Haircare,Aspernatur Supplement,Oil,Dryness,0.89,True,0.86,4,34
+HSP20246543,Lifestyle,Ratione Serum,Serum,Hair Thinning,0.99,True,0.54,1,52
+HSP20251857,Lifestyle,Officiis Serum,Serum,Wrinkles,0.87,True,0.96,5,13
+HSP20232079,Lifestyle,Veniam Cleanser,Oil,Acne,0.75,True,0.8,2,50
+HSP20232548,Diet,Inventore Tool,Serum,Pigmentation,0.92,True,0.36,3,63
+HSP20257333,Lifestyle,Adipisci Serum,Oil,Wrinkles,0.95,True,0.87,4,58
+HSP20235128,Diet,Nam Tool,Oil,Dryness,0.71,False,0.36,0,23
+HSP20253463,Diet,Facere Cleanser,Oil,Hair Thinning,0.71,False,0.53,1,25
+HSP20232335,Skincare,A Tool,Cleanser,Dryness,0.85,False,0.67,2,53
+HSP20253317,Skincare,Esse Tool,Serum,Wrinkles,0.78,False,0.94,0,85
+HSP20236082,Lifestyle,Repellendus Tool,Oil,Dryness,0.81,False,0.33,0,75
+HSP20243112,Haircare,Aut Supplement,Serum,Acne,0.79,True,0.67,5,7
+HSP20252388,Lifestyle,Aperiam Oil,Supplement,Hair Thinning,0.82,False,0.49,4,43
+HSP20237171,Haircare,Nisi Tool,Cleanser,Acne,0.74,True,0.87,2,62
+HSP20233093,Skincare,Laborum Cleanser,Supplement,Wrinkles,0.99,True,0.53,5,75
+HSP20252531,Lifestyle,Voluptates Serum,Oil,Pigmentation,0.81,True,0.73,3,54
+HSP20249331,Skincare,At Supplement,Supplement,Wrinkles,0.91,True,0.57,5,47
+HSP20231298,Haircare,Quis Serum,Supplement,Wrinkles,0.96,True,0.69,1,69
+HSP20236060,Skincare,Assumenda Cleanser,Oil,Wrinkles,0.83,False,0.75,2,21
+HSP20224509,Haircare,Atque Serum,Serum,Pigmentation,0.98,True,0.86,0,86
+HSP20238967,Diet,Optio Oil,Supplement,Pigmentation,0.71,False,0.53,1,76
+HSP20224711,Skincare,Aliquid Tool,Supplement,Dryness,0.84,False,0.52,2,10
+HSP20223538,Lifestyle,Illo Cleanser,Tool,Dryness,0.9,False,0.88,0,63
+HSP20215846,Haircare,Nemo Supplement,Supplement,Dryness,0.91,True,0.99,0,54
+HSP20219317,Haircare,Ducimus Tool,Supplement,Acne,0.78,False,0.91,2,14
+HSP20259626,Skincare,Deleniti Cleanser,Supplement,Dryness,0.92,False,0.55,3,17
+HSP20216517,Skincare,Temporibus Oil,Tool,Hair Thinning,0.91,False,0.37,5,51
+HSP20253147,Skincare,Tenetur Supplement,Serum,Dryness,0.93,True,0.67,4,88
+HSP20257172,Diet,Nihil Serum,Tool,Acne,0.78,False,0.76,5,18
+HSP20223658,Diet,Minima Serum,Cleanser,Acne,0.89,True,0.45,3,40
+HSP20223712,Skincare,Modi Supplement,Supplement,Acne,0.71,False,0.6,3,81
+HSP20241715,Haircare,Occaecati Cleanser,Cleanser,Wrinkles,0.87,False,0.91,5,86
+HSP20246968,Haircare,Minus Oil,Tool,Hair Thinning,0.97,False,0.67,3,35
+HSP20228277,Lifestyle,Minus Tool,Cleanser,Acne,0.92,True,0.61,5,54
+HSP20255668,Haircare,Beatae Cleanser,Tool,Acne,0.92,False,0.44,0,53
+HSP20244833,Lifestyle,Vero Cleanser,Oil,Acne,0.81,False,0.74,0,26
+HSP20254918,Diet,Ut Serum,Cleanser,Wrinkles,0.71,True,0.81,4,45
+HSP20238684,Skincare,Quis Cleanser,Supplement,Hair Thinning,0.94,True,0.58,4,35
+HSP20227026,Lifestyle,Deleniti Oil,Tool,Pigmentation,0.83,True,0.9,3,45
+HSP20258218,Haircare,Ullam Oil,Supplement,Dryness,0.92,True,0.5,5,46
+HSP20245616,Diet,Laudantium Tool,Supplement,Pigmentation,0.79,False,0.78,4,22
+HSP20249239,Diet,Cumque Serum,Tool,Hair Thinning,0.86,False,0.41,0,44
+HSP20257859,Lifestyle,Dolorum Cleanser,Serum,Hair Thinning,0.79,False,0.93,4,77
+HSP20224271,Lifestyle,Quidem Oil,Cleanser,Dryness,0.9,True,0.99,1,32
+HSP20253267,Skincare,Mollitia Supplement,Cleanser,Dryness,0.92,True,0.96,1,73
+HSP20231854,Haircare,Quia Serum,Tool,Wrinkles,0.76,True,0.84,1,48
+HSP20247081,Skincare,Debitis Tool,Cleanser,Wrinkles,0.71,True,0.77,2,7
+HSP20252680,Skincare,Et Supplement,Cleanser,Hair Thinning,0.84,False,0.54,3,61
+HSP20253042,Diet,A Oil,Serum,Wrinkles,0.95,True,0.9,3,12
+HSP20232374,Haircare,Adipisci Oil,Supplement,Wrinkles,0.71,False,0.73,3,32
+HSP20225469,Lifestyle,In Tool,Serum,Pigmentation,0.81,True,0.59,3,31
+HSP20249410,Skincare,Officiis Tool,Tool,Dryness,0.94,True,0.52,1,12
+HSP20228167,Lifestyle,Veniam Serum,Serum,Hair Thinning,0.97,True,0.43,2,66
+HSP20214637,Lifestyle,Quisquam Serum,Oil,Pigmentation,0.89,True,0.77,4,57
+HSP20246727,Haircare,Nisi Serum,Serum,Hair Thinning,0.77,False,0.53,1,58
+HSP20217797,Lifestyle,Quibusdam Tool,Cleanser,Hair Thinning,0.94,True,0.83,3,76
+HSP20217495,Lifestyle,Modi Serum,Serum,Wrinkles,0.8,False,0.67,4,74
+HSP20257126,Skincare,Eum Cleanser,Oil,Hair Thinning,0.72,True,0.45,2,27
+HSP20227326,Diet,Expedita Cleanser,Tool,Pigmentation,0.84,False,0.36,2,71
+HSP20217142,Skincare,Officia Oil,Tool,Acne,0.94,False,0.8,4,24
+HSP20221461,Haircare,Laborum Supplement,Serum,Hair Thinning,0.97,False,0.79,4,63
+HSP20232623,Skincare,Dolor Cleanser,Serum,Acne,0.97,True,0.69,4,34
+HSP20233392,Diet,Harum Tool,Serum,Hair Thinning,0.87,False,0.98,5,40
+HSP20221627,Diet,Eaque Tool,Oil,Hair Thinning,0.89,True,0.32,2,75
+HSP20238740,Haircare,Culpa Cleanser,Supplement,Wrinkles,0.91,False,0.93,4,55
+HSP20228685,Lifestyle,Aliquid Cleanser,Oil,Acne,0.93,True,0.71,0,34
+HSP20241086,Skincare,Ut Tool,Serum,Wrinkles,0.89,False,0.99,5,60
+HSP20211311,Diet,Nihil Serum,Supplement,Hair Thinning,0.73,False,0.77,5,45
+HSP20234533,Haircare,Sint Serum,Tool,Wrinkles,0.78,True,0.75,5,34
+HSP20229991,Lifestyle,Ad Tool,Cleanser,Pigmentation,0.88,True,0.41,3,20
+HSP20259647,Haircare,Excepturi Oil,Tool,Hair Thinning,0.76,False,0.74,0,43
+HSP20242821,Skincare,Enim Supplement,Supplement,Wrinkles,0.74,True,0.49,1,87
+HSP20234893,Lifestyle,Atque Cleanser,Serum,Pigmentation,0.94,True,0.53,0,68
+HSP20232996,Diet,Consequuntur Oil,Cleanser,Pigmentation,0.84,False,0.96,4,84
+HSP20214906,Diet,Saepe Supplement,Cleanser,Dryness,0.77,True,0.57,3,76
+HSP20248489,Haircare,Aliquid Oil,Cleanser,Acne,0.88,False,0.83,5,85
+HSP20212816,Lifestyle,Occaecati Oil,Oil,Dryness,0.96,True,0.94,4,46
+HSP20249782,Skincare,Sapiente Oil,Tool,Pigmentation,0.93,False,0.46,2,8
+HSP20219443,Skincare,Veniam Supplement,Oil,Wrinkles,0.71,False,0.57,3,56
+HSP20254963,Haircare,Voluptatibus Serum,Tool,Hair Thinning,0.74,False,0.8,4,47
+HSP20225772,Lifestyle,Architecto Supplement,Cleanser,Pigmentation,0.89,False,0.33,5,45
+HSP20241025,Haircare,Exercitationem Supplement,Supplement,Hair Thinning,0.94,False,0.47,3,65
+HSP20256780,Haircare,Aperiam Tool,Cleanser,Hair Thinning,0.83,True,0.77,3,27
+HSP20227825,Haircare,Natus Oil,Oil,Hair Thinning,0.82,False,0.61,0,62
+HSP20222402,Skincare,Nulla Serum,Supplement,Pigmentation,0.72,True,0.58,1,73
+HSP20256908,Haircare,Eveniet Oil,Cleanser,Hair Thinning,0.92,False,0.94,5,75
+HSP20219618,Haircare,Quis Cleanser,Tool,Dryness,0.82,True,0.6,4,84
+HSP20259312,Lifestyle,Esse Cleanser,Cleanser,Pigmentation,0.9,False,0.96,3,90
+HSP20251333,Lifestyle,Aspernatur Cleanser,Tool,Wrinkles,0.78,False,0.61,0,14
+HSP20248702,Haircare,Deserunt Supplement,Oil,Pigmentation,0.93,False,0.73,2,89
+HSP20217338,Skincare,Provident Tool,Supplement,Dryness,0.73,False,0.74,5,17
+HSP20235155,Diet,Illum Tool,Cleanser,Wrinkles,0.75,True,0.66,3,36
+HSP20216850,Diet,Eveniet Serum,Oil,Acne,0.85,True,0.91,5,16
+HSP20216649,Haircare,Repellat Oil,Oil,Pigmentation,0.83,False,0.5,5,11
+HSP20222698,Lifestyle,Ipsum Serum,Supplement,Hair Thinning,0.77,True,0.91,4,17
+HSP20256447,Skincare,Repellat Serum,Tool,Acne,0.75,False,0.6,3,52
+HSP20221726,Diet,Sapiente Supplement,Supplement,Pigmentation,0.75,True,0.84,0,13
+HSP20239945,Skincare,Veniam Oil,Tool,Pigmentation,0.84,False,0.55,1,90
+HSP20233868,Lifestyle,Iste Supplement,Cleanser,Acne,0.8,False,0.9,1,23
+HSP20248840,Diet,Ex Tool,Tool,Hair Thinning,0.86,False,0.8,5,32
+HSP20223209,Skincare,Incidunt Oil,Cleanser,Dryness,0.96,True,0.93,3,57
+HSP20218498,Diet,Dicta Oil,Tool,Acne,0.8,True,0.97,5,64
+HSP20215807,Skincare,Ut Tool,Oil,Acne,0.71,True,0.56,3,18
+HSP20221717,Haircare,Quasi Supplement,Serum,Dryness,0.96,False,0.49,0,9
+HSP20221686,Lifestyle,Est Supplement,Cleanser,Dryness,0.78,False,0.51,3,39
+HSP20236080,Haircare,Neque Supplement,Tool,Pigmentation,0.88,False,0.61,2,24
+HSP20257524,Lifestyle,In Supplement,Serum,Pigmentation,0.91,True,0.93,2,70
+HSP20258756,Lifestyle,Harum Supplement,Serum,Acne,0.9,False,0.44,0,27
+HSP20231599,Diet,Assumenda Tool,Supplement,Dryness,0.97,False,0.49,2,52
+HSP20225687,Lifestyle,Quos Supplement,Tool,Dryness,0.74,True,0.36,2,15
+HSP20231783,Diet,Rerum Supplement,Cleanser,Hair Thinning,0.86,True,0.38,1,13
+HSP20235476,Skincare,Doloribus Oil,Supplement,Dryness,0.74,True,0.51,5,38
+HSP20217029,Haircare,Sunt Tool,Oil,Wrinkles,0.78,False,0.72,2,89
+HSP20247553,Diet,Veritatis Cleanser,Cleanser,Dryness,0.94,False,0.83,2,65
+HSP20247334,Lifestyle,Nobis Oil,Supplement,Acne,0.78,False,0.47,3,65
+HSP20234060,Haircare,Quos Supplement,Oil,Pigmentation,0.98,False,0.31,1,72
+HSP20249151,Haircare,Possimus Supplement,Serum,Hair Thinning,0.96,True,0.44,3,64
+HSP20239507,Skincare,Architecto Serum,Serum,Hair Thinning,0.97,False,0.54,4,44
+HSP20232353,Diet,Laborum Cleanser,Tool,Hair Thinning,0.83,True,0.79,4,79
+HSP20242293,Haircare,Temporibus Serum,Oil,Pigmentation,0.87,True,0.52,0,23
+HSP20243956,Haircare,Velit Oil,Supplement,Hair Thinning,0.86,False,0.81,4,67
+HSP20255813,Skincare,Modi Cleanser,Supplement,Hair Thinning,0.71,True,0.31,0,50
+HSP20232680,Diet,Qui Oil,Tool,Hair Thinning,0.83,True,0.39,2,74
+HSP20216372,Diet,Ipsum Cleanser,Supplement,Pigmentation,0.89,False,0.45,2,21
+HSP20236021,Haircare,Voluptatem Cleanser,Supplement,Dryness,0.83,False,0.44,2,14
+HSP20247981,Lifestyle,Nesciunt Serum,Tool,Acne,0.86,False,0.38,5,34
+HSP20228272,Skincare,Nemo Cleanser,Tool,Pigmentation,0.71,False,0.34,1,48
+HSP20238325,Lifestyle,Distinctio Tool,Supplement,Pigmentation,0.98,True,0.4,5,67
+HSP20216776,Haircare,In Serum,Cleanser,Hair Thinning,0.91,True,0.35,0,88
+HSP20258126,Skincare,Minus Serum,Cleanser,Wrinkles,0.73,False,0.66,5,26
+HSP20231939,Skincare,Ea Tool,Serum,Pigmentation,0.83,False,0.97,2,70
+HSP20217655,Haircare,Quidem Oil,Oil,Acne,0.97,False,0.85,0,54
+HSP20239406,Skincare,Pariatur Oil,Serum,Hair Thinning,0.87,False,0.62,5,9
+HSP20221510,Lifestyle,Excepturi Cleanser,Oil,Dryness,0.8,True,0.96,3,58
+HSP20228179,Haircare,Et Supplement,Cleanser,Dryness,0.87,False,0.71,2,64
+HSP20213068,Haircare,In Serum,Oil,Hair Thinning,0.77,True,0.33,2,69
+HSP20214866,Skincare,Voluptatum Oil,Tool,Hair Thinning,0.97,True,0.52,3,84
+HSP20236933,Lifestyle,Dicta Oil,Supplement,Dryness,0.83,True,0.38,4,82
+HSP20241530,Lifestyle,Officiis Cleanser,Oil,Hair Thinning,0.94,True,0.32,4,45
+HSP20253513,Diet,Aspernatur Supplement,Supplement,Acne,0.94,True,0.4,4,53
+HSP20247077,Lifestyle,Ratione Tool,Cleanser,Hair Thinning,0.96,True,0.81,3,25
+HSP20238273,Skincare,Neque Serum,Oil,Pigmentation,0.75,True,0.7,2,84
+HSP20213255,Diet,Nesciunt Cleanser,Oil,Pigmentation,0.79,False,0.42,4,70
+HSP20257012,Skincare,Quos Supplement,Supplement,Dryness,0.95,True,0.58,1,16
+HSP20246150,Lifestyle,Quia Tool,Cleanser,Acne,0.82,True,0.42,5,45
+HSP20235089,Lifestyle,Deleniti Supplement,Oil,Acne,0.81,False,0.91,5,19
+HSP20211424,Lifestyle,Molestias Oil,Supplement,Acne,0.81,True,0.97,0,9
+HSP20229176,Skincare,Exercitationem Serum,Cleanser,Wrinkles,0.97,False,0.4,2,85
+HSP20257340,Diet,Facere Tool,Oil,Acne,0.75,True,0.9,2,22
+HSP20252929,Haircare,Enim Supplement,Cleanser,Hair Thinning,0.81,True,0.3,5,60
+HSP20235264,Haircare,Iure Serum,Tool,Acne,0.78,False,0.72,1,70
+HSP20244515,Lifestyle,Tenetur Tool,Cleanser,Dryness,0.93,False,0.39,5,80
+HSP20255678,Haircare,Beatae Oil,Supplement,Wrinkles,0.73,True,0.95,1,57
+HSP20244279,Lifestyle,Odio Supplement,Cleanser,Acne,0.92,True,0.71,5,51
+HSP20213223,Haircare,Maxime Supplement,Cleanser,Hair Thinning,0.92,False,0.6,1,10
+HSP20218406,Lifestyle,Consectetur Supplement,Oil,Hair Thinning,0.92,True,0.56,5,19
+HSP20228292,Diet,Quidem Supplement,Supplement,Hair Thinning,0.77,False,0.81,0,82
+HSP20216236,Lifestyle,Eaque Supplement,Supplement,Hair Thinning,0.82,False,0.99,1,88
+HSP20232063,Diet,Asperiores Cleanser,Tool,Pigmentation,0.8,True,0.95,4,25
+HSP20259882,Lifestyle,Fugiat Oil,Serum,Pigmentation,0.97,False,0.47,1,88
+HSP20235914,Lifestyle,Minus Tool,Supplement,Acne,0.93,False,0.6,0,48
+HSP20223852,Skincare,Veniam Tool,Cleanser,Pigmentation,0.97,True,0.62,5,22
+HSP20239335,Skincare,Sed Cleanser,Serum,Hair Thinning,0.92,False,0.63,3,23
+HSP20222988,Skincare,Sed Oil,Supplement,Hair Thinning,0.77,True,0.44,2,42
+HSP20223275,Diet,Animi Oil,Oil,Acne,0.82,False,0.83,3,65
+HSP20229094,Lifestyle,Aut Serum,Serum,Pigmentation,0.88,True,0.78,5,41
+HSP20216912,Haircare,Eaque Supplement,Serum,Acne,0.78,True,0.64,1,57
+HSP20257044,Diet,Repudiandae Supplement,Oil,Wrinkles,0.71,False,0.87,3,54
+HSP20243126,Lifestyle,Velit Oil,Supplement,Wrinkles,0.99,True,0.58,5,24
+HSP20252412,Lifestyle,Ratione Oil,Supplement,Acne,0.7,True,0.42,2,7
+HSP20216067,Lifestyle,Esse Tool,Supplement,Hair Thinning,0.89,True,0.73,5,26
+HSP20248842,Haircare,Perferendis Cleanser,Serum,Hair Thinning,0.93,False,0.48,3,30
+HSP20257730,Skincare,Eos Supplement,Oil,Acne,0.92,False,0.78,0,55
+HSP20242208,Diet,Iusto Cleanser,Oil,Dryness,0.79,True,0.68,2,33
+HSP20226194,Diet,Incidunt Cleanser,Tool,Hair Thinning,0.74,True,0.62,3,74
+HSP20218372,Skincare,Accusantium Oil,Cleanser,Hair Thinning,0.96,True,0.59,0,80
+HSP20249476,Lifestyle,Error Serum,Supplement,Acne,0.94,False,0.71,0,13
+HSP20233102,Lifestyle,Eaque Oil,Serum,Wrinkles,0.76,True,0.71,1,62
+HSP20253981,Lifestyle,Cumque Serum,Supplement,Hair Thinning,0.85,True,0.58,2,22
+HSP20228088,Skincare,Perferendis Oil,Tool,Wrinkles,0.73,False,0.59,4,62
+HSP20251907,Haircare,Exercitationem Serum,Tool,Hair Thinning,0.72,False,0.37,3,63
+HSP20219488,Skincare,Voluptatem Tool,Tool,Wrinkles,0.82,True,0.51,4,66
+HSP20225982,Diet,Sed Tool,Oil,Acne,0.97,True,0.56,1,84
+HSP20223653,Haircare,Voluptatibus Serum,Tool,Wrinkles,0.92,False,0.67,5,67
+HSP20234694,Lifestyle,Enim Tool,Tool,Hair Thinning,0.9,True,0.48,2,34
+HSP20239501,Lifestyle,Nam Supplement,Tool,Wrinkles,0.97,False,0.67,4,62
+HSP20232292,Haircare,Excepturi Oil,Supplement,Hair Thinning,0.94,True,0.56,5,36
+HSP20234216,Skincare,Quod Serum,Tool,Wrinkles,0.73,True,0.77,2,39
+HSP20255496,Lifestyle,Iste Supplement,Tool,Pigmentation,0.7,True,0.63,0,31
+HSP20225961,Haircare,Id Oil,Oil,Dryness,0.76,True,0.74,0,48
+HSP20259740,Lifestyle,Modi Oil,Tool,Acne,0.98,False,0.63,0,75
+HSP20219234,Haircare,Omnis Tool,Cleanser,Pigmentation,0.94,False,0.66,2,84
+HSP20223526,Skincare,Quibusdam Cleanser,Oil,Acne,0.84,False,0.95,2,14
+HSP20226531,Diet,Totam Cleanser,Cleanser,Acne,0.96,False,0.85,4,59
+HSP20251674,Haircare,Magnam Oil,Tool,Acne,0.79,True,0.68,0,90
+HSP20212330,Skincare,Inventore Supplement,Serum,Hair Thinning,0.76,True,0.61,5,37
+HSP20215336,Lifestyle,Facilis Tool,Serum,Acne,0.84,False,0.88,3,83
+HSP20227825,Skincare,Magni Supplement,Oil,Pigmentation,0.96,False,0.59,4,40
+HSP20251496,Skincare,Quam Supplement,Tool,Acne,0.71,False,0.9,0,84
+HSP20249938,Haircare,Praesentium Tool,Supplement,Dryness,0.75,False,0.74,4,79
+HSP20235949,Skincare,Omnis Serum,Tool,Dryness,0.71,False,0.58,4,83
+HSP20245012,Skincare,Consequuntur Serum,Tool,Hair Thinning,0.99,False,0.37,5,13
+HSP20245873,Lifestyle,Optio Tool,Serum,Pigmentation,0.82,False,0.52,0,61
+HSP20242195,Lifestyle,Ipsum Oil,Serum,Acne,0.96,False,0.91,3,26
+HSP20213589,Diet,Enim Cleanser,Serum,Wrinkles,0.77,False,0.36,0,78
+HSP20247809,Skincare,Maxime Supplement,Tool,Pigmentation,0.88,True,0.54,2,8
+HSP20248609,Diet,Ipsam Tool,Oil,Wrinkles,0.89,False,0.32,5,68
+HSP20226573,Haircare,Neque Supplement,Serum,Acne,0.74,True,0.78,0,32
+HSP20253353,Skincare,Aperiam Supplement,Serum,Hair Thinning,0.76,False,0.9,0,64
+HSP20236231,Diet,Recusandae Tool,Tool,Hair Thinning,0.72,False,0.45,1,26
+HSP20237532,Diet,Est Tool,Supplement,Wrinkles,0.99,False,0.6,2,89
+HSP20227070,Skincare,Dignissimos Tool,Supplement,Hair Thinning,0.9,False,0.43,4,34
+HSP20252739,Haircare,Ad Supplement,Serum,Hair Thinning,0.88,True,0.81,0,8
+HSP20234960,Haircare,Facilis Oil,Cleanser,Dryness,0.79,False,0.88,4,24
+HSP20243007,Haircare,Quod Oil,Oil,Wrinkles,0.87,True,0.57,4,48
+HSP20238366,Diet,Reprehenderit Cleanser,Oil,Hair Thinning,0.86,True,0.7,1,85
+HSP20223308,Diet,Repellendus Supplement,Supplement,Dryness,0.75,False,0.58,2,75
+HSP20211829,Haircare,Nesciunt Serum,Cleanser,Hair Thinning,0.8,True,0.58,0,22
+HSP20237293,Diet,Impedit Supplement,Oil,Wrinkles,0.92,False,0.64,0,54
+HSP20257850,Skincare,Dolor Cleanser,Tool,Hair Thinning,0.97,False,0.51,2,38
+HSP20223616,Haircare,Eius Cleanser,Oil,Pigmentation,0.82,True,0.85,4,34
+HSP20236123,Lifestyle,Iure Cleanser,Serum,Wrinkles,0.86,False,0.68,1,47
+HSP20223610,Haircare,Eum Cleanser,Cleanser,Pigmentation,0.72,True,0.58,2,25
+HSP20249433,Skincare,Modi Cleanser,Tool,Pigmentation,0.78,False,1.0,4,62
+HSP20249171,Diet,Reiciendis Oil,Cleanser,Hair Thinning,0.79,True,0.92,3,32
+HSP20239148,Haircare,Exercitationem Supplement,Serum,Acne,0.9,False,0.54,5,40
+HSP20212475,Diet,Praesentium Supplement,Tool,Acne,0.86,False,0.89,4,28
+HSP20249281,Diet,Quo Serum,Oil,Hair Thinning,0.96,True,0.41,4,55
+HSP20244944,Haircare,Ullam Supplement,Supplement,Hair Thinning,0.8,False,0.53,5,30
+HSP20226781,Haircare,Vitae Oil,Serum,Wrinkles,0.71,True,0.72,5,88
+HSP20211828,Diet,Labore Tool,Oil,Dryness,0.95,False,0.57,0,74
+HSP20239108,Skincare,Facere Supplement,Supplement,Hair Thinning,0.91,True,0.74,5,24
+HSP20258710,Lifestyle,Porro Cleanser,Cleanser,Acne,0.81,False,0.4,3,54
+HSP20239793,Skincare,Temporibus Serum,Serum,Pigmentation,0.91,True,0.9,1,88
+HSP20212761,Lifestyle,Porro Serum,Cleanser,Pigmentation,0.9,True,0.31,2,63
+HSP20243194,Lifestyle,Officia Supplement,Oil,Hair Thinning,0.76,False,0.35,1,69
+HSP20236992,Skincare,Dolores Cleanser,Oil,Hair Thinning,0.87,False,0.83,0,74
+HSP20246995,Skincare,Libero Supplement,Cleanser,Hair Thinning,0.73,True,0.89,4,81
+HSP20217563,Skincare,Dolores Cleanser,Cleanser,Dryness,0.86,False,0.78,2,64
+HSP20214189,Diet,Deserunt Cleanser,Oil,Wrinkles,0.98,False,0.36,2,49
+HSP20235728,Skincare,Quisquam Cleanser,Supplement,Wrinkles,0.96,True,0.39,1,26
+HSP20217329,Skincare,Porro Tool,Cleanser,Pigmentation,0.81,False,0.9,2,41
+HSP20258378,Haircare,Ea Tool,Tool,Wrinkles,0.96,True,0.65,1,73
+HSP20255582,Skincare,Quis Oil,Serum,Hair Thinning,0.87,False,0.8,0,62
+HSP20252946,Haircare,Temporibus Tool,Tool,Pigmentation,0.94,False,0.39,0,11
+HSP20222584,Lifestyle,Assumenda Tool,Cleanser,Hair Thinning,0.93,True,0.64,4,25
+HSP20247114,Skincare,Qui Oil,Cleanser,Hair Thinning,0.83,False,0.6,0,46
+HSP20236990,Haircare,Aliquid Oil,Tool,Pigmentation,0.85,False,0.96,0,14
+HSP20224261,Haircare,Autem Oil,Cleanser,Acne,0.86,False,0.97,3,83
+HSP20259341,Diet,Velit Oil,Cleanser,Pigmentation,0.75,True,0.81,5,81
+HSP20249193,Lifestyle,Architecto Tool,Supplement,Acne,0.94,True,0.78,1,47
+HSP20211742,Haircare,Ab Tool,Tool,Hair Thinning,0.88,True,0.7,5,77
+HSP20213245,Lifestyle,Neque Serum,Tool,Acne,0.95,True,0.88,0,65
+HSP20238761,Skincare,Deserunt Supplement,Tool,Dryness,0.74,True,0.89,5,58
+HSP20258487,Skincare,Suscipit Cleanser,Oil,Hair Thinning,0.82,True,0.48,4,90
+HSP20229446,Diet,Eveniet Tool,Tool,Pigmentation,0.95,False,0.6,2,33
+HSP20226373,Lifestyle,Atque Cleanser,Serum,Dryness,0.93,True,0.48,3,70
+HSP20256218,Lifestyle,Voluptatum Oil,Cleanser,Hair Thinning,0.7,True,0.65,0,82
+HSP20227438,Skincare,Distinctio Tool,Serum,Pigmentation,0.73,True,0.83,4,45
+HSP20255902,Haircare,Accusamus Serum,Tool,Wrinkles,0.78,False,0.61,2,55
+HSP20256511,Diet,Esse Cleanser,Serum,Hair Thinning,0.73,True,0.5,4,11
+HSP20259351,Skincare,Quae Tool,Oil,Pigmentation,0.93,False,0.41,1,83
+HSP20259025,Skincare,Odit Cleanser,Serum,Acne,0.89,True,0.94,3,52
+HSP20255911,Lifestyle,Minima Supplement,Oil,Acne,0.9,True,0.87,0,23
+HSP20241272,Haircare,Assumenda Serum,Cleanser,Acne,0.73,False,0.48,4,21
+HSP20236427,Lifestyle,Sit Serum,Supplement,Dryness,0.96,True,0.8,1,70
+HSP20217824,Diet,Tempore Tool,Tool,Hair Thinning,0.89,True,0.76,0,75
+HSP20256040,Diet,Vel Tool,Cleanser,Acne,0.82,False,0.33,1,10
+HSP20218775,Diet,Sint Serum,Oil,Pigmentation,0.93,True,0.78,3,28
+HSP20234728,Lifestyle,Perspiciatis Serum,Tool,Hair Thinning,0.84,True,0.93,0,80
+HSP20218871,Diet,Unde Cleanser,Serum,Acne,0.8,True,0.51,0,65
+HSP20229589,Haircare,Placeat Supplement,Serum,Dryness,0.95,False,0.86,5,28
+HSP20257229,Haircare,Ad Cleanser,Tool,Acne,0.85,True,0.39,1,64
+HSP20224968,Skincare,Ab Cleanser,Serum,Hair Thinning,0.76,True,0.76,4,46
+HSP20212800,Skincare,Quibusdam Serum,Supplement,Wrinkles,0.81,False,0.89,0,37
+HSP20221310,Lifestyle,Quod Serum,Oil,Wrinkles,0.98,True,0.86,3,27
+HSP20246139,Skincare,Neque Supplement,Supplement,Acne,0.81,True,0.85,3,33
+HSP20243481,Diet,Accusantium Cleanser,Cleanser,Dryness,0.8,False,0.42,0,21
+HSP20244340,Lifestyle,Ad Cleanser,Oil,Dryness,0.71,False,0.57,0,11
+HSP20249221,Diet,Quia Tool,Supplement,Wrinkles,0.96,True,0.47,3,38
+HSP20258726,Skincare,Harum Supplement,Serum,Pigmentation,0.76,True,0.98,1,35
+HSP20213262,Haircare,Quidem Serum,Tool,Wrinkles,0.71,False,0.85,1,14
+HSP20254397,Haircare,Illo Supplement,Serum,Wrinkles,0.79,False,0.33,0,88
+HSP20256325,Haircare,Ad Supplement,Tool,Wrinkles,0.97,False,0.4,2,37
+HSP20249609,Haircare,Provident Tool,Serum,Dryness,0.86,False,0.49,1,73
+HSP20246140,Diet,Voluptatem Oil,Supplement,Dryness,0.72,True,0.33,4,19
+HSP20228531,Diet,Veniam Tool,Serum,Acne,0.73,True,0.35,4,45
+HSP20256608,Skincare,Non Oil,Cleanser,Wrinkles,0.92,False,0.64,2,12
+HSP20256804,Skincare,Dolorum Supplement,Oil,Hair Thinning,0.8,True,0.59,5,22
+HSP20238932,Diet,Corrupti Oil,Supplement,Acne,0.97,True,0.94,1,80
+HSP20225038,Diet,Consequatur Supplement,Supplement,Hair Thinning,0.91,False,0.92,3,43
+HSP20235890,Haircare,Qui Serum,Serum,Hair Thinning,0.79,True,0.57,5,83
+HSP20225876,Skincare,Distinctio Cleanser,Cleanser,Dryness,0.88,True,0.74,0,55
+HSP20234396,Diet,Excepturi Serum,Tool,Hair Thinning,0.84,True,0.58,3,9
+HSP20246194,Skincare,Earum Oil,Supplement,Acne,0.99,False,0.87,2,22
+HSP20246714,Haircare,Sit Oil,Oil,Wrinkles,0.83,False,0.81,0,42
+HSP20255480,Lifestyle,Qui Serum,Oil,Dryness,0.78,True,0.37,5,88
+HSP20232996,Diet,Explicabo Cleanser,Tool,Wrinkles,0.8,False,0.58,3,75
+HSP20259899,Lifestyle,Libero Cleanser,Serum,Dryness,0.7,True,0.87,2,78
+HSP20247464,Lifestyle,Fugiat Serum,Serum,Dryness,0.8,False,0.71,5,50
+HSP20233399,Haircare,Nam Supplement,Oil,Wrinkles,0.72,False,0.42,0,39
+HSP20231689,Diet,Beatae Cleanser,Oil,Acne,0.96,False,0.73,2,50
+HSP20232294,Haircare,Minima Serum,Supplement,Pigmentation,0.98,False,1.0,2,8
+HSP20238247,Skincare,Necessitatibus Serum,Cleanser,Hair Thinning,0.81,True,0.51,3,81
+HSP20238849,Diet,Officia Supplement,Oil,Dryness,0.95,False,1.0,3,39
+HSP20224310,Haircare,Recusandae Oil,Cleanser,Hair Thinning,0.88,False,0.86,1,59
+HSP20255442,Skincare,Exercitationem Serum,Tool,Acne,0.93,True,0.55,2,48
+HSP20255450,Skincare,Voluptatem Tool,Serum,Pigmentation,0.87,False,0.88,5,45
+HSP20222789,Lifestyle,Et Serum,Cleanser,Dryness,0.9,False,0.31,0,63
+HSP20254920,Diet,In Serum,Oil,Acne,0.8,False,0.4,0,28
+HSP20221831,Haircare,Vitae Supplement,Cleanser,Pigmentation,0.77,False,0.93,1,17
+HSP20254697,Haircare,Beatae Supplement,Serum,Wrinkles,0.71,False,0.45,1,30
+HSP20221860,Skincare,Ullam Tool,Supplement,Pigmentation,0.79,True,0.73,3,54
+HSP20217771,Diet,Totam Serum,Serum,Wrinkles,0.85,True,0.45,3,85
+HSP20238739,Skincare,Aliquid Supplement,Tool,Pigmentation,0.75,True,0.47,4,21
+HSP20213252,Lifestyle,Consectetur Cleanser,Tool,Dryness,0.85,True,0.49,4,58
+HSP20213587,Skincare,Necessitatibus Serum,Tool,Dryness,0.97,False,0.62,5,52
+HSP20248793,Lifestyle,Modi Serum,Cleanser,Acne,0.72,False,0.81,2,56
+HSP20244267,Diet,Minus Oil,Oil,Wrinkles,0.8,False,0.76,3,78
+HSP20236262,Diet,Quod Oil,Cleanser,Pigmentation,0.78,True,0.7,4,40
+HSP20231969,Diet,Pariatur Serum,Serum,Pigmentation,0.92,True,0.95,4,81
+HSP20214804,Haircare,Aspernatur Supplement,Oil,Acne,0.78,True,0.53,4,62
+HSP20251611,Skincare,Tempore Serum,Cleanser,Hair Thinning,0.83,False,0.95,5,49
+HSP20227846,Skincare,Accusamus Supplement,Cleanser,Hair Thinning,0.96,True,0.36,2,49
+HSP20221595,Haircare,Voluptates Serum,Cleanser,Dryness,0.74,False,0.65,2,79
+HSP20249116,Skincare,Dolores Tool,Serum,Hair Thinning,0.73,True,0.54,2,30
+HSP20225742,Haircare,Blanditiis Tool,Serum,Pigmentation,0.74,True,0.75,0,62
+HSP20211151,Lifestyle,Praesentium Cleanser,Serum,Hair Thinning,0.98,True,1.0,0,36
+HSP20232758,Diet,Nostrum Serum,Serum,Wrinkles,0.81,False,0.72,3,58
+HSP20235662,Haircare,Tenetur Serum,Tool,Acne,0.95,True,0.38,2,8
+HSP20249901,Lifestyle,Iure Serum,Tool,Wrinkles,0.9,True,0.59,4,52
+HSP20259092,Lifestyle,Recusandae Supplement,Supplement,Pigmentation,0.76,False,0.58,0,62
+HSP20229261,Skincare,Consequatur Supplement,Cleanser,Hair Thinning,0.72,False,0.79,3,67
+HSP20245470,Haircare,Quia Tool,Supplement,Dryness,0.77,True,0.52,5,88
+HSP20222845,Diet,Animi Supplement,Oil,Wrinkles,0.74,False,0.91,4,47
+HSP20233662,Lifestyle,Eum Tool,Cleanser,Hair Thinning,0.84,False,0.7,1,59
+HSP20245215,Haircare,Error Cleanser,Oil,Dryness,0.87,True,0.59,2,36
+HSP20221230,Lifestyle,Voluptate Serum,Cleanser,Hair Thinning,0.76,True,0.82,4,12
+HSP20235833,Diet,Reiciendis Oil,Oil,Pigmentation,0.74,True,0.37,2,15
+HSP20254164,Haircare,Pariatur Supplement,Cleanser,Acne,0.91,False,0.45,3,73
+HSP20227643,Haircare,Fugit Cleanser,Tool,Hair Thinning,0.79,False,0.63,3,77
+HSP20249442,Skincare,Aperiam Oil,Serum,Pigmentation,0.83,True,0.8,4,20
+HSP20232421,Lifestyle,Autem Serum,Cleanser,Pigmentation,0.88,True,0.75,1,61
+HSP20242562,Haircare,Vitae Oil,Supplement,Dryness,0.91,False,0.5,1,75
+HSP20223303,Skincare,Hic Serum,Cleanser,Acne,0.79,False,0.61,1,43
+HSP20246301,Skincare,Quisquam Cleanser,Supplement,Wrinkles,0.79,True,0.99,3,78
+HSP20221111,Haircare,Recusandae Oil,Serum,Acne,0.94,True,0.42,5,43
+HSP20237284,Lifestyle,Unde Oil,Cleanser,Acne,0.7,False,0.33,1,39
+HSP20228319,Lifestyle,Aliquid Tool,Oil,Dryness,0.77,False,0.38,2,22
+HSP20236400,Diet,Dolorum Supplement,Supplement,Wrinkles,0.85,False,0.9,3,31
+HSP20231187,Skincare,Ipsam Serum,Oil,Hair Thinning,0.91,False,0.45,4,29
+HSP20236890,Lifestyle,Ad Oil,Cleanser,Wrinkles,0.82,True,0.66,0,76
+HSP20222017,Diet,Eos Cleanser,Tool,Dryness,0.93,True,0.89,0,45
+HSP20218625,Diet,Repudiandae Oil,Tool,Acne,0.96,False,0.66,2,62
+HSP20233616,Skincare,Dicta Tool,Tool,Acne,0.9,False,0.38,0,72
+HSP20249233,Skincare,Nam Cleanser,Supplement,Pigmentation,0.86,False,0.47,5,30
+HSP20232923,Haircare,Autem Oil,Serum,Wrinkles,0.83,True,0.74,2,55
+HSP20237021,Skincare,In Tool,Oil,Dryness,0.77,False,0.34,1,17
+HSP20254618,Diet,Dolorem Tool,Cleanser,Acne,0.7,True,0.32,1,64
+HSP20223188,Haircare,Recusandae Cleanser,Tool,Dryness,0.7,True,0.38,2,50
+HSP20243509,Skincare,Excepturi Cleanser,Serum,Hair Thinning,0.77,True,0.45,2,79
+HSP20247121,Skincare,Reiciendis Serum,Oil,Pigmentation,0.99,False,0.51,3,39
+HSP20249998,Haircare,Molestias Oil,Cleanser,Hair Thinning,0.74,False,0.68,4,19
+HSP20249806,Haircare,Veritatis Cleanser,Oil,Dryness,0.95,True,0.77,5,69
+HSP20225054,Skincare,Quis Tool,Serum,Pigmentation,0.79,False,0.69,1,81
+HSP20252341,Haircare,Iure Supplement,Tool,Hair Thinning,0.91,True,0.81,0,29
+HSP20258319,Skincare,Molestiae Cleanser,Oil,Wrinkles,0.89,True,0.91,3,13
+HSP20256927,Haircare,Deserunt Cleanser,Tool,Pigmentation,0.95,True,0.71,5,67
+HSP20212838,Lifestyle,Voluptas Oil,Serum,Dryness,0.82,False,0.75,2,83
+HSP20219972,Skincare,Beatae Oil,Cleanser,Wrinkles,0.94,False,0.3,4,72
+HSP20254312,Skincare,Provident Serum,Supplement,Acne,0.99,True,0.43,4,18
+HSP20259792,Lifestyle,Laborum Oil,Tool,Acne,0.84,True,0.91,4,72
+HSP20223695,Haircare,Asperiores Oil,Tool,Dryness,0.77,False,0.63,5,79
+HSP20239525,Haircare,Consequuntur Serum,Tool,Dryness,0.74,True,0.58,3,89
+HSP20242904,Skincare,Nostrum Supplement,Oil,Hair Thinning,0.75,False,0.55,1,82
+HSP20229008,Diet,Eveniet Cleanser,Oil,Hair Thinning,0.81,True,1.0,1,29
+HSP20219361,Skincare,Autem Oil,Cleanser,Pigmentation,0.99,False,0.38,0,17
+HSP20241911,Diet,Laboriosam Oil,Cleanser,Dryness,0.91,True,0.34,5,56
+HSP20243161,Lifestyle,Sed Tool,Serum,Acne,0.71,False,0.37,3,69
+HSP20257806,Skincare,Sint Serum,Supplement,Acne,0.98,True,0.96,4,7
+HSP20241945,Diet,Saepe Supplement,Oil,Acne,0.76,True,0.41,0,78
+HSP20258575,Haircare,Nam Oil,Cleanser,Pigmentation,0.77,False,0.66,2,71
+HSP20231356,Diet,Itaque Oil,Cleanser,Dryness,0.87,False,0.46,4,89
+HSP20245169,Lifestyle,Aliquam Serum,Oil,Dryness,0.92,True,0.52,3,65
+HSP20214570,Lifestyle,Tempora Serum,Oil,Dryness,0.97,False,0.76,5,15
+HSP20252196,Haircare,Fugit Oil,Tool,Hair Thinning,0.83,True,0.85,3,53
+HSP20217941,Lifestyle,Odio Supplement,Serum,Wrinkles,0.94,False,0.5,5,35
+HSP20232044,Lifestyle,Porro Oil,Cleanser,Dryness,0.8,False,0.96,5,54
+HSP20251987,Lifestyle,Eum Serum,Tool,Pigmentation,0.75,False,0.33,1,50
+HSP20218734,Lifestyle,Magnam Oil,Oil,Wrinkles,0.83,False,0.86,4,24
+HSP20215703,Diet,Quod Supplement,Tool,Dryness,0.92,False,0.94,0,75
+HSP20243948,Haircare,Minus Oil,Supplement,Pigmentation,0.85,True,0.37,1,86
+HSP20227887,Lifestyle,Non Serum,Supplement,Dryness,0.87,False,0.84,2,48
+HSP20237266,Skincare,Ea Cleanser,Supplement,Wrinkles,0.73,False,0.42,5,14
+HSP20247184,Haircare,Vero Serum,Oil,Hair Thinning,0.7,True,0.72,4,49
+HSP20242314,Skincare,Reprehenderit Oil,Serum,Acne,0.96,True,0.77,3,59
+HSP20253178,Haircare,Ut Cleanser,Tool,Pigmentation,0.98,True,0.34,1,72
+HSP20232943,Skincare,Modi Supplement,Cleanser,Wrinkles,0.96,False,0.87,0,87
+HSP20229802,Haircare,Blanditiis Oil,Tool,Hair Thinning,0.79,True,0.98,4,55
+HSP20249664,Diet,Sit Supplement,Serum,Acne,0.78,False,0.92,0,85
+HSP20224648,Lifestyle,Impedit Serum,Oil,Hair Thinning,0.96,True,0.83,4,33
+HSP20211372,Skincare,Expedita Cleanser,Cleanser,Hair Thinning,0.86,False,0.38,0,28
+HSP20238585,Lifestyle,Aut Supplement,Tool,Pigmentation,0.85,True,0.55,2,12
+HSP20257948,Skincare,Blanditiis Oil,Supplement,Wrinkles,0.93,False,0.83,2,47
+HSP20257214,Lifestyle,Fugiat Supplement,Tool,Wrinkles,0.96,True,0.31,5,26
+HSP20225055,Skincare,Dolor Serum,Oil,Acne,0.93,False,0.96,3,14
+HSP20246671,Diet,Modi Supplement,Oil,Dryness,0.93,False,0.39,0,13
+HSP20225516,Lifestyle,Tempora Serum,Serum,Wrinkles,0.72,False,0.31,0,59
+HSP20222848,Skincare,Dolor Supplement,Cleanser,Acne,0.88,False,0.74,3,58
+HSP20217868,Skincare,Molestias Cleanser,Supplement,Pigmentation,0.99,False,0.58,3,83
+HSP20251256,Lifestyle,Ipsum Tool,Serum,Hair Thinning,0.8,True,0.74,2,34
+HSP20224376,Haircare,Magni Oil,Tool,Wrinkles,0.94,False,0.96,3,49
+HSP20212653,Diet,Corrupti Supplement,Oil,Acne,0.93,False,0.6,4,31
+HSP20251550,Diet,Consectetur Cleanser,Oil,Acne,0.88,False,0.9,1,37
+HSP20241797,Haircare,Ab Supplement,Tool,Hair Thinning,0.84,False,0.45,4,58
+HSP20221724,Lifestyle,Inventore Serum,Tool,Acne,0.75,False,0.3,2,73
+HSP20248191,Skincare,Numquam Supplement,Serum,Pigmentation,0.91,True,0.38,1,60
+HSP20229843,Haircare,Magni Supplement,Tool,Wrinkles,0.77,False,0.51,2,20
+HSP20221924,Haircare,Fugit Oil,Serum,Hair Thinning,0.86,True,0.58,3,85
+HSP20229255,Skincare,Corporis Cleanser,Cleanser,Hair Thinning,0.9,True,0.34,0,83
+HSP20234836,Diet,Delectus Supplement,Cleanser,Acne,0.74,True,0.65,0,32
+HSP20256224,Diet,Commodi Supplement,Supplement,Wrinkles,0.8,True,0.51,0,67
+HSP20256253,Haircare,Ea Supplement,Oil,Wrinkles,0.72,False,0.93,1,38
+HSP20225944,Skincare,Non Oil,Cleanser,Wrinkles,0.9,False,0.39,3,74
+HSP20229540,Haircare,Occaecati Oil,Serum,Pigmentation,0.72,True,0.98,0,43
+HSP20227775,Skincare,Quos Cleanser,Oil,Wrinkles,0.9,False,0.59,3,55
+HSP20235508,Lifestyle,Quos Tool,Supplement,Hair Thinning,0.9,True,0.83,5,23
+HSP20213869,Haircare,Quam Supplement,Tool,Wrinkles,0.93,False,0.63,1,66
+HSP20249120,Skincare,Nemo Tool,Oil,Wrinkles,0.82,False,0.31,2,64
+HSP20216642,Skincare,Corporis Cleanser,Serum,Hair Thinning,0.97,False,0.72,2,40
+HSP20249592,Skincare,Alias Cleanser,Tool,Hair Thinning,0.76,False,0.94,2,33
+HSP20237821,Haircare,Commodi Oil,Tool,Wrinkles,0.97,False,0.99,4,42
+HSP20243444,Skincare,Libero Cleanser,Oil,Wrinkles,0.95,False,1.0,2,76
+HSP20237167,Lifestyle,Quod Tool,Tool,Hair Thinning,0.77,False,0.89,4,8
+HSP20229813,Lifestyle,Consectetur Tool,Oil,Dryness,0.94,True,0.46,2,22
+HSP20244948,Haircare,Saepe Supplement,Tool,Acne,0.73,False,0.99,4,13
+HSP20225927,Diet,Sapiente Supplement,Supplement,Wrinkles,0.79,False,0.91,1,65
+HSP20228586,Skincare,Itaque Oil,Cleanser,Pigmentation,0.7,False,0.31,2,50
+HSP20217761,Haircare,Molestiae Oil,Tool,Wrinkles,0.84,True,0.47,0,84
+HSP20249683,Diet,Accusantium Supplement,Oil,Dryness,0.9,False,0.7,2,14
+HSP20227363,Lifestyle,Illum Supplement,Serum,Hair Thinning,0.72,True,0.41,4,22
+HSP20225177,Diet,Neque Oil,Serum,Dryness,0.81,False,0.43,4,28
+HSP20226411,Skincare,Molestias Cleanser,Supplement,Wrinkles,0.93,True,0.59,5,9
+HSP20218369,Diet,Blanditiis Tool,Oil,Wrinkles,0.73,False,0.64,0,67
+HSP20232514,Diet,Ratione Serum,Serum,Dryness,0.73,True,0.39,4,87
+HSP20254120,Haircare,Exercitationem Supplement,Oil,Wrinkles,0.77,False,0.9,5,45
+HSP20215398,Lifestyle,Rem Cleanser,Serum,Wrinkles,0.97,False,0.88,0,73
+HSP20241647,Lifestyle,Quasi Cleanser,Oil,Wrinkles,0.8,False,0.49,5,74
+HSP20214082,Lifestyle,Dolores Serum,Oil,Dryness,0.86,True,0.81,4,57
+HSP20254555,Haircare,Vitae Tool,Serum,Dryness,0.99,True,0.39,1,25
+HSP20244422,Lifestyle,Modi Cleanser,Supplement,Hair Thinning,0.71,False,0.79,2,10
+HSP20235967,Diet,Dolores Oil,Oil,Pigmentation,0.94,False,0.89,4,69
+HSP20214470,Lifestyle,Deserunt Serum,Supplement,Dryness,0.9,False,0.97,2,41
+HSP20222922,Haircare,Fugiat Supplement,Tool,Pigmentation,0.85,False,0.94,0,23
+HSP20244974,Skincare,Incidunt Oil,Oil,Dryness,0.98,True,0.89,4,90
+HSP20254350,Skincare,Fugiat Serum,Cleanser,Hair Thinning,0.79,True,0.44,2,71
+HSP20244921,Haircare,Possimus Tool,Serum,Acne,0.86,True,0.62,0,52
+HSP20256269,Haircare,Dignissimos Oil,Supplement,Acne,0.95,False,0.37,5,52
+HSP20237236,Lifestyle,At Tool,Oil,Hair Thinning,0.77,False,0.83,4,12
+HSP20249743,Skincare,Doloremque Serum,Tool,Dryness,0.73,True,0.52,1,18
+HSP20236053,Diet,Nostrum Cleanser,Supplement,Acne,0.81,False,0.74,0,47
+HSP20236892,Lifestyle,Harum Supplement,Tool,Pigmentation,0.75,True,0.9,3,61
+HSP20259147,Lifestyle,Nihil Serum,Cleanser,Wrinkles,0.83,False,0.94,5,80
+HSP20242615,Haircare,In Cleanser,Cleanser,Dryness,0.84,False,0.49,3,85
+HSP20246246,Diet,Perspiciatis Cleanser,Serum,Acne,0.74,False,0.3,2,48
+HSP20227073,Lifestyle,Autem Oil,Oil,Acne,0.85,False,0.38,5,29
+HSP20237781,Diet,Magni Serum,Oil,Pigmentation,0.81,True,0.71,0,34
+HSP20214625,Skincare,Explicabo Tool,Supplement,Acne,0.78,False,0.42,1,30
+HSP20221265,Lifestyle,Expedita Supplement,Cleanser,Dryness,0.92,False,0.96,5,61
+HSP20237841,Diet,Sunt Supplement,Supplement,Wrinkles,0.73,True,0.41,1,14
+HSP20233497,Haircare,Possimus Tool,Supplement,Wrinkles,0.98,False,0.33,5,29
+HSP20226404,Lifestyle,Saepe Supplement,Supplement,Acne,0.98,True,0.3,4,72
+HSP20227223,Haircare,Sint Tool,Tool,Acne,0.95,False,0.52,5,33
+HSP20255026,Diet,Eius Cleanser,Supplement,Pigmentation,0.97,True,0.52,2,87
+HSP20246530,Lifestyle,Officia Cleanser,Tool,Wrinkles,0.89,True,0.36,3,72
+HSP20239005,Skincare,Corrupti Cleanser,Tool,Pigmentation,0.77,False,0.84,2,16
+HSP20248550,Haircare,Deleniti Supplement,Serum,Wrinkles,0.85,False,0.95,4,18
+HSP20226770,Diet,Incidunt Serum,Supplement,Hair Thinning,0.82,True,0.91,5,40
+HSP20223293,Skincare,Ab Supplement,Supplement,Pigmentation,0.83,False,0.99,5,51
+HSP20259000,Skincare,Nam Cleanser,Serum,Wrinkles,0.98,True,0.53,5,87
+HSP20229882,Lifestyle,Iusto Serum,Serum,Hair Thinning,0.96,False,0.89,4,65
+HSP20219584,Haircare,Sit Oil,Cleanser,Pigmentation,0.76,True,0.74,0,36
+HSP20212217,Skincare,Modi Supplement,Tool,Pigmentation,0.72,False,0.89,2,36
+HSP20211104,Diet,Iure Supplement,Cleanser,Hair Thinning,0.75,True,0.35,5,48
+HSP20243252,Diet,Nulla Serum,Serum,Hair Thinning,0.82,True,0.7,5,33
+HSP20222113,Skincare,Iusto Tool,Supplement,Acne,0.95,False,0.98,4,70
+HSP20221149,Haircare,Non Serum,Supplement,Dryness,0.83,True,0.34,0,37
+HSP20229285,Diet,Totam Cleanser,Cleanser,Hair Thinning,0.92,True,0.7,3,25
+HSP20247114,Skincare,Saepe Supplement,Supplement,Pigmentation,0.83,False,0.52,5,55
+HSP20218916,Haircare,Deleniti Tool,Supplement,Hair Thinning,0.85,False,0.54,2,56
+HSP20241257,Diet,In Oil,Tool,Dryness,0.92,True,0.68,4,38
+HSP20219719,Diet,Iste Cleanser,Serum,Acne,0.95,False,0.68,0,76
+HSP20257739,Diet,Sed Oil,Tool,Wrinkles,0.77,True,0.9,4,8
+HSP20211274,Diet,Voluptate Oil,Cleanser,Hair Thinning,0.86,True,0.44,4,64
+HSP20255501,Haircare,Eligendi Serum,Serum,Hair Thinning,0.88,False,0.55,2,87
+HSP20255697,Diet,Perferendis Oil,Serum,Wrinkles,0.94,False,0.62,2,60
+HSP20219228,Haircare,Ipsam Supplement,Oil,Wrinkles,0.91,True,0.37,1,27
+HSP20243937,Lifestyle,Dolorum Serum,Tool,Hair Thinning,0.81,False,0.99,2,73
+HSP20212578,Lifestyle,Nam Supplement,Serum,Hair Thinning,0.93,True,0.41,5,23
+HSP20253439,Skincare,Ipsum Oil,Supplement,Dryness,0.78,True,0.53,2,58
+HSP20224144,Skincare,Illum Oil,Supplement,Dryness,0.89,True,0.83,5,58
+HSP20259625,Diet,Voluptate Tool,Supplement,Wrinkles,0.92,False,0.66,1,85
+HSP20236807,Haircare,Tempora Serum,Cleanser,Pigmentation,0.94,False,0.61,2,8
+HSP20237502,Lifestyle,Porro Cleanser,Serum,Hair Thinning,0.74,False,0.7,0,76
+HSP20217112,Skincare,Repellat Serum,Serum,Dryness,0.98,True,0.86,1,57
+HSP20248520,Lifestyle,Exercitationem Cleanser,Tool,Acne,0.87,False,0.75,4,87
+HSP20254984,Diet,Itaque Cleanser,Oil,Acne,0.97,False,0.6,3,60
+HSP20225914,Diet,Minus Oil,Serum,Acne,0.8,False,0.98,5,80
+HSP20211519,Haircare,Hic Supplement,Cleanser,Wrinkles,0.95,False,0.53,3,53
+HSP20217640,Haircare,Mollitia Serum,Tool,Dryness,0.83,True,0.59,5,31
+HSP20247179,Skincare,Maiores Serum,Serum,Wrinkles,0.74,True,0.97,5,74
+HSP20258798,Haircare,Cum Cleanser,Serum,Pigmentation,0.82,True,0.91,4,12
+HSP20211154,Skincare,Recusandae Oil,Supplement,Acne,0.75,False,0.68,3,41
+HSP20222354,Haircare,Eligendi Serum,Tool,Wrinkles,0.71,True,0.83,2,25
+HSP20248109,Haircare,Rerum Serum,Oil,Wrinkles,0.87,True,0.74,1,23
+HSP20232562,Diet,Quisquam Oil,Supplement,Pigmentation,0.71,False,0.45,0,11
+HSP20251697,Lifestyle,Ducimus Serum,Oil,Acne,0.72,False,0.5,3,89
+HSP20224463,Haircare,Vero Oil,Oil,Hair Thinning,0.88,True,0.7,0,39
+HSP20258790,Skincare,Quo Tool,Serum,Acne,0.88,True,0.68,3,27
+HSP20231762,Skincare,Alias Tool,Supplement,Wrinkles,0.78,True,0.47,5,20
+HSP20215593,Skincare,Officiis Oil,Serum,Pigmentation,0.74,False,0.89,2,66
+HSP20251539,Lifestyle,Voluptatum Supplement,Tool,Pigmentation,0.88,False,0.43,2,64
+HSP20226152,Skincare,Eos Cleanser,Cleanser,Wrinkles,0.75,False,0.91,5,47
+HSP20214394,Diet,Nulla Oil,Tool,Acne,0.92,True,0.76,4,86
+HSP20253362,Haircare,Illum Oil,Tool,Pigmentation,0.82,False,0.48,2,27
+HSP20242260,Haircare,Voluptate Serum,Tool,Acne,0.98,False,0.86,2,34
+HSP20233661,Haircare,Atque Supplement,Cleanser,Acne,0.79,False,0.89,4,76
+HSP20254939,Haircare,Nemo Serum,Oil,Acne,0.92,True,0.51,0,26
+HSP20257375,Lifestyle,Veniam Oil,Supplement,Pigmentation,0.82,False,0.43,3,51
+HSP20256435,Haircare,Praesentium Tool,Oil,Pigmentation,0.73,True,0.81,3,33
+HSP20243292,Haircare,Deserunt Supplement,Serum,Acne,0.78,False,0.87,1,88
+HSP20219204,Haircare,Tempora Serum,Cleanser,Pigmentation,0.99,True,0.35,0,67
+HSP20231879,Haircare,Incidunt Oil,Cleanser,Dryness,0.84,True,0.86,4,13
+HSP20218161,Diet,Excepturi Tool,Serum,Hair Thinning,0.93,False,0.83,5,17
+HSP20222245,Skincare,Explicabo Cleanser,Supplement,Hair Thinning,0.8,True,0.62,2,45
+HSP20237499,Haircare,Unde Serum,Oil,Pigmentation,0.87,False,0.98,3,23
+HSP20231485,Skincare,Dolor Serum,Cleanser,Wrinkles,0.79,True,0.95,5,58
+HSP20238381,Skincare,Nisi Serum,Tool,Hair Thinning,0.78,True,0.99,5,65
+HSP20244737,Lifestyle,Minus Oil,Cleanser,Pigmentation,0.89,True,0.62,0,49
+HSP20237150,Haircare,Aut Oil,Oil,Dryness,0.88,False,0.49,0,16
+HSP20244043,Skincare,Occaecati Oil,Serum,Wrinkles,0.78,False,0.38,4,89
+HSP20257227,Lifestyle,Sapiente Supplement,Oil,Pigmentation,0.73,True,0.54,2,67
+HSP20215839,Haircare,Perferendis Supplement,Tool,Pigmentation,0.92,False,0.73,4,79
+HSP20222204,Diet,Reprehenderit Cleanser,Oil,Pigmentation,0.73,True,0.9,2,29
+HSP20215390,Diet,Natus Oil,Oil,Wrinkles,0.87,False,0.97,5,68
+HSP20227225,Haircare,Quibusdam Tool,Supplement,Acne,0.89,False,0.42,5,56
+HSP20227383,Skincare,Quae Cleanser,Cleanser,Dryness,0.84,False,0.75,5,10
+HSP20236909,Skincare,Voluptate Supplement,Serum,Hair Thinning,0.71,False,0.31,5,89
+HSP20212499,Skincare,Nihil Oil,Serum,Pigmentation,0.74,True,0.48,4,85
+HSP20216050,Lifestyle,Quisquam Cleanser,Cleanser,Dryness,0.82,True,0.64,5,46
+HSP20246896,Lifestyle,Amet Oil,Cleanser,Pigmentation,0.74,False,0.77,0,18
+HSP20232674,Diet,Magni Tool,Supplement,Dryness,0.87,True,0.51,4,44
+HSP20222430,Skincare,Voluptates Oil,Cleanser,Hair Thinning,0.7,True,0.35,3,30
+HSP20228061,Skincare,Quidem Supplement,Oil,Wrinkles,0.81,True,0.41,5,31
+HSP20249395,Skincare,Saepe Tool,Tool,Acne,0.81,False,0.74,0,88
+HSP20242692,Haircare,Tempore Supplement,Cleanser,Pigmentation,0.86,True,0.46,3,38
+HSP20212468,Diet,Blanditiis Oil,Tool,Acne,0.8,False,0.73,3,85
+HSP20232524,Haircare,Corrupti Supplement,Oil,Dryness,0.95,False,0.83,5,40
+HSP20256315,Skincare,Expedita Oil,Oil,Wrinkles,0.86,True,0.55,0,75
+HSP20241202,Lifestyle,Unde Supplement,Cleanser,Acne,0.81,False,0.92,2,70
+HSP20237779,Diet,Vel Cleanser,Tool,Dryness,0.71,True,0.99,3,74
+HSP20242387,Haircare,Libero Supplement,Tool,Wrinkles,0.89,True,0.78,4,88
+HSP20254977,Haircare,Doloremque Tool,Supplement,Acne,0.71,False,0.72,5,28
+HSP20259537,Skincare,Tenetur Tool,Supplement,Pigmentation,0.84,False,0.37,4,26
+HSP20227237,Lifestyle,Similique Cleanser,Oil,Wrinkles,0.78,True,0.92,1,20
+HSP20223274,Haircare,Aperiam Supplement,Tool,Acne,0.86,True,0.59,5,78
+HSP20235933,Lifestyle,Recusandae Oil,Oil,Dryness,0.72,False,0.8,0,39
+HSP20239079,Skincare,Tenetur Tool,Oil,Pigmentation,0.9,False,0.73,3,61
+HSP20222036,Diet,Veritatis Cleanser,Cleanser,Pigmentation,0.85,False,0.6,4,58
+HSP20228121,Diet,Tenetur Serum,Oil,Hair Thinning,0.87,True,0.46,0,68
+HSP20237899,Diet,Natus Serum,Oil,Acne,0.97,True,0.71,2,25
+HSP20238933,Diet,Iure Supplement,Supplement,Wrinkles,0.79,True,0.61,5,87
+HSP20216916,Diet,Non Serum,Serum,Pigmentation,0.93,False,0.41,2,49
+HSP20235040,Skincare,Corrupti Oil,Oil,Wrinkles,0.78,False,0.78,4,65
+HSP20244203,Diet,Accusamus Serum,Cleanser,Hair Thinning,0.79,True,0.85,0,29
+HSP20242752,Lifestyle,Consequuntur Oil,Serum,Wrinkles,0.74,True,0.83,1,51
+HSP20225991,Diet,Facilis Tool,Cleanser,Dryness,0.72,False,0.31,2,23
+HSP20217483,Diet,Est Tool,Tool,Acne,0.96,False,0.71,0,31
+HSP20237224,Diet,Quaerat Cleanser,Supplement,Acne,0.8,False,0.46,3,52
+HSP20238212,Diet,Quas Oil,Serum,Pigmentation,0.88,True,0.66,0,89
+HSP20238055,Skincare,Quos Serum,Serum,Pigmentation,0.99,False,0.99,1,79
+HSP20253230,Skincare,Repellendus Cleanser,Tool,Hair Thinning,0.88,True,0.61,2,73
+HSP20236253,Diet,Voluptas Supplement,Tool,Acne,0.84,True,0.78,1,65
+HSP20254290,Lifestyle,Repellat Serum,Cleanser,Wrinkles,0.73,False,0.53,5,20
+HSP20246147,Diet,Est Oil,Tool,Pigmentation,0.72,True,0.35,4,7
+HSP20227524,Skincare,Occaecati Oil,Supplement,Pigmentation,0.76,False,0.64,4,39
+HSP20235775,Skincare,Minima Tool,Serum,Dryness,0.93,True,0.64,4,83
+HSP20244971,Haircare,Mollitia Cleanser,Tool,Acne,0.8,False,0.36,2,19
+HSP20237161,Lifestyle,Officiis Supplement,Tool,Pigmentation,0.86,True,0.49,1,79
+HSP20237437,Haircare,Veritatis Oil,Oil,Pigmentation,0.88,False,0.98,1,60
+HSP20232865,Diet,Repudiandae Tool,Oil,Dryness,0.73,True,0.45,1,37
+HSP20254273,Lifestyle,Voluptas Supplement,Oil,Dryness,0.84,False,0.98,0,8
+HSP20259939,Skincare,Provident Supplement,Tool,Hair Thinning,0.92,True,0.93,5,22
+HSP20221440,Skincare,Distinctio Serum,Cleanser,Acne,0.8,True,0.99,2,31
+HSP20244434,Lifestyle,Laborum Tool,Cleanser,Hair Thinning,0.73,False,0.34,4,68
+HSP20245773,Haircare,Alias Cleanser,Serum,Dryness,0.95,True,0.95,3,16
+HSP20217703,Skincare,Perspiciatis Tool,Serum,Wrinkles,0.73,True,0.38,1,33
+HSP20243280,Lifestyle,Corporis Oil,Oil,Dryness,0.71,True,0.37,2,41
+HSP20234965,Skincare,Impedit Supplement,Serum,Hair Thinning,0.76,True,0.98,3,7
+HSP20233525,Haircare,Nesciunt Oil,Cleanser,Hair Thinning,0.89,True,0.84,5,83
+HSP20247176,Diet,Blanditiis Cleanser,Tool,Wrinkles,0.93,True,0.67,2,75
+HSP20218357,Haircare,Cum Supplement,Tool,Dryness,0.93,False,0.72,1,78
+HSP20258851,Lifestyle,Dicta Supplement,Tool,Pigmentation,0.79,False,0.69,4,18
+HSP20257566,Skincare,Laudantium Tool,Cleanser,Dryness,0.85,True,0.88,2,53
+HSP20259300,Diet,Ipsa Oil,Cleanser,Hair Thinning,0.98,True,0.59,2,58
+HSP20249907,Haircare,Laboriosam Tool,Tool,Acne,0.92,False,0.37,0,83
+HSP20216890,Skincare,Odit Supplement,Supplement,Hair Thinning,0.93,False,0.56,2,33
+HSP20252392,Skincare,Enim Cleanser,Tool,Wrinkles,0.71,True,0.55,2,81
+HSP20215067,Skincare,Quasi Tool,Supplement,Acne,0.88,False,0.38,3,79
+HSP20233725,Diet,Perspiciatis Cleanser,Serum,Dryness,0.97,False,0.35,4,72
+HSP20251725,Skincare,Laudantium Supplement,Supplement,Pigmentation,0.97,True,0.79,0,78
+HSP20257547,Skincare,Pariatur Oil,Cleanser,Hair Thinning,0.8,False,0.57,2,73
+HSP20238052,Diet,Consequatur Tool,Oil,Pigmentation,0.91,False,0.72,0,12
+HSP20211172,Haircare,Nulla Oil,Cleanser,Hair Thinning,0.89,False,0.57,2,76
+HSP20215239,Skincare,Voluptatem Oil,Cleanser,Acne,0.84,True,0.99,4,88
+HSP20229366,Skincare,Odio Supplement,Oil,Acne,0.76,True,0.59,4,70
+HSP20254621,Diet,Ipsum Cleanser,Supplement,Wrinkles,0.78,False,0.84,5,25
+HSP20247129,Haircare,Atque Supplement,Supplement,Pigmentation,0.92,False,0.5,4,10
+HSP20248586,Diet,In Oil,Tool,Acne,0.72,True,0.31,0,50
+HSP20259199,Skincare,Aperiam Cleanser,Cleanser,Wrinkles,0.82,True,0.59,2,30
+HSP20226651,Diet,Voluptatum Tool,Supplement,Wrinkles,0.99,True,0.63,0,24
+HSP20218909,Diet,Cum Serum,Tool,Acne,0.77,False,0.92,5,64
+HSP20215840,Haircare,Adipisci Supplement,Supplement,Wrinkles,0.84,True,0.72,4,53
+HSP20242406,Lifestyle,Laboriosam Oil,Cleanser,Pigmentation,0.73,False,0.57,3,43
+HSP20213321,Lifestyle,Tenetur Oil,Cleanser,Acne,0.97,True,0.71,2,63
+HSP20236110,Haircare,Corrupti Tool,Tool,Acne,0.8,True,0.74,5,14
+HSP20238460,Skincare,Veritatis Oil,Cleanser,Pigmentation,0.96,False,0.49,2,87
+HSP20229537,Skincare,Doloremque Tool,Serum,Pigmentation,0.85,True,0.97,0,26
+HSP20246706,Haircare,Exercitationem Cleanser,Serum,Pigmentation,0.75,False,0.8,2,65
+HSP20242599,Haircare,Quas Cleanser,Oil,Hair Thinning,0.88,True,0.78,4,68
+HSP20248412,Lifestyle,Doloribus Supplement,Oil,Pigmentation,0.8,False,0.52,2,24
+HSP20232100,Diet,Quod Tool,Oil,Hair Thinning,0.9,False,0.45,3,76
+HSP20231732,Diet,Dolore Serum,Oil,Wrinkles,0.82,False,0.43,4,68
+HSP20211370,Haircare,Iure Oil,Supplement,Hair Thinning,0.7,False,0.98,0,35
+HSP20232791,Skincare,Ratione Serum,Serum,Dryness,0.83,False,0.98,2,40
+HSP20224996,Lifestyle,Nobis Supplement,Supplement,Dryness,0.74,True,0.71,2,63
+HSP20253858,Diet,Officiis Cleanser,Tool,Pigmentation,0.76,False,0.85,2,65
+HSP20253623,Skincare,Eveniet Supplement,Serum,Pigmentation,0.93,False,0.38,0,49
+HSP20237985,Lifestyle,Necessitatibus Cleanser,Cleanser,Wrinkles,0.96,True,0.44,3,84
+HSP20244798,Diet,Suscipit Serum,Serum,Hair Thinning,0.88,True,0.99,4,57
+HSP20244022,Skincare,Ea Cleanser,Tool,Wrinkles,0.96,False,0.97,5,85
+HSP20228080,Diet,Ea Supplement,Tool,Pigmentation,0.8,True,0.37,1,80
+HSP20241478,Skincare,Tempore Cleanser,Cleanser,Dryness,0.75,False,0.65,0,85
+HSP20254232,Lifestyle,Unde Oil,Serum,Acne,0.93,True,0.41,0,55
+HSP20248037,Lifestyle,Non Oil,Supplement,Dryness,0.89,False,0.53,0,40
+HSP20241072,Skincare,Nam Tool,Tool,Pigmentation,0.8,True,0.76,3,19
+HSP20224371,Diet,Aliquam Cleanser,Oil,Hair Thinning,0.84,False,0.87,3,39
+HSP20232025,Haircare,Sint Supplement,Oil,Wrinkles,0.75,True,0.85,5,71
+HSP20252667,Lifestyle,Eius Serum,Oil,Acne,0.72,False,0.44,3,56
+HSP20254063,Diet,Odio Supplement,Tool,Acne,0.89,False,0.9,1,17
+HSP20236340,Lifestyle,Rerum Supplement,Cleanser,Acne,0.77,False,0.53,4,11
+HSP20228496,Skincare,Nobis Supplement,Cleanser,Acne,0.86,True,0.45,3,9
+HSP20215298,Diet,Molestias Supplement,Oil,Pigmentation,0.94,True,0.84,1,87
+HSP20249646,Diet,Ab Supplement,Tool,Pigmentation,0.74,False,0.62,3,80
+HSP20237367,Diet,Voluptatibus Supplement,Tool,Acne,0.92,True,0.54,3,73
+HSP20257431,Skincare,Error Cleanser,Serum,Wrinkles,0.88,True,0.34,3,33
+HSP20252871,Skincare,Enim Tool,Cleanser,Pigmentation,0.88,False,0.41,0,28
+HSP20236766,Haircare,Hic Supplement,Supplement,Hair Thinning,0.94,True,0.55,1,29
+HSP20243826,Diet,Voluptatibus Tool,Serum,Dryness,0.78,False,0.89,2,47
+HSP20232388,Lifestyle,At Serum,Serum,Wrinkles,0.71,True,0.58,5,66
+HSP20226131,Diet,Repellat Cleanser,Supplement,Acne,0.81,False,0.5,4,23
+HSP20214908,Lifestyle,Corporis Cleanser,Cleanser,Wrinkles,0.96,True,0.83,1,33
+HSP20232916,Skincare,Quidem Oil,Supplement,Acne,0.72,True,0.8,4,16
+HSP20227116,Skincare,Ea Oil,Serum,Wrinkles,0.85,False,0.93,1,44
+HSP20229369,Diet,Maiores Cleanser,Cleanser,Pigmentation,0.79,False,0.7,0,30
+HSP20247852,Lifestyle,Itaque Cleanser,Cleanser,Pigmentation,0.85,False,0.64,2,16
+HSP20253258,Lifestyle,Eius Cleanser,Tool,Hair Thinning,0.83,False,0.44,0,28
+HSP20257286,Diet,Officia Cleanser,Serum,Pigmentation,0.92,True,0.62,2,88
+HSP20244043,Haircare,Cum Supplement,Serum,Wrinkles,0.98,True,0.48,5,32
+HSP20249804,Lifestyle,Fuga Tool,Supplement,Acne,0.9,False,0.96,5,46
+HSP20223733,Diet,Velit Cleanser,Oil,Acne,0.89,True,0.91,5,38
+HSP20245732,Diet,Porro Supplement,Oil,Dryness,0.94,True,0.55,2,11
+HSP20224065,Diet,Quia Supplement,Cleanser,Acne,0.87,False,0.41,0,21
+HSP20238389,Haircare,Tempore Tool,Serum,Acne,0.86,False,0.46,2,90
+HSP20251878,Haircare,Ipsam Oil,Supplement,Dryness,0.92,True,0.67,2,13
+HSP20231157,Lifestyle,Saepe Serum,Supplement,Wrinkles,0.82,True,0.49,1,49
+HSP20243236,Diet,Molestias Supplement,Oil,Dryness,0.99,False,0.35,4,78
+HSP20227290,Skincare,Similique Tool,Cleanser,Hair Thinning,0.71,False,0.45,1,85
+HSP20259281,Lifestyle,Mollitia Supplement,Tool,Wrinkles,0.98,True,0.99,0,51
+HSP20247703,Diet,Repudiandae Oil,Cleanser,Dryness,0.89,True,0.92,3,86
+HSP20247809,Haircare,Cum Oil,Oil,Acne,0.76,False,0.98,0,45
+HSP20249006,Diet,Laudantium Oil,Supplement,Acne,0.74,True,0.37,3,47
+HSP20222354,Skincare,Libero Supplement,Oil,Wrinkles,0.73,False,0.7,2,73
+HSP20251505,Skincare,Officia Oil,Supplement,Hair Thinning,0.93,False,0.56,4,70
+HSP20225785,Haircare,Sit Cleanser,Cleanser,Dryness,0.98,False,0.6,1,12
+HSP20215503,Diet,Doloribus Cleanser,Serum,Acne,0.74,False,0.63,1,15
+HSP20229808,Skincare,Veniam Serum,Oil,Hair Thinning,0.9,False,0.88,0,38
+HSP20233755,Lifestyle,Voluptatibus Cleanser,Supplement,Hair Thinning,0.83,True,0.72,5,18
+HSP20249115,Diet,In Cleanser,Serum,Dryness,0.78,False,0.75,0,24
+HSP20259369,Haircare,Sint Cleanser,Cleanser,Hair Thinning,0.99,False,0.33,5,22
+HSP20212871,Diet,Rerum Serum,Cleanser,Pigmentation,0.96,False,0.69,2,24
+HSP20239898,Haircare,Blanditiis Supplement,Tool,Dryness,0.77,True,0.97,2,37
+HSP20239880,Skincare,Veniam Cleanser,Cleanser,Dryness,0.84,True,0.53,0,10
+HSP20218231,Skincare,Deleniti Cleanser,Cleanser,Wrinkles,0.75,True,0.47,4,27
+HSP20254580,Diet,Ipsam Cleanser,Supplement,Acne,0.94,False,0.73,4,19
+HSP20242677,Haircare,Cumque Supplement,Cleanser,Dryness,0.96,False,0.46,3,21
+HSP20225877,Lifestyle,Excepturi Oil,Cleanser,Hair Thinning,0.74,False,0.3,5,73
+HSP20218368,Diet,Inventore Oil,Oil,Wrinkles,0.85,False,1.0,0,75
+HSP20236711,Lifestyle,Cum Oil,Tool,Pigmentation,0.9,True,0.52,3,15
+HSP20218193,Diet,Ducimus Serum,Tool,Dryness,0.95,True,0.85,5,66
+HSP20214882,Skincare,Minima Tool,Serum,Wrinkles,0.7,True,0.87,1,55
+HSP20226744,Skincare,Voluptate Cleanser,Oil,Dryness,0.79,True,0.4,5,49
+HSP20258015,Lifestyle,Dicta Oil,Cleanser,Wrinkles,0.77,True,0.63,3,32
+HSP20223281,Lifestyle,Quaerat Cleanser,Tool,Dryness,0.82,False,0.5,2,83
+HSP20224390,Lifestyle,Molestias Oil,Oil,Dryness,0.75,True,0.83,5,45
+HSP20216747,Haircare,Nihil Tool,Cleanser,Acne,0.99,False,0.84,3,28
+HSP20255605,Haircare,Saepe Cleanser,Cleanser,Dryness,0.79,True,0.47,1,73
+HSP20259827,Skincare,Deserunt Cleanser,Tool,Pigmentation,0.76,True,0.4,5,27
+HSP20226302,Haircare,Repellat Supplement,Tool,Acne,0.86,False,0.72,1,69
+HSP20235740,Skincare,Molestiae Tool,Supplement,Acne,0.9,True,0.78,2,45
+HSP20255380,Skincare,Nisi Cleanser,Supplement,Pigmentation,0.78,True,0.53,1,82
+HSP20252560,Haircare,Ea Supplement,Supplement,Wrinkles,0.9,False,0.54,5,10
+HSP20227743,Haircare,Placeat Tool,Cleanser,Pigmentation,0.76,True,0.56,2,60
+HSP20215543,Haircare,Tempora Tool,Cleanser,Dryness,0.78,False,0.36,2,21
+HSP20223174,Diet,Quidem Cleanser,Supplement,Hair Thinning,0.94,True,0.9,1,73
+HSP20223396,Lifestyle,Voluptate Tool,Tool,Pigmentation,0.76,True,0.35,5,85
+HSP20235055,Skincare,Tenetur Supplement,Cleanser,Acne,0.91,False,0.45,2,78
+HSP20249019,Lifestyle,Doloribus Supplement,Tool,Pigmentation,0.81,True,0.34,4,30
+HSP20225402,Diet,Quos Oil,Cleanser,Dryness,0.77,True,0.86,5,31
+HSP20247146,Skincare,Doloremque Serum,Oil,Acne,0.93,False,0.44,0,78
+HSP20242237,Lifestyle,Porro Tool,Supplement,Hair Thinning,0.8,False,0.39,3,65
+HSP20217600,Diet,Illo Oil,Supplement,Dryness,0.72,True,0.99,2,77
+HSP20255558,Haircare,Deserunt Supplement,Oil,Pigmentation,0.89,True,0.68,4,88
+HSP20238449,Lifestyle,Ea Tool,Cleanser,Dryness,0.92,False,0.89,5,7
+HSP20246362,Haircare,Ipsam Supplement,Cleanser,Pigmentation,0.93,False,0.31,5,20
+HSP20251040,Skincare,Odio Serum,Supplement,Pigmentation,0.75,False,0.76,1,90
+HSP20218511,Diet,Sit Serum,Cleanser,Wrinkles,0.81,False,0.99,3,60
+HSP20232037,Skincare,Asperiores Tool,Supplement,Acne,0.89,False,0.97,4,58
+HSP20257516,Diet,Magnam Oil,Serum,Dryness,0.76,True,0.9,3,41
+HSP20228039,Haircare,Accusamus Supplement,Supplement,Dryness,0.79,True,0.99,0,62
+HSP20229105,Diet,Placeat Supplement,Cleanser,Dryness,0.75,False,0.66,5,15
+HSP20236289,Diet,Deleniti Cleanser,Supplement,Acne,0.93,True,0.6,3,16
+HSP20236533,Diet,Earum Cleanser,Supplement,Dryness,0.84,True,0.99,0,84
+HSP20253139,Skincare,Molestiae Supplement,Oil,Hair Thinning,0.82,True,0.72,5,10
+HSP20258951,Diet,Ratione Cleanser,Serum,Dryness,0.72,True,0.89,2,27
+HSP20231793,Lifestyle,Quae Supplement,Tool,Wrinkles,0.89,False,0.58,3,77
+HSP20212631,Lifestyle,Ullam Serum,Oil,Wrinkles,0.7,False,0.71,2,43
+HSP20241266,Haircare,Possimus Tool,Oil,Dryness,0.7,True,0.3,3,10
+HSP20213588,Lifestyle,Nemo Tool,Serum,Acne,0.88,True,0.43,5,11
+HSP20248479,Skincare,Vitae Cleanser,Supplement,Pigmentation,0.76,True,0.76,2,57
+HSP20218009,Diet,Porro Cleanser,Serum,Acne,0.72,False,0.52,2,82
+HSP20223161,Skincare,Nesciunt Serum,Supplement,Pigmentation,0.74,True,0.71,0,14
+HSP20233604,Lifestyle,Voluptatum Cleanser,Cleanser,Acne,0.89,False,0.8,4,29
+HSP20232529,Skincare,Numquam Supplement,Tool,Hair Thinning,0.77,True,0.36,0,60
+HSP20235102,Diet,Porro Serum,Supplement,Acne,0.72,True,0.6,0,14
+HSP20217092,Lifestyle,Doloremque Serum,Supplement,Dryness,0.97,True,0.45,0,51
+HSP20221848,Diet,Blanditiis Serum,Cleanser,Acne,0.77,False,0.37,5,73
+HSP20246005,Lifestyle,Recusandae Tool,Supplement,Acne,0.88,False,0.78,3,8
+HSP20228032,Lifestyle,Aliquam Oil,Supplement,Acne,0.89,False,0.9,0,40
+HSP20212559,Haircare,Est Supplement,Serum,Pigmentation,0.84,False,0.39,0,79
+HSP20214496,Diet,Illum Serum,Supplement,Dryness,0.78,False,0.76,3,13
+HSP20242276,Haircare,Aliquid Serum,Supplement,Dryness,0.88,False,0.67,0,20
+HSP20224705,Diet,Harum Serum,Serum,Acne,0.9,False,0.75,1,67
+HSP20258291,Skincare,Et Supplement,Cleanser,Pigmentation,0.96,True,0.71,2,21
+HSP20211132,Skincare,Quidem Oil,Serum,Wrinkles,0.93,False,0.47,0,87
+HSP20232975,Diet,Illo Oil,Cleanser,Pigmentation,0.9,False,0.93,1,22
+HSP20243165,Skincare,Dolores Oil,Cleanser,Wrinkles,0.81,True,0.85,1,25
+HSP20242160,Skincare,Officia Oil,Cleanser,Pigmentation,0.91,True,0.34,4,89
+HSP20227276,Diet,Recusandae Supplement,Cleanser,Pigmentation,0.87,True,0.39,4,73
+HSP20212678,Lifestyle,Possimus Serum,Tool,Wrinkles,0.98,True,0.87,2,36
+HSP20216133,Haircare,Quo Oil,Serum,Acne,0.73,True,0.39,4,90
+HSP20235902,Haircare,Quaerat Serum,Tool,Acne,0.87,False,0.54,0,10
+HSP20227270,Skincare,Culpa Cleanser,Tool,Wrinkles,0.71,True,0.68,4,24
+HSP20223340,Haircare,Rem Tool,Tool,Wrinkles,0.81,False,0.37,5,16
+HSP20219691,Diet,Cum Tool,Supplement,Hair Thinning,0.93,True,0.94,2,40
+HSP20251138,Haircare,Fugiat Supplement,Supplement,Acne,0.92,True,0.88,3,61
+HSP20253688,Diet,Quisquam Cleanser,Oil,Dryness,0.76,False,0.48,5,83
+HSP20246753,Lifestyle,Maiores Oil,Supplement,Hair Thinning,0.76,True,0.84,0,11
+HSP20223480,Diet,Quis Serum,Cleanser,Hair Thinning,0.97,True,0.8,5,66
+HSP20248248,Haircare,Animi Supplement,Cleanser,Acne,0.96,False,0.75,3,67
+HSP20222420,Lifestyle,Nulla Tool,Tool,Dryness,0.81,False,0.6,3,65
+HSP20213293,Skincare,Quisquam Serum,Oil,Acne,0.72,True,0.32,2,13
+HSP20217291,Haircare,Esse Supplement,Serum,Dryness,0.9,True,0.61,5,19
+HSP20238035,Diet,Nisi Oil,Tool,Dryness,0.86,True,0.69,4,30
+HSP20233290,Haircare,Corporis Oil,Oil,Acne,0.78,False,0.63,5,27
+HSP20225537,Skincare,Ullam Serum,Oil,Dryness,0.84,False,0.57,5,21
+HSP20215065,Haircare,Expedita Oil,Oil,Acne,0.94,False,0.62,4,61
+HSP20255668,Skincare,In Serum,Serum,Hair Thinning,0.88,False,0.93,0,37
+HSP20215942,Skincare,Aliquid Tool,Cleanser,Wrinkles,0.95,False,0.92,3,34
+HSP20229482,Lifestyle,Odio Serum,Tool,Wrinkles,0.78,True,0.32,1,34
+HSP20259348,Diet,Fuga Serum,Oil,Wrinkles,0.78,False,0.5,5,70
+HSP20227418,Lifestyle,Laudantium Serum,Supplement,Pigmentation,0.96,True,0.75,4,89
+HSP20231894,Skincare,Commodi Serum,Supplement,Acne,0.72,True,0.39,4,34
+HSP20229108,Skincare,Nulla Oil,Tool,Dryness,0.75,False,0.74,0,82
+HSP20242847,Skincare,Cumque Supplement,Supplement,Wrinkles,0.91,False,0.9,2,16
+HSP20229185,Diet,Ex Serum,Cleanser,Pigmentation,0.97,True,0.44,3,15
+HSP20252163,Lifestyle,Eos Serum,Supplement,Acne,0.79,True,0.47,4,88
+HSP20251197,Skincare,Repudiandae Oil,Oil,Acne,0.8,True,0.94,5,71
+HSP20236185,Skincare,Voluptas Supplement,Tool,Hair Thinning,0.87,True,0.82,3,70
+HSP20227337,Diet,Laudantium Tool,Serum,Dryness,0.84,True,0.32,0,64
+HSP20257895,Lifestyle,Voluptatum Supplement,Tool,Acne,0.72,True,0.68,3,62
+HSP20239951,Lifestyle,Similique Supplement,Supplement,Acne,0.91,True,0.45,2,31
+HSP20228717,Lifestyle,Suscipit Supplement,Cleanser,Acne,0.91,False,0.87,3,52
+HSP20211273,Haircare,Nobis Cleanser,Tool,Pigmentation,0.82,True,0.82,5,75
+HSP20252106,Haircare,Doloremque Tool,Oil,Acne,0.82,True,0.77,4,14
+HSP20215295,Haircare,Sint Oil,Oil,Pigmentation,0.92,False,0.99,3,53
+HSP20221652,Lifestyle,Deserunt Oil,Supplement,Dryness,0.8,False,0.59,0,47
+HSP20217520,Haircare,Enim Supplement,Oil,Pigmentation,0.75,True,0.44,4,24
+HSP20255693,Lifestyle,Enim Serum,Tool,Acne,0.9,True,0.94,0,65
+HSP20257806,Skincare,Assumenda Serum,Cleanser,Wrinkles,0.81,True,0.43,0,21
+HSP20247590,Skincare,Reiciendis Cleanser,Cleanser,Acne,0.78,True,0.62,1,39
+HSP20219791,Skincare,Laudantium Oil,Serum,Hair Thinning,0.78,True,0.46,4,66
+HSP20253501,Diet,Quibusdam Oil,Tool,Hair Thinning,0.91,False,0.31,0,58
+HSP20232369,Lifestyle,Hic Serum,Tool,Acne,0.86,False,0.86,3,40
+HSP20232294,Diet,Saepe Supplement,Tool,Acne,0.78,False,0.72,1,82
+HSP20254329,Diet,Quidem Oil,Serum,Wrinkles,0.89,True,0.76,1,28
+HSP20229788,Lifestyle,Dolores Oil,Cleanser,Wrinkles,0.83,True,0.54,0,50
+HSP20237401,Diet,Iste Serum,Cleanser,Wrinkles,0.94,True,0.83,5,30
+HSP20252083,Diet,Voluptatibus Oil,Supplement,Pigmentation,0.79,True,0.37,0,74
+HSP20238167,Diet,Illum Oil,Tool,Hair Thinning,0.72,False,0.37,2,86
+HSP20221948,Haircare,Illum Cleanser,Tool,Wrinkles,0.87,False,0.34,2,31
+HSP20222412,Skincare,Rem Tool,Serum,Dryness,0.8,True,0.83,4,44
+HSP20242900,Lifestyle,Fugiat Oil,Serum,Pigmentation,0.79,False,0.83,2,35
+HSP20241901,Haircare,Quam Oil,Cleanser,Wrinkles,0.92,True,0.47,4,14
+HSP20233877,Diet,Veritatis Oil,Supplement,Dryness,0.91,False,0.82,4,46
+HSP20211207,Lifestyle,Consequatur Oil,Cleanser,Acne,0.82,True,0.45,5,39
+HSP20221185,Haircare,Deleniti Tool,Serum,Acne,0.85,True,0.94,2,82
+HSP20229133,Haircare,Neque Oil,Tool,Pigmentation,0.89,True,0.42,1,44
+HSP20239568,Lifestyle,Assumenda Serum,Supplement,Acne,0.9,True,0.6,0,61
+HSP20255247,Lifestyle,Harum Oil,Serum,Hair Thinning,0.87,False,0.81,0,18
+HSP20227092,Skincare,Ullam Oil,Oil,Pigmentation,0.85,False,0.87,4,27
+HSP20225403,Diet,Debitis Cleanser,Supplement,Wrinkles,0.91,False,0.73,4,23
+HSP20211480,Haircare,Voluptates Tool,Supplement,Pigmentation,0.74,True,0.89,5,45
+HSP20238034,Diet,Delectus Supplement,Serum,Dryness,0.97,False,0.4,1,74
+HSP20239582,Haircare,Expedita Supplement,Oil,Wrinkles,0.84,True,0.48,4,22
+HSP20215308,Diet,Dignissimos Supplement,Tool,Hair Thinning,0.92,False,0.81,0,24
+HSP20252262,Lifestyle,Iste Supplement,Cleanser,Dryness,0.74,True,0.91,0,51
+HSP20248457,Haircare,Expedita Serum,Oil,Acne,0.75,False,0.86,4,20
+HSP20256900,Skincare,Veritatis Supplement,Tool,Wrinkles,0.83,False,0.53,0,16
+HSP20219185,Diet,Mollitia Serum,Tool,Dryness,0.75,True,0.42,2,47
+HSP20253734,Skincare,Porro Cleanser,Tool,Hair Thinning,0.89,True,0.69,4,89
+HSP20233577,Diet,Dicta Supplement,Supplement,Acne,0.74,True,0.38,1,70
+HSP20232685,Skincare,Repellat Supplement,Oil,Pigmentation,0.72,True,0.82,2,10
+HSP20252889,Lifestyle,Suscipit Supplement,Cleanser,Hair Thinning,0.91,True,0.34,0,32
+HSP20229336,Diet,Fugiat Serum,Serum,Wrinkles,0.86,False,0.36,3,64
+HSP20211721,Diet,Sunt Supplement,Serum,Acne,0.96,False,0.93,1,47
+HSP20215006,Lifestyle,Nesciunt Oil,Serum,Dryness,0.9,False,0.95,3,33
+HSP20218729,Haircare,Minus Oil,Serum,Pigmentation,0.94,True,0.88,2,67
+HSP20237274,Diet,Odio Serum,Supplement,Acne,0.87,False,0.51,5,35
+HSP20223932,Haircare,Autem Tool,Supplement,Wrinkles,0.76,False,0.53,5,15
+HSP20217870,Diet,Tempora Tool,Cleanser,Pigmentation,0.88,True,0.42,3,45
+HSP20226272,Diet,Consectetur Serum,Oil,Hair Thinning,0.78,True,0.63,5,64
+HSP20227819,Diet,Necessitatibus Oil,Oil,Dryness,0.77,True,0.71,3,15
+HSP20235444,Diet,Quam Oil,Serum,Acne,0.97,False,0.82,5,39
+HSP20217108,Skincare,Hic Tool,Oil,Pigmentation,0.89,True,0.71,5,14
+HSP20219225,Skincare,Voluptate Tool,Cleanser,Pigmentation,0.84,False,0.43,5,72
+HSP20213938,Haircare,Maxime Supplement,Tool,Wrinkles,0.96,True,0.47,3,73
+HSP20229450,Haircare,Odit Tool,Oil,Wrinkles,0.73,False,0.83,3,49
+HSP20217568,Diet,Placeat Serum,Cleanser,Dryness,0.75,False,0.56,3,22
+HSP20218620,Diet,Itaque Supplement,Serum,Dryness,0.71,False,0.4,2,7
+HSP20236090,Haircare,Repellendus Tool,Cleanser,Wrinkles,0.75,False,0.34,5,62
+HSP20232415,Diet,A Cleanser,Tool,Dryness,0.89,False,0.89,3,53
+HSP20258483,Lifestyle,Consectetur Cleanser,Oil,Pigmentation,0.81,False,0.91,2,40
+HSP20217044,Skincare,Officia Cleanser,Supplement,Hair Thinning,0.76,True,0.53,4,64
+HSP20225777,Diet,Tempora Tool,Supplement,Pigmentation,0.74,True,0.73,3,45
+HSP20255979,Haircare,Vel Cleanser,Serum,Hair Thinning,0.82,False,0.73,3,11
+HSP20254974,Diet,Voluptatem Supplement,Supplement,Wrinkles,0.92,False,0.68,2,71
+HSP20247033,Haircare,Magnam Tool,Serum,Acne,0.88,False,0.95,3,84
+HSP20259083,Haircare,At Oil,Serum,Pigmentation,0.79,True,0.55,4,76
+HSP20229954,Diet,Quibusdam Cleanser,Tool,Wrinkles,0.91,True,0.73,2,73
+HSP20223466,Haircare,Nam Supplement,Supplement,Dryness,0.75,True,0.56,1,81
+HSP20217718,Lifestyle,Esse Cleanser,Tool,Pigmentation,0.84,False,0.59,2,29
+HSP20214817,Diet,Nobis Serum,Cleanser,Hair Thinning,0.75,False,0.95,4,7
+HSP20256675,Diet,Error Oil,Tool,Hair Thinning,0.92,False,0.64,5,87
+HSP20216488,Skincare,Possimus Tool,Oil,Wrinkles,0.9,True,0.93,2,29
+HSP20217164,Lifestyle,Fugiat Cleanser,Supplement,Wrinkles,0.74,False,0.48,0,21
+HSP20232703,Diet,Iste Oil,Tool,Wrinkles,0.86,True,0.86,3,75
+HSP20229680,Skincare,Id Supplement,Oil,Acne,0.71,False,0.99,1,15
+HSP20227878,Lifestyle,Labore Cleanser,Oil,Wrinkles,0.83,True,0.55,1,74
+HSP20241981,Lifestyle,Quo Cleanser,Serum,Pigmentation,0.78,True,0.42,5,88
+HSP20225584,Haircare,Repellat Serum,Tool,Acne,0.93,False,0.97,3,60
+HSP20211719,Skincare,Delectus Oil,Cleanser,Pigmentation,0.82,False,0.97,4,76
+HSP20229515,Lifestyle,Recusandae Oil,Oil,Dryness,0.94,True,0.64,4,24
+HSP20247102,Haircare,Placeat Supplement,Oil,Hair Thinning,0.9,True,0.6,1,39
+HSP20242391,Lifestyle,Laboriosam Oil,Tool,Wrinkles,0.86,False,0.34,0,65
+HSP20252565,Skincare,Vero Oil,Oil,Acne,0.9,False,0.34,4,80
+HSP20253187,Diet,Architecto Oil,Tool,Dryness,0.94,False,0.88,3,75
+HSP20242226,Diet,Aperiam Cleanser,Cleanser,Pigmentation,0.77,True,0.53,4,71
+HSP20252020,Skincare,Consequuntur Serum,Tool,Dryness,0.84,False,0.72,0,35
+HSP20243141,Lifestyle,Sunt Cleanser,Supplement,Pigmentation,0.78,False,0.71,1,43
+HSP20225778,Lifestyle,Officia Serum,Serum,Pigmentation,0.79,False,0.34,4,30
+HSP20236161,Haircare,Ad Serum,Tool,Acne,0.7,False,0.37,0,63
+HSP20246345,Skincare,Cupiditate Tool,Serum,Wrinkles,0.93,True,0.97,3,65
+HSP20238417,Lifestyle,Dolore Oil,Tool,Dryness,0.82,True,0.66,1,19
+HSP20234827,Lifestyle,Nulla Supplement,Supplement,Dryness,0.74,True,0.69,1,58
+HSP20214321,Diet,Odit Cleanser,Supplement,Pigmentation,0.74,True,0.73,1,53
+HSP20222785,Haircare,A Cleanser,Cleanser,Acne,0.97,True,0.44,0,27
+HSP20222731,Diet,Nobis Supplement,Oil,Wrinkles,0.92,False,0.32,4,15
+HSP20228365,Diet,Eligendi Tool,Tool,Hair Thinning,0.81,False,0.38,4,64
+HSP20246145,Lifestyle,Voluptas Serum,Cleanser,Acne,0.8,False,0.42,0,53
+HSP20242978,Lifestyle,Delectus Tool,Cleanser,Pigmentation,0.81,True,0.59,1,12
+HSP20256870,Skincare,Totam Supplement,Cleanser,Pigmentation,0.79,False,0.76,2,56
+HSP20228404,Haircare,Incidunt Oil,Oil,Hair Thinning,0.97,True,0.58,3,71
+HSP20238591,Lifestyle,Dolore Cleanser,Oil,Pigmentation,0.76,False,0.49,5,46
+HSP20232964,Skincare,Harum Serum,Oil,Dryness,0.95,True,0.7,3,64
+HSP20213582,Haircare,Consectetur Tool,Cleanser,Acne,0.83,False,0.4,5,9
+HSP20231660,Diet,Ullam Cleanser,Tool,Pigmentation,0.83,True,0.49,4,85
+HSP20226370,Haircare,Magni Serum,Serum,Hair Thinning,0.97,True,0.92,2,64
+HSP20222494,Diet,Explicabo Cleanser,Supplement,Acne,0.72,False,0.66,4,68
+HSP20226828,Haircare,Blanditiis Serum,Tool,Hair Thinning,0.77,True,0.59,4,68
+HSP20249412,Haircare,Minima Serum,Serum,Dryness,0.95,True,0.67,1,72
+HSP20215896,Haircare,Vel Tool,Tool,Hair Thinning,0.8,True,0.45,4,83
+HSP20233848,Skincare,Totam Serum,Supplement,Acne,0.93,False,0.74,4,51
+HSP20217625,Diet,Doloremque Oil,Oil,Acne,0.84,False,0.45,4,14
+HSP20245093,Lifestyle,Asperiores Tool,Serum,Dryness,0.8,True,0.97,2,10
+HSP20218570,Skincare,Nam Supplement,Supplement,Wrinkles,0.85,True,0.58,0,32
+HSP20213290,Skincare,Sunt Supplement,Cleanser,Dryness,0.85,False,0.85,0,52
+HSP20211195,Lifestyle,Inventore Supplement,Cleanser,Dryness,0.8,True,0.43,5,20
+HSP20214641,Skincare,Voluptates Supplement,Supplement,Hair Thinning,0.87,False,0.77,4,87
+HSP20224246,Haircare,Eveniet Tool,Serum,Wrinkles,0.91,True,0.92,4,55
+HSP20247098,Skincare,Nobis Tool,Serum,Dryness,0.81,False,0.35,2,15
+HSP20215240,Lifestyle,Ullam Oil,Supplement,Hair Thinning,0.98,True,0.6,0,54
+HSP20211357,Diet,Consectetur Tool,Cleanser,Wrinkles,0.88,True,0.77,4,10
+HSP20214239,Skincare,Voluptatibus Oil,Tool,Acne,0.86,True,0.44,0,50
+HSP20243110,Haircare,Consequatur Oil,Serum,Hair Thinning,0.92,False,0.86,2,33
+HSP20216432,Diet,A Supplement,Cleanser,Pigmentation,0.86,False,0.64,1,23
+HSP20211699,Skincare,Error Serum,Tool,Wrinkles,0.73,True,0.36,0,54
+HSP20241829,Haircare,Perferendis Supplement,Cleanser,Acne,0.8,False,0.52,1,29
+HSP20228096,Diet,Autem Oil,Cleanser,Pigmentation,0.98,True,0.85,2,83
+HSP20249128,Lifestyle,Delectus Serum,Supplement,Wrinkles,0.89,False,0.66,4,49
+HSP20217270,Diet,Rerum Supplement,Serum,Wrinkles,0.75,True,0.98,1,43
+HSP20243831,Skincare,Et Supplement,Oil,Pigmentation,0.81,True,0.37,0,88
+HSP20234517,Haircare,Quas Supplement,Cleanser,Hair Thinning,0.84,True,0.91,5,7
+HSP20225505,Haircare,Vero Tool,Tool,Acne,0.96,False,0.31,3,70
+HSP20238307,Lifestyle,Numquam Serum,Tool,Pigmentation,0.96,True,0.49,0,71
+HSP20221567,Diet,Accusamus Tool,Oil,Hair Thinning,0.71,True,0.89,2,31
+HSP20255026,Diet,Accusamus Cleanser,Tool,Acne,0.95,True,0.72,4,74
+HSP20239173,Haircare,Voluptatem Supplement,Tool,Pigmentation,0.87,False,0.87,4,32
+HSP20248848,Skincare,Laboriosam Cleanser,Oil,Acne,0.93,True,0.92,3,67
+HSP20212437,Haircare,Cumque Serum,Cleanser,Acne,0.86,False,0.98,4,78
+HSP20237275,Lifestyle,Nisi Tool,Supplement,Hair Thinning,0.99,False,0.38,1,14
+HSP20227868,Lifestyle,Voluptate Supplement,Tool,Wrinkles,0.95,True,0.65,1,39
+HSP20229614,Skincare,Delectus Tool,Supplement,Acne,0.81,False,0.73,0,47
+HSP20229907,Skincare,Perferendis Serum,Tool,Acne,0.72,True,0.65,5,56
+HSP20217266,Skincare,Aut Oil,Serum,Acne,0.95,True,0.45,2,72
+HSP20238859,Diet,Eum Supplement,Serum,Dryness,0.82,True,0.96,5,39
+HSP20258940,Skincare,Molestiae Serum,Tool,Pigmentation,0.82,False,0.55,1,47
+HSP20239231,Diet,Commodi Cleanser,Tool,Wrinkles,0.83,True,0.66,2,53
+HSP20237363,Lifestyle,Corporis Serum,Supplement,Pigmentation,0.88,True,0.86,1,79
+HSP20233946,Lifestyle,Corporis Serum,Serum,Acne,0.83,True,0.87,5,23
+HSP20216224,Skincare,Ipsam Supplement,Cleanser,Hair Thinning,0.85,False,0.54,0,70
+HSP20254588,Lifestyle,Maxime Serum,Serum,Acne,0.89,False,0.8,4,36
+HSP20215602,Haircare,In Supplement,Serum,Hair Thinning,0.86,False,0.34,5,50
+HSP20218728,Haircare,Deserunt Oil,Serum,Dryness,0.75,True,0.5,3,59
+HSP20256856,Diet,Modi Tool,Serum,Acne,0.78,True,0.77,0,15
+HSP20254813,Haircare,Deleniti Cleanser,Cleanser,Acne,0.71,True,0.83,3,65
+HSP20222640,Lifestyle,Temporibus Supplement,Supplement,Wrinkles,0.78,False,0.52,1,30
+HSP20224951,Haircare,Veritatis Tool,Cleanser,Wrinkles,0.85,False,0.45,0,44
+HSP20239743,Haircare,Dicta Supplement,Supplement,Wrinkles,0.96,True,0.36,1,71
+HSP20214594,Skincare,Atque Oil,Supplement,Hair Thinning,0.83,True,0.89,2,32
+HSP20257363,Skincare,Quia Supplement,Tool,Pigmentation,0.88,True,0.5,4,41
+HSP20233846,Haircare,Recusandae Tool,Serum,Wrinkles,0.82,True,0.79,3,26
+HSP20224875,Diet,Accusamus Oil,Oil,Dryness,0.98,True,0.93,0,71
+HSP20256210,Lifestyle,Similique Cleanser,Oil,Pigmentation,0.8,True,1.0,0,54
+HSP20231462,Skincare,Totam Supplement,Oil,Hair Thinning,0.7,True,0.32,2,50
+HSP20233328,Diet,Doloremque Serum,Tool,Pigmentation,0.94,False,0.44,5,54
+HSP20254084,Haircare,Nulla Tool,Oil,Pigmentation,0.72,True,0.47,5,47
+HSP20249882,Haircare,Laudantium Cleanser,Serum,Wrinkles,0.82,True,0.81,1,77
+HSP20233876,Diet,Error Cleanser,Supplement,Hair Thinning,0.88,False,0.47,5,28
+HSP20241621,Skincare,Sunt Cleanser,Serum,Dryness,0.85,True,0.95,5,65
+HSP20211920,Haircare,Distinctio Oil,Supplement,Acne,0.94,True,0.53,5,40
+HSP20224584,Haircare,Neque Serum,Supplement,Pigmentation,0.98,False,0.8,4,21
+HSP20219625,Haircare,Sint Serum,Supplement,Pigmentation,0.72,False,0.32,1,54
+HSP20241011,Haircare,Vitae Serum,Cleanser,Acne,0.75,True,0.81,2,15
+HSP20234300,Haircare,Numquam Serum,Serum,Acne,0.75,True,0.66,1,15
+HSP20226582,Diet,Esse Oil,Supplement,Pigmentation,0.73,True,0.94,0,43
+HSP20226301,Haircare,Commodi Oil,Oil,Hair Thinning,0.8,True,0.94,2,49
+HSP20211359,Haircare,Consequuntur Cleanser,Oil,Wrinkles,0.97,True,0.3,5,23
+HSP20223320,Lifestyle,Deserunt Serum,Supplement,Hair Thinning,0.83,False,0.32,3,86
+HSP20219622,Lifestyle,Cupiditate Tool,Tool,Hair Thinning,0.96,False,0.66,5,30
+HSP20232188,Diet,Repudiandae Oil,Tool,Wrinkles,0.72,False,0.38,0,15
+HSP20237481,Haircare,Molestiae Supplement,Serum,Wrinkles,0.81,False,0.96,2,86
+HSP20252655,Lifestyle,Laudantium Oil,Cleanser,Wrinkles,0.9,False,0.91,1,34
+HSP20235944,Lifestyle,Nobis Tool,Serum,Acne,0.81,False,0.33,0,20
+HSP20233235,Diet,Ipsam Oil,Supplement,Acne,0.98,False,0.31,5,30
+HSP20228157,Haircare,Deserunt Serum,Serum,Acne,0.97,True,0.56,3,8
+HSP20246198,Diet,Expedita Cleanser,Cleanser,Pigmentation,0.7,True,0.78,1,90
+HSP20226846,Haircare,Harum Cleanser,Tool,Acne,0.98,False,0.98,1,34
+HSP20223872,Skincare,Tenetur Oil,Serum,Wrinkles,0.75,False,0.43,5,86
+HSP20246026,Lifestyle,Blanditiis Supplement,Supplement,Wrinkles,0.86,False,0.75,0,69
+HSP20233086,Skincare,Expedita Serum,Tool,Hair Thinning,0.91,False,0.43,0,21
+HSP20221029,Skincare,Quod Supplement,Oil,Hair Thinning,0.98,False,0.75,1,37
+HSP20257415,Skincare,Sapiente Cleanser,Oil,Acne,0.95,False,0.68,5,54
+HSP20251530,Lifestyle,Sapiente Serum,Cleanser,Wrinkles,0.82,False,0.98,1,33
+HSP20226213,Lifestyle,Sequi Cleanser,Supplement,Pigmentation,0.87,False,0.91,5,55
+HSP20254619,Haircare,Id Oil,Serum,Pigmentation,0.98,False,0.77,5,77
+HSP20252705,Lifestyle,Voluptas Supplement,Serum,Hair Thinning,0.86,True,0.3,2,89
+HSP20243304,Lifestyle,Alias Serum,Serum,Wrinkles,0.71,False,0.44,5,46
+HSP20232274,Diet,Unde Serum,Serum,Dryness,0.75,False,0.48,2,72
+HSP20226682,Diet,Incidunt Cleanser,Supplement,Pigmentation,0.79,True,0.55,3,84
+HSP20233750,Haircare,Enim Oil,Oil,Wrinkles,0.82,True,0.37,2,46
+HSP20216500,Lifestyle,Quas Oil,Serum,Acne,0.71,True,0.77,3,15
+HSP20241186,Haircare,Sequi Oil,Oil,Dryness,0.86,False,0.61,3,66
+HSP20234435,Diet,Quaerat Tool,Oil,Wrinkles,0.88,False,0.88,2,23
+HSP20222110,Lifestyle,Eaque Cleanser,Cleanser,Acne,0.82,True,0.75,2,60
+HSP20235205,Lifestyle,Mollitia Supplement,Supplement,Acne,0.98,True,0.89,2,42
+HSP20211020,Diet,Impedit Supplement,Oil,Hair Thinning,0.82,False,0.75,5,10
+HSP20217323,Lifestyle,Tenetur Tool,Serum,Wrinkles,0.75,False,0.69,5,14
+HSP20247875,Diet,Asperiores Supplement,Supplement,Dryness,0.98,True,0.66,0,16
+HSP20227783,Lifestyle,Excepturi Cleanser,Serum,Pigmentation,0.97,True,0.59,1,67
+HSP20247204,Haircare,Possimus Supplement,Tool,Dryness,0.99,True,0.71,5,30
+HSP20239946,Diet,Molestiae Oil,Oil,Dryness,0.71,False,0.71,0,53
+HSP20242661,Diet,Culpa Supplement,Cleanser,Pigmentation,0.78,True,0.32,3,67
+HSP20244695,Diet,Excepturi Tool,Supplement,Wrinkles,0.94,False,0.49,1,90
+HSP20228393,Lifestyle,Praesentium Supplement,Cleanser,Pigmentation,0.93,True,0.5,3,46
+HSP20211547,Haircare,Tempore Tool,Cleanser,Dryness,0.76,True,0.98,1,23
+HSP20231328,Skincare,Saepe Supplement,Serum,Acne,0.8,False,0.72,2,80
+HSP20235278,Lifestyle,Aut Serum,Oil,Dryness,0.88,False,0.69,2,27
+HSP20212215,Skincare,Quia Serum,Supplement,Hair Thinning,0.97,False,0.77,3,13
+HSP20233787,Lifestyle,Accusantium Oil,Cleanser,Wrinkles,0.82,True,0.9,2,11
+HSP20243636,Skincare,Magni Tool,Cleanser,Dryness,0.75,True,0.68,5,80
+HSP20219962,Diet,Ipsum Oil,Tool,Dryness,0.98,True,0.74,0,54
+HSP20216536,Skincare,Delectus Oil,Supplement,Acne,0.94,False,0.76,4,56
+HSP20258909,Skincare,Molestias Supplement,Tool,Hair Thinning,0.94,False,0.96,2,51
+HSP20218066,Haircare,Reiciendis Cleanser,Oil,Pigmentation,0.78,False,0.42,0,20
+HSP20228113,Skincare,Nihil Serum,Cleanser,Acne,0.84,False,0.79,3,58
+HSP20221877,Skincare,Maiores Supplement,Serum,Wrinkles,0.77,True,0.3,1,30
+HSP20216424,Skincare,Quisquam Supplement,Serum,Wrinkles,0.8,False,0.98,0,84
+HSP20224112,Lifestyle,Vero Oil,Tool,Dryness,0.9,False,0.58,0,50
+HSP20249849,Lifestyle,Doloribus Supplement,Cleanser,Acne,0.76,False,0.55,5,34
+HSP20235612,Diet,Optio Cleanser,Cleanser,Acne,0.75,False,0.37,0,43
+HSP20234891,Haircare,Aut Serum,Serum,Wrinkles,0.96,False,1.0,1,28
+HSP20211813,Haircare,Ad Tool,Oil,Pigmentation,0.75,False,0.34,4,79
+HSP20249043,Haircare,Repudiandae Oil,Oil,Pigmentation,0.8,True,0.62,4,57
+HSP20221893,Skincare,Atque Serum,Oil,Wrinkles,0.76,False,0.51,5,74
+HSP20231062,Lifestyle,Accusantium Cleanser,Tool,Hair Thinning,0.76,True,0.84,0,20
+HSP20242435,Skincare,Fuga Cleanser,Serum,Pigmentation,0.91,True,0.74,5,81
+HSP20238869,Haircare,Esse Cleanser,Tool,Dryness,0.81,False,0.94,1,25
+HSP20222589,Haircare,Animi Oil,Oil,Pigmentation,0.98,True,0.42,2,43
+HSP20214390,Skincare,Assumenda Oil,Cleanser,Dryness,0.76,False,0.67,2,77
+HSP20225781,Lifestyle,Nam Tool,Supplement,Wrinkles,0.73,True,0.61,2,21
+HSP20218758,Haircare,Quae Oil,Serum,Wrinkles,0.87,False,0.67,2,87
+HSP20216052,Diet,Illo Cleanser,Oil,Hair Thinning,0.8,True,0.68,1,82
+HSP20248715,Lifestyle,Sunt Serum,Cleanser,Acne,0.98,False,0.44,5,55
+HSP20245341,Skincare,Provident Oil,Tool,Acne,0.89,False,0.33,3,55
+HSP20219914,Skincare,Nesciunt Serum,Cleanser,Hair Thinning,0.72,False,0.69,5,90
+HSP20244029,Diet,Nisi Supplement,Supplement,Acne,0.73,True,0.32,2,32
+HSP20237249,Lifestyle,Voluptates Oil,Serum,Dryness,0.75,False,0.7,3,11
+HSP20234056,Diet,Natus Serum,Cleanser,Pigmentation,0.9,False,0.44,1,37
+HSP20241731,Lifestyle,Blanditiis Cleanser,Supplement,Wrinkles,0.89,False,0.43,2,57
+HSP20238204,Skincare,Tempore Supplement,Tool,Pigmentation,0.88,True,0.59,0,81
+HSP20245315,Skincare,Quidem Oil,Supplement,Wrinkles,0.89,True,1.0,1,30
+HSP20225400,Lifestyle,Quidem Oil,Tool,Acne,0.97,True,0.3,0,69
+HSP20252009,Diet,Sint Serum,Cleanser,Pigmentation,0.96,True,0.35,5,65
+HSP20222584,Haircare,Dolor Tool,Serum,Wrinkles,0.98,False,0.5,1,25
+HSP20216632,Haircare,Hic Tool,Cleanser,Pigmentation,0.81,True,0.36,4,39
+HSP20257782,Skincare,Blanditiis Tool,Oil,Pigmentation,0.73,False,0.81,3,18
+HSP20254727,Lifestyle,Ipsa Oil,Supplement,Wrinkles,0.97,True,0.73,1,40
+HSP20251999,Diet,Beatae Tool,Tool,Dryness,0.91,False,0.83,3,8
+HSP20249561,Lifestyle,Quaerat Tool,Tool,Dryness,0.78,True,0.33,5,43
+HSP20249773,Skincare,Enim Tool,Cleanser,Dryness,0.7,False,0.55,4,34
+HSP20244860,Lifestyle,Dolor Serum,Supplement,Hair Thinning,0.77,True,0.34,3,60
+HSP20245896,Lifestyle,Quidem Oil,Tool,Acne,0.75,True,0.39,3,82
+HSP20217468,Diet,Itaque Oil,Supplement,Dryness,0.97,True,0.4,0,13
+HSP20219226,Haircare,Mollitia Cleanser,Oil,Pigmentation,0.86,True,0.72,4,32
+HSP20259467,Lifestyle,Repudiandae Serum,Supplement,Wrinkles,0.86,True,0.37,4,26
+HSP20253415,Skincare,Tempora Cleanser,Cleanser,Wrinkles,0.79,True,0.34,2,25
+HSP20218357,Skincare,Totam Cleanser,Oil,Pigmentation,0.81,False,0.43,1,70
+HSP20223738,Haircare,Vero Tool,Cleanser,Dryness,0.86,False,0.78,5,71
+HSP20224157,Diet,Temporibus Tool,Supplement,Pigmentation,0.85,True,0.6,3,60
+HSP20221699,Haircare,At Tool,Cleanser,Dryness,0.81,False,0.89,5,80
+HSP20242283,Haircare,Ipsa Cleanser,Supplement,Acne,0.76,False,0.81,1,72
+HSP20244308,Skincare,Voluptatem Tool,Supplement,Hair Thinning,0.92,True,0.59,5,60
+HSP20225225,Skincare,Nostrum Tool,Serum,Hair Thinning,0.79,True,0.63,4,75
+HSP20232097,Skincare,Excepturi Supplement,Serum,Hair Thinning,0.73,True,0.33,1,57
+HSP20217358,Haircare,Aspernatur Oil,Cleanser,Pigmentation,0.73,False,0.43,2,23
+HSP20257510,Haircare,Exercitationem Oil,Supplement,Hair Thinning,0.85,False,0.89,1,56
+HSP20256343,Lifestyle,Commodi Cleanser,Cleanser,Wrinkles,0.77,True,0.95,1,25
+HSP20239514,Skincare,Nostrum Supplement,Supplement,Dryness,0.98,True,0.97,2,13
+HSP20241202,Skincare,Cum Oil,Tool,Hair Thinning,0.94,True,0.55,1,79
+HSP20259561,Lifestyle,Odit Supplement,Supplement,Acne,0.72,True,0.7,5,57
+HSP20242843,Diet,Similique Serum,Oil,Acne,0.86,False,0.89,1,44
+HSP20243451,Diet,Sequi Serum,Cleanser,Dryness,0.99,False,0.66,3,7
+HSP20222641,Diet,Aspernatur Oil,Supplement,Dryness,0.8,False,0.43,3,46
+HSP20212654,Lifestyle,Ipsa Serum,Serum,Hair Thinning,0.7,True,0.66,1,24
+HSP20239775,Skincare,Vel Oil,Cleanser,Dryness,0.86,True,0.88,4,18
+HSP20237732,Diet,Unde Oil,Supplement,Pigmentation,0.85,True,0.94,3,34
+HSP20237275,Lifestyle,Doloribus Tool,Tool,Pigmentation,0.88,True,0.89,3,65
+HSP20248750,Lifestyle,Cumque Supplement,Supplement,Hair Thinning,0.74,True,0.9,4,55
+HSP20213821,Lifestyle,Accusantium Tool,Oil,Wrinkles,0.9,True,0.42,5,30
+HSP20237602,Haircare,Voluptatum Cleanser,Oil,Pigmentation,0.76,False,0.95,4,80
+HSP20227581,Diet,Deserunt Serum,Supplement,Dryness,0.71,False,0.62,5,7
+HSP20217484,Diet,Voluptates Cleanser,Supplement,Dryness,0.79,False,0.77,4,20
+HSP20234892,Lifestyle,Accusamus Cleanser,Oil,Dryness,0.94,True,0.55,3,66
+HSP20218785,Lifestyle,Dolorem Supplement,Supplement,Dryness,0.82,True,0.99,1,19
+HSP20237102,Haircare,Praesentium Supplement,Cleanser,Acne,0.93,False,0.93,1,72
+HSP20216535,Skincare,Laborum Tool,Serum,Dryness,0.83,False,0.46,3,33
+HSP20236094,Skincare,Quasi Oil,Supplement,Acne,0.82,True,0.8,5,29
+HSP20239054,Diet,Quas Tool,Cleanser,Hair Thinning,0.73,False,0.49,0,71
+HSP20214734,Haircare,Facilis Cleanser,Cleanser,Wrinkles,0.71,True,0.6,0,45
+HSP20225923,Diet,Doloremque Cleanser,Supplement,Acne,0.94,True,0.32,2,90
+HSP20246257,Lifestyle,Minima Cleanser,Supplement,Dryness,0.9,True,0.95,5,63
+HSP20237828,Skincare,Debitis Tool,Serum,Wrinkles,0.77,True,0.79,1,51
+HSP20252462,Diet,Fugiat Oil,Serum,Pigmentation,0.98,False,0.97,1,38
+HSP20228237,Haircare,Cumque Supplement,Supplement,Acne,0.77,False,0.37,3,76
+HSP20227671,Haircare,Aliquam Cleanser,Serum,Wrinkles,0.74,True,0.79,4,89
+HSP20249462,Diet,Iusto Supplement,Tool,Acne,0.91,True,0.77,4,45
+HSP20231920,Diet,Nobis Oil,Serum,Hair Thinning,0.8,False,0.42,4,19
+HSP20253604,Skincare,Fugit Oil,Cleanser,Pigmentation,0.87,False,0.64,4,84
+HSP20216097,Haircare,Qui Serum,Supplement,Pigmentation,0.91,True,0.61,5,60
+HSP20257609,Diet,At Serum,Cleanser,Dryness,0.8,False,0.51,0,35
+HSP20229589,Lifestyle,Fuga Oil,Supplement,Wrinkles,0.76,True,0.49,3,19
+HSP20251474,Lifestyle,Repellat Serum,Supplement,Pigmentation,0.73,True,0.54,1,64
+HSP20224158,Skincare,Sunt Oil,Cleanser,Wrinkles,0.71,False,0.43,0,23
+HSP20221944,Lifestyle,Autem Supplement,Oil,Acne,0.92,False,0.53,4,54
+HSP20221541,Haircare,Praesentium Serum,Cleanser,Acne,0.89,False,0.8,4,83
+HSP20241828,Diet,Odit Serum,Oil,Hair Thinning,0.87,False,0.97,1,83
+HSP20234262,Lifestyle,Quaerat Oil,Cleanser,Acne,0.71,False,0.82,0,77
+HSP20237035,Lifestyle,Magni Cleanser,Tool,Dryness,0.98,True,0.9,4,20
+HSP20249275,Lifestyle,Aspernatur Oil,Tool,Wrinkles,0.75,False,0.53,5,78
+HSP20243029,Lifestyle,Praesentium Supplement,Oil,Pigmentation,0.75,True,0.72,0,84
+HSP20214963,Haircare,Reiciendis Supplement,Supplement,Dryness,0.91,True,0.52,3,49
+HSP20239008,Diet,Doloremque Serum,Supplement,Wrinkles,0.86,True,0.78,3,21
+HSP20258308,Diet,Maxime Cleanser,Tool,Pigmentation,0.82,True,0.9,1,84
+HSP20228775,Lifestyle,Dolore Cleanser,Oil,Wrinkles,0.92,False,0.35,2,51
+HSP20256730,Lifestyle,Facere Oil,Tool,Acne,0.88,False,0.46,0,40
+HSP20233679,Haircare,Corporis Supplement,Serum,Hair Thinning,0.86,False,0.97,3,32
+HSP20232480,Lifestyle,Rem Serum,Cleanser,Hair Thinning,0.95,False,0.58,5,48
+HSP20231449,Haircare,Veniam Tool,Tool,Dryness,0.78,True,0.46,0,33
+HSP20241813,Haircare,Cum Tool,Tool,Wrinkles,0.85,False,0.38,4,34
+HSP20224511,Diet,Eum Cleanser,Supplement,Hair Thinning,0.86,False,0.3,4,81
+HSP20224688,Skincare,Quaerat Tool,Oil,Wrinkles,0.79,False,0.45,1,72
+HSP20225408,Diet,A Tool,Oil,Hair Thinning,0.98,True,0.81,1,49
+HSP20249409,Diet,Aperiam Cleanser,Oil,Wrinkles,0.8,True,0.36,3,58
+HSP20211145,Haircare,Accusantium Tool,Oil,Acne,0.85,True,0.45,3,21
+HSP20243167,Lifestyle,Exercitationem Supplement,Cleanser,Pigmentation,0.86,False,0.88,2,31
+HSP20221138,Diet,Aperiam Supplement,Serum,Wrinkles,0.88,False,0.74,4,23
+HSP20225135,Diet,Optio Tool,Oil,Dryness,0.86,True,0.95,4,80
+HSP20256004,Lifestyle,Maiores Cleanser,Tool,Pigmentation,0.97,False,0.66,5,87
+HSP20237943,Diet,Molestiae Serum,Oil,Hair Thinning,0.79,True,0.62,5,85
+HSP20246713,Diet,Distinctio Cleanser,Serum,Pigmentation,0.75,True,0.75,2,27
+HSP20245128,Skincare,Dolorum Supplement,Supplement,Pigmentation,0.85,True,0.37,4,58
+HSP20228646,Lifestyle,Amet Oil,Cleanser,Pigmentation,0.76,True,0.64,4,53
+HSP20239530,Lifestyle,Quod Supplement,Serum,Pigmentation,0.96,True,0.7,2,27
+HSP20257506,Lifestyle,Ullam Oil,Serum,Dryness,0.9,False,0.54,2,66
+HSP20252676,Lifestyle,Nihil Oil,Cleanser,Acne,0.87,False,0.61,5,63
+HSP20219380,Lifestyle,Et Supplement,Serum,Acne,0.89,True,0.34,3,90
+HSP20235631,Diet,Iste Serum,Tool,Pigmentation,0.84,True,0.51,3,28
+HSP20232771,Haircare,Expedita Supplement,Oil,Acne,0.79,False,0.97,5,12
+HSP20242045,Diet,Nesciunt Serum,Serum,Wrinkles,0.75,True,0.52,4,26
+HSP20235529,Haircare,Ipsum Cleanser,Serum,Hair Thinning,0.85,True,0.9,2,18
+HSP20235536,Haircare,Fugit Tool,Serum,Acne,0.82,True,0.82,4,52
+HSP20235895,Skincare,Autem Serum,Serum,Pigmentation,0.95,False,0.52,2,64
+HSP20223456,Haircare,Rem Tool,Tool,Acne,0.81,False,0.55,2,48
+HSP20254937,Haircare,Minima Cleanser,Oil,Hair Thinning,0.94,True,0.33,5,86
+HSP20217620,Skincare,Cumque Supplement,Tool,Wrinkles,0.79,False,0.78,3,44
+HSP20233292,Diet,Provident Oil,Tool,Pigmentation,0.86,False,0.61,1,55
+HSP20219148,Haircare,Veniam Cleanser,Cleanser,Dryness,0.86,False,0.44,5,60
+HSP20235250,Diet,Asperiores Serum,Tool,Acne,0.82,True,0.65,5,44
+HSP20247628,Haircare,Dolorum Serum,Tool,Dryness,0.96,False,0.48,0,33
+HSP20241578,Skincare,Et Serum,Oil,Acne,0.95,False,0.75,5,39
+HSP20254111,Diet,Quas Tool,Serum,Dryness,0.71,False,0.81,5,79
+HSP20234643,Haircare,Aperiam Supplement,Serum,Wrinkles,0.71,False,1.0,5,87
+HSP20258794,Haircare,Natus Cleanser,Supplement,Dryness,0.95,True,0.51,5,65
+HSP20239311,Skincare,Atque Tool,Cleanser,Acne,0.77,True,0.57,0,56
+HSP20233785,Skincare,Omnis Oil,Cleanser,Hair Thinning,0.8,True,0.56,1,15
+HSP20253967,Lifestyle,Id Oil,Tool,Acne,0.79,True,0.73,5,10
+HSP20232599,Skincare,Ipsa Cleanser,Cleanser,Hair Thinning,0.75,True,0.89,3,80
+HSP20243096,Lifestyle,Itaque Serum,Cleanser,Pigmentation,0.94,False,0.63,4,47
+HSP20233999,Haircare,Commodi Supplement,Oil,Pigmentation,0.95,False,0.47,5,15
+HSP20232463,Skincare,Quod Tool,Cleanser,Pigmentation,0.71,False,0.73,3,30
+HSP20226820,Lifestyle,Odit Cleanser,Tool,Hair Thinning,0.83,False,0.7,1,46
+HSP20226031,Skincare,Accusamus Cleanser,Cleanser,Hair Thinning,0.96,False,0.98,4,25
+HSP20246428,Skincare,Maxime Cleanser,Serum,Wrinkles,0.88,False,0.83,4,16
+HSP20235269,Diet,Eligendi Supplement,Serum,Hair Thinning,0.72,True,0.41,4,89
+HSP20255817,Skincare,Illum Cleanser,Tool,Pigmentation,0.91,False,0.6,1,73
+HSP20242929,Lifestyle,Recusandae Tool,Cleanser,Hair Thinning,0.83,False,0.52,1,80
+HSP20241879,Skincare,Incidunt Serum,Oil,Wrinkles,0.88,True,0.43,1,34
+HSP20252166,Haircare,Soluta Oil,Oil,Pigmentation,0.88,True,0.42,2,76
+HSP20244187,Skincare,Exercitationem Cleanser,Supplement,Hair Thinning,0.72,False,0.53,3,73
+HSP20252963,Haircare,Officiis Cleanser,Tool,Pigmentation,0.77,False,0.92,5,49
+HSP20249680,Haircare,Maxime Serum,Serum,Acne,0.72,True,0.42,5,53
+HSP20237768,Diet,Rerum Supplement,Supplement,Hair Thinning,0.86,False,0.64,3,83
+HSP20213470,Haircare,Possimus Serum,Oil,Pigmentation,0.71,True,0.31,2,20
+HSP20224281,Lifestyle,Eius Serum,Cleanser,Dryness,0.99,True,0.76,0,90
+HSP20237704,Lifestyle,Quisquam Oil,Supplement,Hair Thinning,0.81,True,0.63,1,51
+HSP20258496,Diet,Exercitationem Tool,Tool,Dryness,0.78,True,0.54,0,33
+HSP20226183,Haircare,Distinctio Serum,Supplement,Acne,0.89,True,0.92,1,88
+HSP20222324,Lifestyle,Ab Cleanser,Tool,Acne,0.75,True,0.89,1,83
+HSP20246449,Lifestyle,Nemo Cleanser,Tool,Pigmentation,0.74,False,0.45,2,52
+HSP20226134,Skincare,Alias Cleanser,Oil,Dryness,0.71,False,0.4,0,89
+HSP20211077,Skincare,Eveniet Oil,Tool,Wrinkles,0.97,True,0.62,1,9
+HSP20245481,Haircare,Quis Cleanser,Supplement,Acne,0.72,False,0.97,3,61
+HSP20223762,Lifestyle,Laborum Tool,Tool,Hair Thinning,0.95,True,0.83,0,28
+HSP20253595,Lifestyle,Tempora Supplement,Oil,Dryness,0.97,True,0.45,1,34
+HSP20242442,Diet,Voluptate Supplement,Tool,Pigmentation,0.94,True,0.78,5,86
+HSP20228105,Diet,Accusamus Oil,Supplement,Wrinkles,0.95,True,0.86,0,81
+HSP20247609,Haircare,Iusto Tool,Supplement,Hair Thinning,0.8,True,0.84,4,79
+HSP20248821,Diet,A Supplement,Serum,Pigmentation,0.78,False,0.53,2,33
+HSP20241076,Lifestyle,Unde Oil,Cleanser,Wrinkles,0.73,True,0.95,2,60
+HSP20219745,Diet,Minus Tool,Supplement,Hair Thinning,0.78,False,0.66,2,70
+HSP20227112,Lifestyle,Inventore Oil,Tool,Pigmentation,0.81,False,0.97,5,70
+HSP20216279,Lifestyle,Corporis Serum,Supplement,Acne,0.8,False,0.84,2,13
+HSP20254122,Lifestyle,Enim Oil,Tool,Hair Thinning,0.95,False,0.6,2,50
+HSP20211067,Skincare,Quia Serum,Supplement,Hair Thinning,0.81,True,0.82,2,85
+HSP20224707,Haircare,Ex Supplement,Oil,Hair Thinning,0.96,False,0.83,0,46
+HSP20236113,Haircare,Nihil Oil,Supplement,Wrinkles,0.77,False,0.92,4,52
+HSP20222682,Skincare,Porro Tool,Serum,Pigmentation,0.81,False,0.7,3,7
+HSP20249246,Lifestyle,Assumenda Cleanser,Tool,Dryness,0.94,False,0.43,0,44
+HSP20256015,Skincare,Dicta Oil,Cleanser,Wrinkles,0.93,False,0.72,0,87
+HSP20222069,Haircare,Hic Serum,Tool,Dryness,0.96,True,0.42,2,29
+HSP20215885,Skincare,Consectetur Cleanser,Cleanser,Hair Thinning,0.82,True,0.88,1,81
+HSP20238469,Diet,Aperiam Supplement,Oil,Dryness,0.71,False,0.38,3,38
+HSP20259587,Diet,Eveniet Serum,Supplement,Hair Thinning,0.99,False,0.5,2,82
+HSP20238105,Lifestyle,Quasi Serum,Supplement,Acne,0.98,True,0.43,5,83
+HSP20226615,Diet,Neque Supplement,Supplement,Hair Thinning,0.8,True,0.83,5,76
+HSP20246885,Diet,Voluptates Cleanser,Cleanser,Pigmentation,0.89,False,0.71,4,84
+HSP20223701,Skincare,Minima Oil,Tool,Pigmentation,0.85,True,0.89,2,89
+HSP20241313,Diet,Officia Cleanser,Cleanser,Hair Thinning,0.77,False,0.61,5,48
+HSP20224675,Skincare,Blanditiis Cleanser,Serum,Hair Thinning,0.75,True,0.72,0,77
+HSP20224460,Skincare,Repellendus Oil,Supplement,Hair Thinning,0.77,False,0.53,1,15
+HSP20219267,Skincare,Consequatur Serum,Supplement,Hair Thinning,0.84,False,0.32,1,33
+HSP20223017,Lifestyle,Quae Serum,Tool,Hair Thinning,0.73,True,0.78,0,47
+HSP20231612,Skincare,Deleniti Supplement,Supplement,Hair Thinning,0.82,False,0.91,5,20
+HSP20245190,Lifestyle,Tempore Supplement,Serum,Acne,0.9,False,0.31,4,69
+HSP20251796,Diet,Mollitia Tool,Cleanser,Pigmentation,0.88,False,0.37,2,83
+HSP20251785,Diet,Autem Cleanser,Serum,Acne,0.93,False,0.99,1,9
+HSP20211323,Diet,Rerum Serum,Tool,Dryness,0.85,False,0.78,2,41
+HSP20212897,Skincare,Reiciendis Oil,Tool,Wrinkles,0.77,True,0.61,2,49
+HSP20248279,Skincare,Assumenda Supplement,Supplement,Acne,0.95,False,0.42,0,84
+HSP20243024,Skincare,Nostrum Tool,Cleanser,Wrinkles,0.78,False,0.61,3,66
+HSP20255140,Skincare,Ut Oil,Tool,Wrinkles,0.91,True,0.56,5,58
+HSP20243508,Skincare,Delectus Oil,Tool,Pigmentation,0.97,True,0.37,1,53
+HSP20221152,Skincare,Ex Cleanser,Tool,Pigmentation,0.81,True,0.8,3,83
+HSP20237895,Diet,Illum Supplement,Tool,Pigmentation,0.77,True,0.76,3,66
+HSP20219524,Skincare,Facilis Oil,Tool,Hair Thinning,0.75,True,0.34,1,60
+HSP20233247,Skincare,Ipsam Supplement,Oil,Hair Thinning,0.74,False,0.95,4,10
+HSP20242718,Lifestyle,Mollitia Serum,Tool,Dryness,0.86,False,0.86,3,22
+HSP20252928,Skincare,Voluptates Serum,Cleanser,Dryness,0.8,False,0.71,0,24
+HSP20232867,Skincare,Itaque Tool,Supplement,Pigmentation,0.84,False,0.96,4,21
+HSP20219154,Diet,Ipsum Oil,Cleanser,Pigmentation,0.92,False,0.81,1,78
+HSP20224272,Diet,Odio Oil,Cleanser,Dryness,0.71,False,0.68,2,79
+HSP20239571,Diet,Fugit Tool,Serum,Dryness,0.84,False,0.95,5,74
+HSP20226864,Lifestyle,Eveniet Serum,Serum,Hair Thinning,0.77,True,0.49,5,18
+HSP20245839,Skincare,Autem Cleanser,Cleanser,Wrinkles,0.82,False,0.47,5,27
+HSP20221645,Haircare,Eligendi Cleanser,Serum,Pigmentation,0.74,True,0.9,1,42
+HSP20259132,Skincare,Deleniti Oil,Serum,Wrinkles,0.86,True,0.9,1,69
+HSP20228875,Lifestyle,Reprehenderit Tool,Oil,Dryness,0.94,True,0.5,5,72
+HSP20234842,Lifestyle,Corrupti Tool,Serum,Hair Thinning,0.86,True,0.36,1,29
+HSP20211208,Haircare,Dolor Serum,Tool,Dryness,0.97,True,0.58,0,46
+HSP20212809,Diet,Corrupti Tool,Supplement,Dryness,0.81,False,0.51,0,84
+HSP20259095,Lifestyle,Doloremque Tool,Tool,Acne,0.83,False,0.48,2,82
+HSP20222475,Diet,Odio Oil,Serum,Acne,0.81,False,0.86,1,50
+HSP20252229,Skincare,Omnis Serum,Cleanser,Hair Thinning,0.94,False,0.51,1,24
+HSP20215192,Diet,Ipsam Serum,Oil,Acne,0.84,True,0.91,4,90
+HSP20228483,Haircare,Nemo Serum,Cleanser,Wrinkles,0.72,False,0.92,5,42
+HSP20235327,Haircare,Cumque Supplement,Serum,Dryness,0.76,True,0.77,2,67
+HSP20241820,Haircare,Quidem Supplement,Serum,Wrinkles,0.87,True,0.69,1,38
+HSP20213862,Diet,Magnam Tool,Serum,Dryness,0.95,False,0.37,4,27
+HSP20215760,Haircare,Eos Serum,Serum,Pigmentation,0.8,True,0.68,4,69
+HSP20236123,Lifestyle,Odio Tool,Supplement,Pigmentation,0.94,False,0.45,1,17
+HSP20242898,Skincare,Inventore Oil,Oil,Acne,0.93,True,0.58,3,28
+HSP20211751,Skincare,Officiis Tool,Cleanser,Acne,0.75,True,0.83,2,8
+HSP20213267,Lifestyle,Fuga Oil,Oil,Pigmentation,0.73,False,0.66,5,34
+HSP20226384,Lifestyle,Cumque Cleanser,Tool,Dryness,0.72,True,0.55,5,38
+HSP20238171,Diet,Consectetur Serum,Serum,Acne,0.87,True,0.69,2,39
+HSP20255395,Lifestyle,Dolore Tool,Tool,Pigmentation,0.82,True,0.6,4,23
